@@ -84,6 +84,7 @@ def syllable(py):
 
 def pinyin_display(py):
     out = " ".join(syllable(x) for x in py.split())
+    out = re.sub(r"\s+r(?=$|\s)", "r", out)      # 兒化：zuó r -> zuór
     return out[:1].lower() + out[1:]
 
 
@@ -176,12 +177,16 @@ def sense_rank(s):
     return 1
 
 
+EMPTY_SENSE = re.compile(r"^(đọc là|cũng đọc là|cũng như|viết là|tức là|hay là)$", re.I)
+
+
 def clean_sense(s):
     s = CLS.sub("", s).strip()
+    s = re.sub(r"\[[^\]]*\]", " ", s)            # 去掉 CC-CEDICT 的 [pin1 yin1] 殘留
     s = re.sub(r"\s*\([^()]*\)\s*$", "", s)
-    s = s.strip(" ;,.")
+    s = re.sub(r"\s+", " ", s).strip(" ;,.")
     s = re.sub(r"^\([^)]*\)\s*", "", s).strip(" ;,.")
-    if NOTE.match(s):
+    if NOTE.match(s) or EMPTY_SENSE.match(s):
         return ""
     return s
 
@@ -199,9 +204,12 @@ for line in open(SRC, encoding="utf-8"):
     for x in gloss.split("/"):
         if ARCHAIC.search(x) or VARIANT.search(x):
             continue
-        c = clean_sense(x)
-        if c and not c.lower().startswith("lt:"):
-            senses.append(c)
+        # 先去掉括號說明，避免把括號內容從中間拆斷
+        clean = re.sub(r"\([^()]*\)", " ", x)
+        for part in clean.split(";"):         # 一個義項裡擠了多個近義詞，拆開
+            c = clean_sense(part)
+            if c and not c.lower().startswith("lt:") and "~" not in c:
+                senses.append(c)
     if not senses:
         continue
 
@@ -211,6 +219,15 @@ for line in open(SRC, encoding="utf-8"):
     rec["lines"].append((py, senses))
 
 rows = []
+src_dump = []
+
+# AI 校正結果（word -> 越南語對應詞），不存在就跳過
+AI_FIX = {}
+_fix_path = ROOT / "data" / "ai_fix.json"
+if _fix_path.exists():
+    AI_FIX = json.loads(_fix_path.read_text(encoding="utf-8"))
+    print("ai_fix entries", len(AI_FIX))
+
 for simp, e in merged.items():
     trads = e["trads"]
     trad = simp if simp in trads else trads[0]
@@ -221,22 +238,42 @@ for simp, e in merged.items():
         # 取義項最多的讀音（通常即常用音）
         lines.sort(key=lambda l: -len(l[1]))
         py = lines[0][0]
-        lines = [l for l in lines if l[0] == py]
     else:
         # 多字詞：取出現次數最多的讀音
         cnt = {}
         for l in lines:
             cnt[l[0]] = cnt.get(l[0], 0) + 1
         py = max(cnt.items(), key=lambda kv: kv[1])[0]
-        lines = [l for l in lines if l[0] == py]
+
+    # 主讀音的義項排前面，其餘讀音的義項保留在後（避免整條意思被丟掉）
+    main_lines = [l for l in lines if l[0] == py]
+    other_lines = [l for l in lines if l[0] != py]
+    ordered = main_lines + other_lines
+
     senses = []
-    for l in lines:
+    for l in ordered:
         for x in l[1]:
             if x not in senses:
                 senses.append(x)
     def prim(s):
         return s.split(";")[0].strip()
     senses = sorted(senses, key=lambda s: (sense_rank(s), len(prim(s).split())))
+    # 去掉括號後「họ [Leng3]」變成裸的 "họ"，會被誤當主義，排到最後
+    if len(senses) > 1:
+        bare = [s for s in senses if s.strip().lower() == "họ"]
+        if bare:
+            senses = [s for s in senses if s.strip().lower() != "họ"] + bare
+    senses_orig = senses[:]          # 校正前，供比對與外部工具使用
+
+    # AI 校正：把模型給的最常用對應詞提到第一位
+    fix = AI_FIX.get(simp) or AI_FIX.get(trad) or ""
+    fix = fix.strip()
+    if fix:
+        fl = fix.lower()
+        senses = [s for s in senses if s.lower().strip() != fl]
+        senses.insert(0, fix)
+        senses = senses[:5]
+
     pys = py.split()
     hanviet = ""
     if len(pys) == len(simp):
@@ -262,6 +299,11 @@ for simp, e in merged.items():
             break
 
     rows.append([trad, simp, pinyin_display(py), "；".join(senses[:5]), hanviet, nom])
+    src_dump.append({"s": simp, "t": trad, "y": pinyin_display(py),
+                     "g": senses_orig[:5], "h": hanviet})
+
+(ROOT / "data" / "zhvi_src.json").write_text(
+    json.dumps(src_dump, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 
 rows.sort(key=lambda r: (len(r[1]), r[1]))
 payload = json.dumps(rows, ensure_ascii=False, separators=(",", ":"))

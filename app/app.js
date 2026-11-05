@@ -42,7 +42,8 @@
   function zhuyinSyl(tok) {
     var m = /^([A-Za-zü:āáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ]+)([0-5])?$/.exec(tok);
     if (!m) return "";
-    var body = m[1], tone = parseInt(m[2] || "1", 10), mark = 0;
+    var body = m[1], tone = parseInt(m[2] || "1", 10), mark = 0, erhua = false;
+    if (body.length > 1 && body.slice(-1) === "r") { erhua = true; body = body.slice(0, -1); }
     body = body.replace(/[āáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ]/g, function (c) {
       var t = "āáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ".indexOf(c) % 4 + 1;
       mark = t;
@@ -63,8 +64,8 @@
     }
     var fin = "";
     if (body && !(/^[iuü]$/.test(body) && /[ㄓㄔㄕㄖㄗㄘㄙ]/.test(ini))) fin = ZY_FIN[body] || "";
-    if (tone === 5) return "˙" + ini + fin;
-    return ini + fin + (ZY_TONE[tone] || "");
+    if (tone === 5) return "˙" + ini + fin + (erhua ? "ㄦ" : "");
+    return ini + fin + (ZY_TONE[tone] || "") + (erhua ? "ㄦ" : "");
   }
 
   function zhuyin(py) {
@@ -356,6 +357,13 @@
     if (ev.key === "Escape") sheet.hidden = true;
     if (ev.key === "/" && document.activeElement !== input) { ev.preventDefault(); input.focus(); }
   });
+
+  // 供翻譯頁共用同一份詞庫與詳情面板
+  window.HV = {
+    ZV: ZV, NOM: NOM, bySimp: bySimp, byTrad: byTrad,
+    zhuyin: zhuyin, senses: senses, esc: esc,
+    detail: detailZv, openSheet: openSheet
+  };
 
   countEl.textContent = ZV.length.toLocaleString() + " 條詞目";
 

@@ -5,3 +5,4 @@ ios/
 *.log
 .DS_Store
 Thumbs.db
+data/zhvi_src*.json
