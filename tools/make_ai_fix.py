@@ -21,6 +21,11 @@ def is_rare(w):
     return any(0x3400 <= ord(c) <= 0x4DBF or ord(c) >= 0x20000 for c in w)
 
 
+def first_tok(s):
+    m = re.match(r"[A-Za-zÀ-ỹ]+", (s or "").strip())
+    return m.group(0) if m else ""
+
+
 def norm(s):
     s = (s or "").lower().strip()
     s = re.sub(r"[（(][^）)]*[）)]", "", s)
@@ -62,11 +67,18 @@ def main():
         if norm(cur) == norm(v):
             stats["一致"] += 1
             continue
+        if norm(v) == norm(w):
+            stats["原樣回抄(略過)"] += 1
+            continue
         if is_rare(w):
             stats["罕見字(略過)"] += 1
             continue
         if len(w) == 1 and norm(v) == "họ" and any(x.lower().startswith("họ") for x in e["g"]):
             stats["姓氏義(略過)"] += 1
+            continue
+        _ot, _nt = first_tok(cur), first_tok(v)
+        if _ot and _nt and _ot[0].isupper() and _nt[0].isupper() and _ot.lower() != _nt.lower():
+            stats["專名音譯(略過)"] += 1
             continue
         hv = (e.get("h") or "").lower().split()
         if len(w) == 1 and hv and norm(v) in [x.lower() for x in hv]:

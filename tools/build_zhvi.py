@@ -166,7 +166,40 @@ NOTE = re.compile(r"^(dùng trong|lượng từ|xem |cũng viết|viết tắt|b
 
 # 少數常見字的人工校正（來源資料錯讀）
 HV_FIX = {"你": "nhĩ", "打": "đả", "喝": "hát", "切": "thiết", "刺": "thích",
-          "看": "khán", "背": "bối", "数": "số", "在": "tại", "里": "lý", "云": "vân"}
+          "看": "khán", "背": "bối", "数": "số", "在": "tại", "里": "lý", "云": "vân",
+          "侗": "đồng"}
+
+
+def read_of(ch, p):
+    """單個音節的漢越音：先查人工校正，再查按拼音對齊的詞表，最後退到 Unihan。"""
+    tr = to_trad(ch)
+    return (HV_FIX.get(ch)
+            or hv.get((ch, p)) or hv.get((tr, p))
+            or hv.get((ch, "*")) or hv.get((tr, "*"))
+            or (KVIET.get(ch) or "").split(" ")[0]
+            or (KVIET.get(tr) or "").split(" ")[0]
+            or "")
+
+
+CSV_ROWS = {}
+for _k in hv:
+    if _k[1] != "*":
+        CSV_ROWS.setdefault(_k[0], set()).add(_k[1])
+
+
+def read_src(ch, p):
+    tr = to_trad(ch)
+    if HV_FIX.get(ch):
+        return "fix"
+    if (ch, p) in hv or (tr, p) in hv:
+        return "exact"
+    if len(CSV_ROWS.get(ch) or CSV_ROWS.get(tr) or ()) > 1:
+        return "star-multi"
+    if (ch, "*") in hv or (tr, "*") in hv:
+        return "star"
+    if KVIET.get(ch) or KVIET.get(tr):
+        return "unihan"
+    return "none"
 
 
 def sense_rank(s):
@@ -218,6 +251,36 @@ for line in open(SRC, encoding="utf-8"):
         rec["trads"].append(trad)
     rec["lines"].append((py, senses))
 
+# 用詞典自身的複音詞統計，決定每個單字的主讀音
+READ_CNT = {}
+for _simp, _e in merged.items():
+    if len(_simp) < 2:
+        continue
+    for _py, _ in _e["lines"]:
+        _pys = _py.split()
+        if len(_pys) != len(_simp):
+            continue
+        for _ch, _p in zip(_simp, _pys):
+            _r = read_of(_ch, _p)
+            if not _r:
+                continue
+            _d = READ_CNT.setdefault(_ch, {})
+            _k = _r.lower()
+            _d[_k] = _d.get(_k, 0) + 1
+
+PRIMARY = {}
+for _ch, _d in READ_CNT.items():
+    _items = sorted(_d.items(), key=lambda kv: -kv[1])
+    if len(_items) < 2:
+        continue
+    _top, _n1 = _items[0]
+    _n2 = _items[1][1]
+    if _n1 >= 3 and _n1 >= 1.3 * max(_n2, 1):
+        PRIMARY[_ch] = _top
+
+HV_CHANGED = []
+HV_SUSPECT = []
+
 rows = []
 src_dump = []
 
@@ -235,9 +298,26 @@ for simp, e in merged.items():
     lines = e["lines"]
     lines.sort(key=lambda l: sense_rank(l[1][0]) if l[1] else 9)
     if len(simp) == 1:
-        # 取義項最多的讀音（通常即常用音）
-        lines.sort(key=lambda l: -len(l[1]))
-        py = lines[0][0]
+        # 先看複音詞統計給出的主讀音，沒有才退回「義項最多的讀音」
+        want = PRIMARY.get(simp)
+        chosen = None
+        if want:
+            cand = [l for l in lines
+                    if len(l[0].split()) == 1 and read_of(simp, l[0]).lower() == want]
+            if cand:
+                cand.sort(key=lambda l: -len(l[1]))
+                chosen = cand[0][0]
+        if chosen is None:
+            lines.sort(key=lambda l: -len(l[1]))
+            chosen = lines[0][0]
+        else:
+            old = max(lines, key=lambda l: len(l[1]))[0]
+            if old != chosen:
+                HV_CHANGED.append([simp, old, chosen, read_of(simp, old), want])
+        py = chosen
+        _src = read_src(simp, py)
+        if _src in ("star-multi", "unihan", "none", "star"):
+            HV_SUSPECT.append([simp, py, read_of(simp, py), _src])
     else:
         # 多字詞：取出現次數最多的讀音
         cnt = {}
@@ -277,19 +357,9 @@ for simp, e in merged.items():
     pys = py.split()
     hanviet = ""
     if len(pys) == len(simp):
-        rs = []
-        for ch, p in zip(simp, pys):
-            tr = to_trad(ch)
-            r = (HV_FIX.get(ch)
-                 or hv.get((ch, p)) or hv.get((tr, p))
-                 or hv.get((ch, "*")) or hv.get((tr, "*"))
-                 or (KVIET.get(ch) or "").split(" ")[0]
-                 or (KVIET.get(tr) or "").split(" ")[0])
-            if not r:
-                rs = []
-                break
-            rs.append(r)
-        hanviet = " ".join(rs)
+        rs = [read_of(ch, p) for ch, p in zip(simp, pys)]
+        if all(rs):
+            hanviet = " ".join(rs)
 
     nom = ""
     for s in senses:
@@ -310,7 +380,22 @@ payload = json.dumps(rows, ensure_ascii=False, separators=(",", ":"))
 (ROOT / "app").mkdir(exist_ok=True)
 (ROOT / "app" / "zhvi.js").write_text("window.ZV=" + payload + ";\n", encoding="utf-8")
 
+(ROOT / "data" / "hv_primary.json").write_text(
+    json.dumps(PRIMARY, ensure_ascii=False, indent=0), encoding="utf-8")
+HV_CHANGED.sort(key=lambda r: r[0])
+with open(ROOT / "data" / "hv_fix_report.tsv", "w", encoding="utf-8") as f:
+    f.write("字\t原拼音\t新拼音\t原漢越音\t新漢越音\n")
+    for r in HV_CHANGED:
+        f.write("\t".join(r) + "\n")
+
 print("entries", len(rows))
+with open(ROOT / "data" / "hv_suspect.tsv", "w", encoding="utf-8") as f:
+    f.write("字\t拼音\t漢越音\t來源\n")
+    for r in sorted(HV_SUSPECT):
+        f.write("\t".join(r) + "\n")
+
+print("hanviet primary changed", len(HV_CHANGED))
+print("hanviet suspect", len(HV_SUSPECT))
 print("with hanviet", sum(1 for r in rows if r[4]))
 print("with nom", sum(1 for r in rows if r[5]))
 print("size MB %.1f" % (len(payload.encode()) / 1024 / 1024))

@@ -67,7 +67,13 @@ def load_words():
 
     core = [w for w in core if w in have]
     singles = [w for w in singles if w in have]
-    return core, singles
+    everything = []
+    seen = set()
+    for e in src:
+        if e["s"] and e["s"] not in seen:
+            seen.add(e["s"])
+            everything.append(e["s"])
+    return core, singles, everything
 
 
 def load_cache():
@@ -106,15 +112,11 @@ def post(prompt, timeout=150):
 def build_prompt(words):
     payload = {w: "" for w in words}
     return (
-        "请将以下中文文本翻译成越南语，并且严格遵循所有约束要求。\n\n"
-        "【源文】\n"
+        "请把下面 JSON 里每个中文词翻译成越南语，填进对应的 value。\n"
+        "示例：输入 {\"水\":\"\",\"鸡\":\"\"} → 输出 {\"水\":\"nước\",\"鸡\":\"gà\"}\n"
+        "要求：每个 value 只填 1 个最常用的越南语对应词，最多 4 个词，不要解释，不要加标点，不要把中文原样抄回。\n"
+        "key 必须原样保留。只输出 JSON，不要有任何额外说明。\n\n"
         + json.dumps(payload, ensure_ascii=False)
-        + "\n\n【约束要求】\n"
-        "1. 【硬性要求】每个 value 只填最常用的 1 个越南语对应词，不要解释，不要标点\n"
-        "2. 【硬性要求】保留 JSON 结构，key 保持不变\n"
-        "3. 【硬性要求】不要把中文词原样抄回 value\n\n"
-        "请以相同的 JSON 格式输出翻译结果，key 保持不变，value 为对应译文。"
-        "只输出 JSON，不要有任何额外说明。"
     )
 
 
@@ -136,6 +138,8 @@ def valid(word, val):
         return ""
     if v.startswith("(") or "/" in v:
         return ""
+    if v.lower() == word.lower():      # 原樣回抄，等於沒翻
+        return ""
     return v
 
 
@@ -152,6 +156,8 @@ def worker(q, cache, lock, done, total, stop):
             try:
                 txt = post(prompt)
                 got = parse_json(txt)
+                if not any(isinstance(v, str) and v.strip() for v in got.values()):
+                    raise ValueError("empty batch")
                 break
             except Exception as e:
                 got = {}
@@ -175,17 +181,17 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--limit", type=int, default=0)
     ap.add_argument("--workers", type=int, default=3)
-    ap.add_argument("--batch", type=int, default=30)
+    ap.add_argument("--batch", type=int, default=40)
     ap.add_argument("--tier", default="core", choices=["core", "single", "all"])
     args = ap.parse_args()
 
-    core, singles = load_words()
+    core, singles, everything = load_words()
     if args.tier == "single":
         pool = singles
     elif args.tier == "core":
         pool = core
     else:
-        pool = core + singles
+        pool = everything
     seen, words = set(), []
     for w in pool:
         if w not in seen:

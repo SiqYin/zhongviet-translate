@@ -1,6 +1,6 @@
 {
   "name": "hanviet-dict",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": true,
   "description": "漢喃詞典 — 中越雙向詞典與 AI 翻譯",
   "main": "electron/main.js",
