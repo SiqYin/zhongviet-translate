@@ -1,0 +1,400 @@
+1	[prefix in people's name]
+2	Amitābha (name of a celestial Buddha)
+3	opium
+4	who; someone, somebody
+5	everybody, everyone
+6	each and every, everyone, one and all
+7	safe; secure; peaceful
+8	England; english; [brave, hero; petal, flower]
+9	elder brother
+10	man, guy, boy
+11	elder brother and elder sister
+12	brothers and sisters, siblings
+13	brothers; siblings
+14	cousin
+15	sagely, wise, gifted, capable
+16	United Kingdom of Great Britain and Northern Ireland, England (colloquial)
+17	three
+18	father
+19	parents, father and mother
+20	time, shift
+21	during the day, in the daytime
+22	just a short time ago
+23	in the morning
+24	at night
+25	at first, initial, initially
+26	nation, country, state
+27	bag; to wrap, to bundle
+28	paper bag
+29	when; ever
+30	how long?
+31	how much, how many
+32	glove
+33	envelope
+34	to fly
+35	to know
+36	so much, so many
+37	to know (someone) by sight
+38	reasonable, judicious, sensible
+39	who knows, goodness knows
+40	ocean
+41	sea of japan
+42	Black Sea
+43	south china sea
+44	[separate, other]
+45	sad, melancholic
+46	funny
+47	melancholic, heavy-hearted
+48	tired, sleepy
+49	bored
+50	time of day; time, period, duration; working shift
+51	morning
+52	evening
+53	woman; Mrs.
+54	relative; relationship; neighbour
+55	maternal grandmother
+56	paternal grandmother
+57	lecture
+58	article (in a newspaper)
+59	song
+60	lesson
+61	task, exercise
+62	poem
+63	table; to discuss
+64	[to transfer, to move]
+65	foot
+66	chessboard; chequered board
+67	to transfer, to hand over
+68	office, secretariat; desk, writing table
+69	to discuss
+70	to dissuade (from doing something)
+71	hand
+72	dinner table
+73	uncle; aunt
+74	[extensive, comprehensive, wide, broad, rich; to gamble]
+75	one's father's elder sister-in-law
+76	scholarly, learned, knowledgeable
+77	doctor, physician, general practitioner
+78	engineer; erudition, scholarliness
+79	to sell
+80	[half, semi-]
+81	to sell on credit
+82	semi-consonant
+83	semivowel
+84	peninsula
+85	to report, to tell; newspaper
+86	[this, that]
+87	now, right now; nowadays
+88	that much, that many
+89	small, little, tiny
+90	little child
+91	side; edge
+92	outside, outer, exterior
+93	on the right side, dexter
+94	on the left side
+95	[to criticize]
+96	equal, [flat, even, level; peaceful]
+97	vase, vessel, jar
+98	peace, security
+99	to comment on
+100	thermos bottle
+101	normal, ordinary, usual; normally, usually
+102	cow, ox, beef
+103	lustrous, glossy, glittering, sparkling, radiant
+104	ball, bulb
+105	shadow; reflection (of an image)
+106	table tennis
+107	swim bladder
+108	allusive; hint
+109	moon
+110	light bulb
+111	flower
+112	flowers
+113	orchid
+114	lotus flower
+115	brush; pen
+116	step, pace; to step, to pace
+117	first step; initially
+118	silver
+119	platinum
+120	friend; fellow; comrade
+121	old friend
+122	very dear friend
+123	copy, edition; printing blocks
+124	[root, origin, source; basis]
+125	headquarters, head office
+126	native, indigenous; vernacular
+127	(geographical) map
+128	to say
+129	[to protect, to safeguard]
+130	insurance, to insure
+131	to act as guarantor for, to stand surety, to bail for
+132	to keep intact; conservation; integrity
+133	to sponsor
+134	to protect, to preserve; bodyguard, guard
+135	seven
+136	[non-, un-, not]
+137	unlucky, unfortunate
+138	inhumane, unfeeling
+139	unusual, extraordinary, special
+140	wrong
+141	north; northern
+142	Tonkin
+143	North America
+144	to catch
+145	to run into someone, to come across so.
+146	to catch fire; to light
+147	capture alive
+148	to begin, to start
+149	with, by means of, using; diploma, certificate; evidence, proof
+150	[friend, comrade, pal]
+151	evidence, proof
+152	ill, sick; disease
+153	hospital
+154	to befall; (passive preposition)
+155	[to prepare]
+156	passive
+157	to leave, to abandon, to neglect; to let, to put
+158	to run away
+159	idle, unused
+160	to abandon
+161	to leave well alone, to let pass unnoticed
+162	to forget, to leave (somewhere)
+163	to leave
+164	linen, canvas, heavy duty fabric
+165	[publicize, announce]
+166	father, dad
+167	mom and dad, parents
+168	to dispose troops in battle formation
+169	four
+170	the world (lit. "four oceans"), cf. 四海
+171	four directions (of the compass)
+172	[to step, to walk]
+173	set; part, section, division
+174	pedestrian
+175	subordinate
+176	characer radical
+177	minister
+178	(communist) soldier
+179	because
+180	abdomen
+181	painting, photograph, piece
+182	picture, painting
+183	high; tall
+184	high-class, high-ranking, high-grade
+185	plateau
+186	high-minded, noble
+187	unattainable
+188	peak, height, highest level
+189	lofty and beautiful
+190	parents
+191	to spend money, to pay
+192	to share; to divide, to split
+193	to share
+194	to say good bye; to go shares
+195	bird
+196	unit, entity, object; (classifier for vehicles or certain objects)
+197	war
+198	warship, war vessel
+199	war, warfare
+200	battle, engagement
+201	to fight, to combat
+202	direction; dimension, side
+203	height
+204	length
+205	to give; so that
+206	to tell; to inform, to notify
+207	therefore, hence
+208	common, general, public, shared
+209	final, finals
+210	matter; talk, story
+211	romance
+212	(iteration mark)
+213	young gentleman; large bladed chisel
+214	fellow, lad
+215	to greet
+216	to welcome someone; in honor of
+217	grandchild, grandchildren, grandson, granddaughter
+218	foot, leg
+219	horizon, line of horizon
+220	limbs
+221	[gem, pearl, precious stone]
+222	continent
+223	Asia
+224	Europe
+225	Oceania
+226	will, ambition
+227	nine
+228	main
+229	government; political affairs
+230	gonvernment
+231	conventional (character), traditional (character)
+232	official
+233	politics, political
+234	politician
+235	political prisoner
+236	political party
+237	dog
+238	damn, damned (colloquial)
+239	cats and dogs
+240	buddhist temple
+241	uncle; [to focus, to concentrate]
+242	annotation, to annotate (a text)
+243	to pay attention
+244	sovereign, lord, god
+245	to wish so. sth.
+246	to congratulate
+247	happy new year!
+248	testament, will
+249	masses; multitude
+250	you (plural, informal)
+251	we, us (including person addressed)
+252	we, us (not including person addressed)
+253	to play, see 𨔈
+254	to play
+255	to play on words; wordplay
+256	play football (soccer)
+257	not yet; already (used in questions)
+258	never
+259	unprecedented
+260	chapter, section
+261	programme, schedule; computer program, software
+262	to run
+263	to run, to walk, to do jogging
+264	to run after
+265	[to execute; to grasp, to seize]
+266	to seize power, to assume power
+267	to implement, to execute, to carry out
+268	sure; solid, firm, steady
+269	to be in stable position, to be firm
+270	not at all
+271	nobody
+272	not to need
+273	nothing at all
+274	otherwise
+275	it doesn't matter, never mind
+276	rather, better
+277	to be not much better either, no less terrible
+278	to prepare (medicine); to pour (water); [to regulate; system]
+279	to manufacture, to produce
+280	finished product
+281	to invent, to create
+282	to manufacture
+283	regulation; (societal) system
+284	death; to die
+285	damn it, damn, damned (colloquial)
+286	to be thunderstruck, to be stunned
+287	[to stop; to detain]
+288	[site, location]
+289	only; merely
+290	thread; yarn
+291	to show, to indicate, to instruct
+292	to direct, to instruct
+293	to counsel, to educate
+294	to guide; guide (book)
+295	index, index number
+296	economic index
+297	to instruct; instructions
+298	to pinpoint, to inform, to indicate
+299	to appoint, to assign
+300	sister; young woman
+301	sisters; siblings
+302	to sustain, to accept, to bear, to stand
+303	to take pains
+304	to select, to choose
+305	husband
+306	place, space, room, spot
+307	to wait
+308	to wait and see
+309	owner; chief; lord
+310	chief editor, editor-in-chief
+311	master, owner
+312	sunday
+313	main part, essential part; subject
+314	leader, ruler
+315	theme, subject, motif, leitmotiv
+316	certainly, of course
+317	(suggestive) or how else ...? certainly! of course!
+318	office; [to organize]
+319	to produce evidence, to prove
+320	see 𡦂
+321	letter (of a script or alphabet); writing system, script; word
+322	Chinese writing system; Chinese characters
+323	difficult character
+324	Han ideogram, Han script
+325	Chu Nom
+326	Red Cross
+327	writing, script
+328	to look; to watch
+329	to think little of
+330	child
+331	gal, little girl, little miss
+332	girl; daughter
+333	the only child
+334	man, human
+335	boy; son
+336	curved, bent; to bend
+337	palace
+338	bow, arc, curve; curved
+339	bow and arrow
+340	royal palace
+341	palace, temple
+342	book, volume, copy
+343	to roll up, to curl up, to convolve
+344	to roll up, to curl up
+345	to wind up, to spool, to coil
+346	book
+347	match, game; [circumstances]
+348	life, existence
+349	the ... the; all the more
+350	fish
+351	saltwater fish, sea fish
+352	goldfish
+353	freshwater fish
+354	each; every; all
+355	friends; you (plural)
+356	ladies and gentlemen, everybody; you (plural)
+357	way; method; manner
+358	[reform; revolution]
+359	way to do (something)
+360	revolution
+361	a; the; (numeral)
+362	what
+363	this
+364	that
+365	thanks, thank you
+366	to weigh; scale, balance; weight; kilogram
+367	letter balance
+368	sentence
+369	tale, story
+370	question
+371	tree, plant
+372	milestone; kilometer
+373	pen
+374	still; remaining; besides, also
+375	to remain; remaining, other
+376	there is; to have; sure, of course
+377	to be married (woman)
+378	sometimes; perhaps, maybe
+379	right, reasonable; sensible
+380	to have the right to
+381	possibly, maybe; may, can
+382	advanced in years, aged
+383	to seem, to look, to appear
+384	except, just, only that...
+385	Ms., young woman; father's sister; husband's mother
+386	woman teacher, schoolmistress
+387	gal, girl
+388	[achievement]
+389	work; labour
+390	public; common
+391	police; policeman
+392	to publish, to proclaim
+393	industry
+394	craft, industry
+395	worker; blue-collar worker
+396	to recognize, to accept, to accredit
+397	formula
+398	company, corporation
+399	mission; business
+400	work; employment

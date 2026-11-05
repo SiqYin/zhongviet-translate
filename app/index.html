@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#faf7f2">
+<title>漢喃詞典 · Hán Nôm</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand">
+    <h1>漢喃詞典</h1>
+    <p class="sub">漢語 · 越南語 · 字喃</p>
+  </div>
+  <div class="searchbox">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L20 20"/></svg>
+    <input id="q" type="search" autocomplete="off" spellcheck="false"
+           placeholder="輸入中文詞或越南語">
+    <button id="clear" aria-label="清除" hidden>×</button>
+  </div>
+  <div class="hint" id="hint">例：雞 ／ 苹果 ／ 电脑 ／ nước ／ gà</div>
+</header>
+
+<main id="main">
+  <section id="results" aria-live="polite"></section>
+  <section id="empty" class="empty" hidden>
+    <p class="big">沒有找到</p>
+    <p class="small">可以換個說法，或試試單字。</p>
+  </section>
+</main>
+
+<div id="sheet" class="sheet" hidden>
+  <div class="sheet-card" role="dialog" aria-modal="true">
+    <button id="close" class="close" aria-label="關閉">×</button>
+    <div id="sheet-body"></div>
+  </div>
+</div>
+
+<footer class="foot">
+  <span id="count"></span>
+  <span class="dot">·</span>
+  <span>漢越詞庫 CVDICT · 字喃 chunom.org</span>
+</footer>
+
+<script src="nom.js?v=2"></script>
+<script src="zhvi.js?v=2"></script>
+<script src="app.js?v=2"></script>
+</body>
+</html>

@@ -1,0 +1,7107 @@
+[
+{
+"vi": "một ít",
+"nom": "𠬠𠃣",
+"en": "a little bit, a tiny bit"
+},
+{
+"vi": "số ít",
+"nom": "数𠃣",
+"en": "singular; minority"
+},
+{
+"vi": "ít có",
+"nom": "𠃣固",
+"en": "to be rare to find, to be scarce"
+},
+{
+"vi": "ít khi",
+"nom": "𠃣欺",
+"en": "rarely, seldom"
+},
+{
+"vi": "ít lâu",
+"nom": "𠃣𥹰",
+"en": "a little while, soon, shortly"
+},
+{
+"vi": "ít lời",
+"nom": "𠃣𠳒",
+"en": "uncommunicative, ineloquent"
+},
+{
+"vi": "ít nhiều",
+"nom": "𠃣𡗉",
+"en": "a little"
+},
+{
+"vi": "ít nhất",
+"nom": "𠃣一",
+"en": "at least"
+},
+{
+"vi": "ít ra",
+"nom": "𠃣𫥨",
+"en": "at least"
+},
+{
+"vi": "ít tuổi",
+"nom": "𠃣歲",
+"en": "still young"
+},
+{
+"vi": "trúng số",
+"nom": "𠁦数",
+"en": "to win (a lottery)"
+},
+{
+"vi": "cuộc đời",
+"nom": "局𠁀",
+"en": "life, existence"
+},
+{
+"vi": "già đời",
+"nom": "𦓅𠁀",
+"en": "for many years of life, the whole life"
+},
+{
+"vi": "lâu đời",
+"nom": "𥹰𠁀",
+"en": "long-standing"
+},
+{
+"vi": "nhớ đời",
+"nom": "𢖵𠁀",
+"en": "remember (something) all one's life"
+},
+{
+"vi": "qua đời",
+"nom": "戈𠁀",
+"en": "to pass away"
+},
+{
+"vi": "đời sống",
+"nom": "𠁀𤯩",
+"en": "life, lifetime, living"
+},
+{
+"vi": "đứa bé",
+"nom": "𠁂𡮣",
+"en": "a child"
+},
+{
+"vi": "hai mặt",
+"nom": "𠄩𩈘",
+"en": "double-faced, decitful, duplicitous"
+},
+{
+"vi": "thứ hai",
+"nom": "次𠄩",
+"en": "monday; second"
+},
+{
+"vi": "thứ ba",
+"nom": "次𠀧",
+"en": "tuesday; third"
+},
+{
+"vi": "đôi ba",
+"nom": "堆𠀧",
+"en": "a few"
+},
+{
+"vi": "một vài",
+"nom": "𠬠𠄧",
+"en": "some, several, quite a few"
+},
+{
+"vi": "mất dạy",
+"nom": "𠅍𠰺",
+"en": "mannerless, ill-bred"
+},
+{
+"vi": "mất mùa",
+"nom": "𠅍务",
+"en": "to have a poor crop"
+},
+{
+"vi": "bỏ quên",
+"nom": "𠬃𠅳",
+"en": "to forget, to leave (somewhere)"
+},
+{
+"vi": "quên mình",
+"nom": "𠅳𨉟",
+"en": "self-sacrificing, devotional"
+},
+{
+"vi": "thứ năm",
+"nom": "次𠄼",
+"en": "thursday; fifth"
+},
+{
+"vi": "mấy ai",
+"nom": "𠇍埃",
+"en": "few people"
+},
+{
+"vi": "mấy khi",
+"nom": "𠇍欺",
+"en": "rarely, seldom, few times"
+},
+{
+"vi": "con người",
+"nom": "𡥵𠊛",
+"en": "man, human"
+},
+{
+"vi": "mạng người",
+"nom": "命𠊛",
+"en": "life"
+},
+{
+"vi": "mọi người",
+"nom": "𤞦𠊛",
+"en": "everybody, everyone"
+},
+{
+"vi": "người ta",
+"nom": "𠊛些",
+"en": "people; they"
+},
+{
+"vi": "người việt",
+"nom": "𠊛越",
+"en": "vietnamese person; vietnamese people"
+},
+{
+"vi": "người xưa",
+"nom": "𠊛𠸗",
+"en": "the ancients, ancient people"
+},
+{
+"vi": "nên người",
+"nom": "𢧚𠊛",
+"en": "to become a good person"
+},
+{
+"vi": "chúng mày",
+"nom": "眾𠋥",
+"en": "you (plural, informal)"
+},
+{
+"vi": "thằng bé",
+"nom": "𠊟𡮣",
+"en": "little guy, kid"
+},
+{
+"vi": "thằng nhỏ",
+"nom": "𠊟𡮈",
+"en": "little guy; the younger (of two males)"
+},
+{
+"vi": "hồi trước",
+"nom": "徊𠓀",
+"en": "in the past, before"
+},
+{
+"vi": "phía trước",
+"nom": "𪰂𠓀",
+"en": "in the front"
+},
+{
+"vi": "trước khi",
+"nom": "𠓀欺",
+"en": "before (at an earlier time)"
+},
+{
+"vi": "trước mặt",
+"nom": "𠓀𩈘",
+"en": "in the presence of, facing, directly in front of so."
+},
+{
+"vi": "trước sau",
+"nom": "𠓀𡢐",
+"en": "inevitably, sooner or later"
+},
+{
+"vi": "trước đây",
+"nom": "𠓀低",
+"en": "before, previously"
+},
+{
+"vi": "giúp đỡ",
+"nom": "𠢞拖",
+"en": "to help, to assist"
+},
+{
+"vi": "ra vào",
+"nom": "𫥨𠓨",
+"en": "to go in and out"
+},
+{
+"vi": "vào khoảng",
+"nom": "𠓨曠",
+"en": "about, around, circa"
+},
+{
+"vi": "đi vào",
+"nom": "𠫾𠓨",
+"en": "to enter, to go in"
+},
+{
+"vi": "máy bay",
+"nom": "𣛠𠖤",
+"en": "airplane"
+},
+{
+"vi": "trường bay",
+"nom": "場𠖤",
+"en": "airport"
+},
+{
+"vi": "một nghìn",
+"nom": "𠬠𠦳",
+"en": "one thousand"
+},
+{
+"vi": "bỏ đi",
+"nom": "𠬃𠫾",
+"en": "to leave"
+},
+{
+"vi": "ra đi",
+"nom": "𫥨𠫾",
+"en": "to leave, to go off"
+},
+{
+"vi": "áo đi mưa",
+"nom": "襖𠫾𩅹",
+"en": "raincoat"
+},
+{
+"vi": "đi bộ",
+"nom": "𠫾步",
+"en": "to walk (on foot); to stroll"
+},
+{
+"vi": "đi chân",
+"nom": "𠫾蹎",
+"en": "to walk, to stroll; to go barefoot"
+},
+{
+"vi": "đi chơi",
+"nom": "𠫾𨔈",
+"en": "to go out; to be out"
+},
+{
+"vi": "đi khỏi",
+"nom": "𠫾塊",
+"en": "to disappear, to vanish, to go away completely"
+},
+{
+"vi": "đi làm",
+"nom": "𠫾爫",
+"en": "to go to work"
+},
+{
+"vi": "đi làm việc",
+"nom": "𠫾爫役",
+"en": "to go to work"
+},
+{
+"vi": "đi nằm",
+"nom": "𠫾𦣰",
+"en": "to go to bed"
+},
+{
+"vi": "đi qua",
+"nom": "𠫾戈",
+"en": "to go across, to cross"
+},
+{
+"vi": "đi ra",
+"nom": "𠫾𫥨",
+"en": "to step out, to leave (a room)"
+},
+{
+"vi": "đi theo",
+"nom": "𠫾遶",
+"en": "to follow, to go with so., to come with so.; to accompany"
+},
+{
+"vi": "đi về",
+"nom": "𠫾𧗱",
+"en": "to go home"
+},
+{
+"vi": "đi đi lại lại",
+"nom": "𠫾ㇴ吏ㇴ",
+"en": "to pace around, to go back and forth"
+},
+{
+"vi": "đường đi",
+"nom": "塘𠫾",
+"en": "way, footway"
+},
+{
+"vi": "con một",
+"nom": "𡥵𠬠",
+"en": "the only child"
+},
+{
+"vi": "một cái",
+"nom": "𠬠丐",
+"en": "one (piece)"
+},
+{
+"vi": "một hơi",
+"nom": "𠬠唏",
+"en": "in one go, at a stretch"
+},
+{
+"vi": "một hồi",
+"nom": "𠬠徊",
+"en": "a while"
+},
+{
+"vi": "một lúc",
+"nom": "𠬠𣅶",
+"en": "a moment"
+},
+{
+"vi": "một lần",
+"nom": "𠬠吝",
+"en": "once"
+},
+{
+"vi": "một triệu",
+"nom": "𠬠兆",
+"en": "one million"
+},
+{
+"vi": "một trăm",
+"nom": "𠬠𤾓",
+"en": "one hundred"
+},
+{
+"vi": "một vạn",
+"nom": "𠬠万",
+"en": "ten thousand"
+},
+{
+"vi": "một đôi",
+"nom": "𠬠堆",
+"en": "a few, some"
+},
+{
+"vi": "giữ miệng",
+"nom": "𡨹𠰘",
+"en": "to be cautious in one's words, to hold one's tongue"
+},
+{
+"vi": "luôn miệng",
+"nom": "輪𠰘",
+"en": "to talk incessantly"
+},
+{
+"vi": "mở miệng",
+"nom": "𨷑𠰘",
+"en": "to speak out, to pipe up"
+},
+{
+"vi": "ngon miệng",
+"nom": "𤯆𠰘",
+"en": "tasty; with good appetite"
+},
+{
+"vi": "ngoài miệng",
+"nom": "外𠰘",
+"en": "lip service"
+},
+{
+"vi": "dạy bảo",
+"nom": "𠰺保",
+"en": "to elevate, to bring up"
+},
+{
+"vi": "dạy học",
+"nom": "𠰺学",
+"en": "to teach (at a school)"
+},
+{
+"vi": "bỏ chạy",
+"nom": "𠬃𧼋",
+"en": "to run away"
+},
+{
+"vi": "bỏ không",
+"nom": "𠬃空",
+"en": "idle, unused"
+},
+{
+"vi": "bỏ mặc",
+"nom": "𠬃默",
+"en": "to abandon"
+},
+{
+"vi": "bỏ qua",
+"nom": "𠬃戈",
+"en": "to leave well alone, to let pass unnoticed"
+},
+{
+"vi": "nếu không",
+"nom": "𠮩空",
+"en": "if not; otherwise, or else"
+},
+{
+"vi": "chẳng nữa",
+"nom": "庄𠯆",
+"en": "otherwise"
+},
+{
+"vi": "sau nữa",
+"nom": "𡢐𠯆",
+"en": "moreover"
+},
+{
+"vi": "dạ vâng",
+"nom": "唯𠳐",
+"en": "yes; all right"
+},
+{
+"vi": "vâng lời",
+"nom": "𠳐𠳒",
+"en": "to obey, to comply with"
+},
+{
+"vi": "giữ lời",
+"nom": "𡨹𠳒",
+"en": "to keep one's word"
+},
+{
+"vi": "nghe lời",
+"nom": "𦖑𠳒",
+"en": "to take someone's advice, to listen to someone"
+},
+{
+"vi": "nhiều lời",
+"nom": "𡗉𠳒",
+"en": "talkative, garrulous, gossip"
+},
+{
+"vi": "nhận lời",
+"nom": "認𠳒",
+"en": "to accept, to agree"
+},
+{
+"vi": "trả lời",
+"nom": "呂𠳒",
+"en": "to answer, to reply, to respond"
+},
+{
+"vi": "đỡ lời",
+"nom": "拖𠳒",
+"en": "to speak for (someone), to deliver a message"
+},
+{
+"vi": "câu hỏi",
+"nom": "句𠳨",
+"en": "question"
+},
+{
+"vi": "hỏi thăm",
+"nom": "𠳨探",
+"en": "to ask after, inquire about (someone)"
+},
+{
+"vi": "sang tên",
+"nom": "𨖅𠸜",
+"en": "to transfer"
+},
+{
+"vi": "tên gọi",
+"nom": "𠸜噲",
+"en": "name"
+},
+{
+"vi": "tên họ",
+"nom": "𠸜户",
+"en": "family name; last name"
+},
+{
+"vi": "tên tục",
+"nom": "𠸜俗",
+"en": "birth name"
+},
+{
+"vi": "đặt tên",
+"nom": "噠𠸜",
+"en": "to name, to give a name"
+},
+{
+"vi": "hôm xưa",
+"nom": "歆𠸗",
+"en": "one long past day"
+},
+{
+"vi": "hồi xưa",
+"nom": "徊𠸗",
+"en": "in earlier times, in former times"
+},
+{
+"vi": "ngày xưa",
+"nom": "𣈜𠸗",
+"en": "formerly, once, back then, in the past"
+},
+{
+"vi": "năm xưa",
+"nom": "𢆥𠸗",
+"en": "long ago"
+},
+{
+"vi": "sau xưa",
+"nom": "𡢐𠸗",
+"en": "from before and after"
+},
+{
+"vi": "xưa kia",
+"nom": "𠸗箕",
+"en": "formerly"
+},
+{
+"vi": "chứ sao",
+"nom": "𠹲牢",
+"en": "(suggestive) or how else ...? certainly! of course!"
+},
+{
+"vi": "bán chịu",
+"nom": "𧸝𠹾",
+"en": "to sell on credit"
+},
+{
+"vi": "chịu khó",
+"nom": "𠹾𧁷",
+"en": "to take pains"
+},
+{
+"vi": "dễ chịu",
+"nom": "易𠹾",
+"en": "agreeable, pleasant, cozy"
+},
+{
+"vi": "khó chịu",
+"nom": "𧁷𠹾",
+"en": "grumpy; unbearable"
+},
+{
+"vi": "dù rằng",
+"nom": "𠶢浪",
+"en": "though; although"
+},
+{
+"vi": "dù sao",
+"nom": "𠶢牢",
+"en": "anyhow; anyway"
+},
+{
+"vi": "mặc dù",
+"nom": "默𠶢",
+"en": "though; allthough"
+},
+{
+"vi": "mặc dầu",
+"nom": "默𠶢",
+"en": "though; although"
+},
+{
+"vi": "chuyện tình",
+"nom": "𡀯情",
+"en": "romance"
+},
+{
+"vi": "câu chuyện",
+"nom": "句𡀯",
+"en": "tale, story"
+},
+{
+"vi": "gây chuyện",
+"nom": "𢲧𡀯",
+"en": "to be quarrelsome; to pick a quarrel (with sb.)"
+},
+{
+"vi": "nói chuyện",
+"nom": "呐𡀯",
+"en": "to talk"
+},
+{
+"vi": "giữ chỗ",
+"nom": "𡨹𡊲",
+"en": "to occupy a seat"
+},
+{
+"vi": "tại chỗ",
+"nom": "在𡊲",
+"en": "right away, immediately, on the spot"
+},
+{
+"vi": "hòn đảo",
+"nom": "𡉕島",
+"en": "(small) island"
+},
+{
+"vi": "ngồi không",
+"nom": "𡎥空",
+"en": "to idle away"
+},
+{
+"vi": "nhóm trưởng",
+"nom": "𡖡長",
+"en": "group leader, team leader"
+},
+{
+"vi": "nhiều khi",
+"nom": "𡗉欺",
+"en": "sometimes; often times"
+},
+{
+"vi": "phần nhiều",
+"nom": "分𡗉",
+"en": "most, the greatest part"
+},
+{
+"vi": "xây dựng",
+"nom": "𡏦𥩯",
+"en": "to build, to construct"
+},
+{
+"vi": "quá lắm",
+"nom": "過𡗋",
+"en": "too much"
+},
+{
+"vi": "kêu trời",
+"nom": "叫𡗶",
+"en": "to implore God, to beseech God, to pray for help"
+},
+{
+"vi": "mặt trời",
+"nom": "𩈘𡗶",
+"en": "sun"
+},
+{
+"vi": "nhờ trời",
+"nom": "𢘾𡗶",
+"en": "thank heaven!"
+},
+{
+"vi": "trời mưa",
+"nom": "𡗶𩅹",
+"en": "rainy weather"
+},
+{
+"vi": "xanh da trời",
+"nom": "撑䏧𡗶",
+"en": "sky blue; azure"
+},
+{
+"vi": "kẻ lớn",
+"nom": "仉𡘯",
+"en": "the mighty, the privileged"
+},
+{
+"vi": "phần lớn",
+"nom": "分𡘯",
+"en": "the most, the lion's share, bulk"
+},
+{
+"vi": "to lớn",
+"nom": "𡚢𡘯",
+"en": "big and tall; bulky; great"
+},
+{
+"vi": "vợ chồng",
+"nom": "𡞕重",
+"en": "couple, maried couple"
+},
+{
+"vi": "hôm sau",
+"nom": "歆𡢐",
+"en": "the next day, the following day"
+},
+{
+"vi": "ngày sau",
+"nom": "𣈜𡢐",
+"en": "in a distant future"
+},
+{
+"vi": "sau cùng",
+"nom": "𡢐共",
+"en": "at the very end"
+},
+{
+"vi": "sau hết",
+"nom": "𡢐歇",
+"en": "finally, at the end"
+},
+{
+"vi": "sau khi",
+"nom": "𡢐欺",
+"en": "later, after, thereafter"
+},
+{
+"vi": "sau này",
+"nom": "𡢐尼",
+"en": "afterwards, later, in the future"
+},
+{
+"vi": "sau đây",
+"nom": "𡢐低",
+"en": "hereafter, following"
+},
+{
+"vi": "sau đó",
+"nom": "𡢐妬",
+"en": "after that"
+},
+{
+"vi": "chơi chữ",
+"nom": "𨔈𡦂",
+"en": "to play on words; wordplay"
+},
+{
+"vi": "chữ hán",
+"nom": "𡦂漢",
+"en": "Chinese writing system; Chinese characters"
+},
+{
+"vi": "chữ mắt",
+"nom": "𡦂眜",
+"en": "difficult character"
+},
+{
+"vi": "chữ nho",
+"nom": "𡦂儒",
+"en": "Han ideogram, Han script"
+},
+{
+"vi": "chữ nôm",
+"nom": "𡦂喃",
+"en": "Chu Nom"
+},
+{
+"vi": "chữ thập đỏ",
+"nom": "𡦂十𧹼",
+"en": "Red Cross"
+},
+{
+"vi": "chữ viết",
+"nom": "𡦂曰",
+"en": "writing, script"
+},
+{
+"vi": "hàng chữ",
+"nom": "行𡦂",
+"en": "line of text"
+},
+{
+"vi": "bà con",
+"nom": "妑𡥵",
+"en": "relative; relationship; neighbour"
+},
+{
+"vi": "bé con",
+"nom": "𡮣𡥵",
+"en": "little child"
+},
+{
+"vi": "con bé",
+"nom": "𡥵𡮣",
+"en": "gal, little girl, little miss"
+},
+{
+"vi": "con gái",
+"nom": "𡥵𡛔",
+"en": "girl; daughter"
+},
+{
+"vi": "con trai",
+"nom": "𡥵𤳇",
+"en": "boy; son"
+},
+{
+"vi": "trẻ con",
+"nom": "𥘷𡥵",
+"en": "child; childish"
+},
+{
+"vi": "kẻ nhỏ",
+"nom": "仉𡮈",
+"en": "the average, the ordinary man"
+},
+{
+"vi": "nhỏ tuổi",
+"nom": "𡮈歲",
+"en": "still very young (in age)"
+},
+{
+"vi": "nhỏ yếu",
+"nom": "𡮈要",
+"en": "small and weak"
+},
+{
+"vi": "em bé",
+"nom": "㛪𡮣",
+"en": "little child; baby"
+},
+{
+"vi": "bác gái",
+"nom": "伯𡛔",
+"en": "one's father's elder sister-in-law"
+},
+{
+"vi": "giữ lòng",
+"nom": "𡨹𢚸",
+"en": "to take care of ones heart"
+},
+{
+"vi": "giữ ý",
+"nom": "𡨹意",
+"en": "to be thoughtful"
+},
+{
+"vi": "dãy núi",
+"nom": "𧿆𡶀",
+"en": "chain of mountains, cordillera"
+},
+{
+"vi": "núi lửa",
+"nom": "𡶀焒",
+"en": "volcano"
+},
+{
+"vi": "núi non",
+"nom": "𡶀𡽫",
+"en": "mountains"
+},
+{
+"vi": "núi sông",
+"nom": "𡶀滝",
+"en": "country, land"
+},
+{
+"vi": "bố mẹ",
+"nom": "𢂞媄",
+"en": "mom and dad, parents"
+},
+{
+"vi": "non nước",
+"nom": "𡽫渃",
+"en": "fatherland"
+},
+{
+"vi": "non sông",
+"nom": "𡽫滝",
+"en": "home country"
+},
+{
+"vi": "chúc mừng năm mới",
+"nom": "祝𢜠𢆥㵋",
+"en": "happy new year!"
+},
+{
+"vi": "năm kia",
+"nom": "𢆥箕",
+"en": "the year before last year"
+},
+{
+"vi": "sang năm",
+"nom": "𨖅𢆥",
+"en": "next year"
+},
+{
+"vi": "lo buồn",
+"nom": "𢗼𢞂",
+"en": "full of cares, sorrowful"
+},
+{
+"vi": "nhớ lại",
+"nom": "𢖵吏",
+"en": "to reminisce"
+},
+{
+"vi": "nhớ nhà",
+"nom": "𢖵茹",
+"en": "homesick; to be sick for home"
+},
+{
+"vi": "nhớ ra",
+"nom": "𢖵𫥨",
+"en": "to recall, to bring (something) to mind"
+},
+{
+"vi": "nhớ thương",
+"nom": "𢖵傷",
+"en": "to grieve for"
+},
+{
+"vi": "nhớ tiếc",
+"nom": "𢖵惜",
+"en": "to think with deep regret of"
+},
+{
+"vi": "tưởng nhớ",
+"nom": "想𢖵",
+"en": "to memorize"
+},
+{
+"vi": "buồn lòng",
+"nom": "𢞂𢚸",
+"en": "melancholic, heavy-hearted"
+},
+{
+"vi": "học thuộc lòng",
+"nom": "学屬𢚸",
+"en": "to memorize, to learn something by heart"
+},
+{
+"vi": "khó lòng",
+"nom": "𧁷𢚸",
+"en": "unlikely"
+},
+{
+"vi": "lòng tốt",
+"nom": "𢚸卒",
+"en": "kind, kindness"
+},
+{
+"vi": "lửa lòng",
+"nom": "焒𢚸",
+"en": "lust, desire"
+},
+{
+"vi": "thuộc lòng",
+"nom": "屬𢚸",
+"en": "(to know or learn something) by heart"
+},
+{
+"vi": "vui lòng",
+"nom": "𢝙𢚸",
+"en": "to be content, pleased, happy"
+},
+{
+"vi": "đẹp lòng",
+"nom": "𢢲𢚸",
+"en": "to be satisfied, to be pleased"
+},
+{
+"vi": "chào mừng",
+"nom": "嘲𢜠",
+"en": "to welcome someone; in honor of"
+},
+{
+"vi": "chúc mừng",
+"nom": "祝𢜠",
+"en": "to congratulate"
+},
+{
+"vi": "mừng tuổi",
+"nom": "𢜠歲",
+"en": "to express new year's day wishes (for being one year older)"
+},
+{
+"vi": "ăn mừng",
+"nom": "咹𢜠",
+"en": "to celebrate with a feast"
+},
+{
+"vi": "buồn cười",
+"nom": "𢞂唭",
+"en": "funny"
+},
+{
+"vi": "buồn ngủ",
+"nom": "𢞂𥄬",
+"en": "tired, sleepy"
+},
+{
+"vi": "buồn tình",
+"nom": "𢞂情",
+"en": "bored"
+},
+{
+"vi": "tình yêu",
+"nom": "情𢞅",
+"en": "love; passion"
+},
+{
+"vi": "chắc chân",
+"nom": "𢟘蹎",
+"en": "to be in stable position, to be firm"
+},
+{
+"vi": "cho nên",
+"nom": "朱𢧚",
+"en": "therefore, hence"
+},
+{
+"vi": "trở nên",
+"nom": "𧿨𢧚",
+"en": "to become, to turn"
+},
+{
+"vi": "cao đẹp",
+"nom": "高𢢲",
+"en": "lofty and beautiful"
+},
+{
+"vi": "sắc đẹp",
+"nom": "色𢢲",
+"en": "beauty, glamour"
+},
+{
+"vi": "đẹp lão",
+"nom": "𢢲老",
+"en": "hale, hale and hearty"
+},
+{
+"vi": "đẹp trai",
+"nom": "𢢲𤳇",
+"en": "handsome"
+},
+{
+"vi": "đẹp ý",
+"nom": "𢢲意",
+"en": "to be pleasing, to content"
+},
+{
+"vi": "đệp duyên",
+"nom": "𢢲縁",
+"en": "to make a match between two people"
+},
+{
+"vi": "chia sẻ",
+"nom": "𢺺𢩿",
+"en": "to share"
+},
+{
+"vi": "cảm nghĩ",
+"nom": "感𢪀",
+"en": "feelings, impressions, sentiment"
+},
+{
+"vi": "khó nghĩ",
+"nom": "𧁷𢪀",
+"en": "to be at a loss"
+},
+{
+"vi": "nghĩ bụng",
+"nom": "𢪀䏾",
+"en": "to think to oneself"
+},
+{
+"vi": "nghĩ lại",
+"nom": "𢪀吏",
+"en": "to reconsider, to change one's mind, to have second thoughts"
+},
+{
+"vi": "nghĩ ra",
+"nom": "𢪀𫥨",
+"en": "to recall; to think sth. out"
+},
+{
+"vi": "ý nghĩ",
+"nom": "意𢪀",
+"en": "thought, idea"
+},
+{
+"vi": "bao tay",
+"nom": "包𢬣",
+"en": "glove"
+},
+{
+"vi": "bàn tay",
+"nom": "盘𢬣",
+"en": "hand"
+},
+{
+"vi": "chia tay",
+"nom": "𢺺𢬣",
+"en": "to say good bye; to go shares"
+},
+{
+"vi": "chân tay",
+"nom": "蹎𢬣",
+"en": "limbs"
+},
+{
+"vi": "tay trắng",
+"nom": "𢬣𤽸",
+"en": "bare hands"
+},
+{
+"vi": "vói tay",
+"nom": "𢭲𢬣",
+"en": "to reach (out) for sth., to strech out one's arm (for sth.)"
+},
+{
+"vi": "vói tới",
+"nom": "𢭲細",
+"en": "to reach sth."
+},
+{
+"vi": "thay đổi",
+"nom": "台𢬭",
+"en": "to change, to modify"
+},
+{
+"vi": "đổi mới",
+"nom": "𢬭㵋",
+"en": "to innovate, to renovate"
+},
+{
+"vi": "chọn lựa",
+"nom": "𢮪攎",
+"en": "to select, to choose"
+},
+{
+"vi": "lựa chọn",
+"nom": "攎𢮪",
+"en": "to select, to choose"
+},
+{
+"vi": "gây chiến",
+"nom": "𢲧戰",
+"en": "to provoke a war; to be a warmonger"
+},
+{
+"vi": "gây dựng",
+"nom": "𢲧𥩯",
+"en": "to found, to stablish"
+},
+{
+"vi": "phân chia",
+"nom": "分𢺺",
+"en": "to divide"
+},
+{
+"vi": "chẳng vừa",
+"nom": "庄𣃣",
+"en": "to be not much better either, no less terrible"
+},
+{
+"vi": "bao giờ",
+"nom": "包𣇞",
+"en": "when; ever"
+},
+{
+"vi": "bây giờ",
+"nom": "悲𣇞",
+"en": "now, right now; nowadays"
+},
+{
+"vi": "chẳng bao giờ",
+"nom": "庄包𣇞",
+"en": "never"
+},
+{
+"vi": "giờ làm việc",
+"nom": "𣇞爫役",
+"en": "working hours"
+},
+{
+"vi": "giờ lâu",
+"nom": "𣇞𥹰",
+"en": "a long while"
+},
+{
+"vi": "giờ đây",
+"nom": "𣇞低",
+"en": "now; nowadays"
+},
+{
+"vi": "không bao giờ",
+"nom": "空包𣇞",
+"en": "never"
+},
+{
+"vi": "thì giờ",
+"nom": "時𣇞",
+"en": "time"
+},
+{
+"vi": "ban ngày",
+"nom": "班𣈜",
+"en": "during the day, in the daytime"
+},
+{
+"vi": "ngày kia",
+"nom": "𣈜箕",
+"en": "the day after tomorrow"
+},
+{
+"vi": "ngày lễ",
+"nom": "𣈜礼",
+"en": "holiday; feast-day"
+},
+{
+"vi": "ngày mùa",
+"nom": "𣈜务",
+"en": "harvest time"
+},
+{
+"vi": "ngày nay",
+"nom": "𣈜𫢩",
+"en": "today"
+},
+{
+"vi": "ngày tháng",
+"nom": "𣈜𣎃",
+"en": "date, date specification"
+},
+{
+"vi": "ngày thường",
+"nom": "𣈜常",
+"en": "weekday"
+},
+{
+"vi": "thường ngày",
+"nom": "常𣈜",
+"en": "everyday"
+},
+{
+"vi": "tối ngày",
+"nom": "最𣈜",
+"en": "all day long, day and night"
+},
+{
+"vi": "sao hoả",
+"nom": "𣋀火",
+"en": "Mars"
+},
+{
+"vi": "sao hải vương",
+"nom": "𣋀海王",
+"en": "Neptune"
+},
+{
+"vi": "sao kim",
+"nom": "𣋀金",
+"en": "Venus"
+},
+{
+"vi": "sao thiên vương",
+"nom": "𣋀天王",
+"en": "Uranus"
+},
+{
+"vi": "sao thuỷ",
+"nom": "𣋀水",
+"en": "Mercury (planet)"
+},
+{
+"vi": "sao thổ",
+"nom": "𣋀土",
+"en": "Saturn"
+},
+{
+"vi": "nửa đêm",
+"nom": "姅𣎀",
+"en": "midnight; in the middle of the night"
+},
+{
+"vi": "lúc này",
+"nom": "𣅶尼",
+"en": "currently; at present"
+},
+{
+"vi": "buổi sáng",
+"nom": "𣇜𤎜",
+"en": "morning"
+},
+{
+"vi": "buổi tối",
+"nom": "𣇜最",
+"en": "evening"
+},
+{
+"vi": "bóng bàn",
+"nom": "𣈖盘",
+"en": "table tennis"
+},
+{
+"vi": "bóng cá",
+"nom": "𣈖𩵜",
+"en": "swim bladder"
+},
+{
+"vi": "bóng gió",
+"nom": "𣈖䬔",
+"en": "allusive; hint"
+},
+{
+"vi": "bóng trăng",
+"nom": "𣈖𦝄",
+"en": "moon"
+},
+{
+"vi": "bóng đèn",
+"nom": "𣈖畑",
+"en": "light bulb"
+},
+{
+"vi": "chơi đá bóng",
+"nom": "𨔈跢𣈖",
+"en": "play football (soccer)"
+},
+{
+"vi": "đá bóng",
+"nom": "跢𣈖",
+"en": "to play football (soccer)"
+},
+{
+"vi": "đánh bóng bàn",
+"nom": "打𣈖盘",
+"en": "play table tennis"
+},
+{
+"vi": "tháng tư",
+"nom": "𣎃四",
+"en": "april"
+},
+{
+"vi": "đầu tháng",
+"nom": "頭𣎃",
+"en": "beginning of the month"
+},
+{
+"vi": "đầy tháng",
+"nom": "菭𣎃",
+"en": "one month old (age of a baby)"
+},
+{
+"vi": "cây số",
+"nom": "𣘃数",
+"en": "milestone; kilometer"
+},
+{
+"vi": "cây viết",
+"nom": "𣘃曰",
+"en": "pen"
+},
+{
+"vi": "gỗ cây",
+"nom": "楛𣘃",
+"en": "rough timber"
+},
+{
+"vi": "xanh lá cây",
+"nom": "撑𦲿𣘃",
+"en": "green"
+},
+{
+"vi": "giấy đánh máy",
+"nom": "紙打𣛠",
+"en": "typing paper, flimsy paper"
+},
+{
+"vi": "đánh máy",
+"nom": "打𣛠",
+"en": "to type (on a typewriter)"
+},
+{
+"vi": "trái đất",
+"nom": "𣛤坦",
+"en": "the earth"
+},
+{
+"vi": "ngay khi",
+"nom": "𣦍欺",
+"en": "instantly"
+},
+{
+"vi": "ngay ngắn",
+"nom": "𣦍𥐉",
+"en": "neat, tidy"
+},
+{
+"vi": "ngay thật",
+"nom": "𣦍實",
+"en": "sincere; honest"
+},
+{
+"vi": "biển nhật bản",
+"nom": "𣷷日本",
+"en": "sea of japan"
+},
+{
+"vi": "biển đen",
+"nom": "𣷷黰",
+"en": "Black Sea"
+},
+{
+"vi": "biển đông",
+"nom": "𣷷東",
+"en": "south china sea"
+},
+{
+"vi": "bốn biển",
+"nom": "𦊚𣷷",
+"en": "the world (lit. \"four oceans\"), cf. 四海"
+},
+{
+"vi": "cá biển",
+"nom": "𩵜𣷷",
+"en": "saltwater fish, sea fish"
+},
+{
+"vi": "vùng đất",
+"nom": "𤀘坦",
+"en": "land, area"
+},
+{
+"vi": "trong sáng",
+"nom": "𤄯𤎜",
+"en": "pure, bright"
+},
+{
+"vi": "chó chết",
+"nom": "㹥𣩂",
+"en": "damn, damned (colloquial)"
+},
+{
+"vi": "chết cha",
+"nom": "𣩂吒",
+"en": "damn it, damn, damned (colloquial)"
+},
+{
+"vi": "chết đứng",
+"nom": "𣩂𨅸",
+"en": "to be thunderstruck, to be stunned"
+},
+{
+"vi": "sống chết",
+"nom": "𤯩𣩂",
+"en": "life and death; at all costs"
+},
+{
+"vi": "ban sáng",
+"nom": "班𤎜",
+"en": "in the morning"
+},
+{
+"vi": "nguồn sáng",
+"nom": "源𤎜",
+"en": "light source"
+},
+{
+"vi": "sáng bóng",
+"nom": "𤎜𤊡",
+"en": "shiny, radiant"
+},
+{
+"vi": "sáng mắt",
+"nom": "𤎜眜",
+"en": "to see clearly, to realize"
+},
+{
+"vi": "nước bóng",
+"nom": "渃𤊡",
+"en": "lustre (of pearls)"
+},
+{
+"vi": "đánh bóng",
+"nom": "打𤊡",
+"en": "to polish"
+},
+{
+"vi": "tấm khăn",
+"nom": "𤗲巾",
+"en": "towel"
+},
+{
+"vi": "lên lớp",
+"nom": "𨖲𤖹",
+"en": "to give a lesson"
+},
+{
+"vi": "phân lớp",
+"nom": "分𤖹",
+"en": "subclass"
+},
+{
+"vi": "cung vua",
+"nom": "宮𤤰",
+"en": "royal palace"
+},
+{
+"vi": "nhà vua",
+"nom": "茹𤤰",
+"en": "king"
+},
+{
+"vi": "ngon mắt",
+"nom": "𤯆眜",
+"en": "pleasant to the eye, appealing"
+},
+{
+"vi": "ngủ ngon",
+"nom": "𥄬𤯆",
+"en": "to sleep well"
+},
+{
+"vi": "bắt sống",
+"nom": "扒𤯩",
+"en": "capture alive"
+},
+{
+"vi": "sống lại",
+"nom": "𤯩吏",
+"en": "to resurrect"
+},
+{
+"vi": "ăn sống",
+"nom": "咹𤯩",
+"en": "to eat raw (food)"
+},
+{
+"vi": "bởi vì",
+"nom": "𤳄爲",
+"en": "because"
+},
+{
+"vi": "chàng trai",
+"nom": "払𤳇",
+"en": "fellow, lad"
+},
+{
+"vi": "phần trăm",
+"nom": "分𤾓",
+"en": "percent; percentage"
+},
+{
+"vi": "ngủ mê",
+"nom": "𥄬迷",
+"en": "to dream, to sleep deeply, to be  dead to the world"
+},
+{
+"vi": "phòng ngủ",
+"nom": "房𥄬",
+"en": "bedroom"
+},
+{
+"vi": "thuốc ngủ",
+"nom": "𧆄𥄬",
+"en": "sleeping pill, soporific"
+},
+{
+"vi": "nhìn chung",
+"nom": "𥆾終",
+"en": "as a whole, all in all"
+},
+{
+"vi": "nhìn thấy",
+"nom": "𥆾𧡊",
+"en": "to see"
+},
+{
+"vi": "cung tên",
+"nom": "弓𥏌",
+"en": "bow and arrow"
+},
+{
+"vi": "tên lửa",
+"nom": "𥏌焒",
+"en": "rocket, missile"
+},
+{
+"vi": "nước đá",
+"nom": "渃𥒥",
+"en": "ice, frozen water"
+},
+{
+"vi": "đá hoa",
+"nom": "𥒥花",
+"en": "marble"
+},
+{
+"vi": "đá lửa",
+"nom": "𥒥焒",
+"en": "flint; silex"
+},
+{
+"vi": "trong khi",
+"nom": "𥪝欺",
+"en": "while, meanwhile"
+},
+{
+"vi": "bao lâu",
+"nom": "包𥹰",
+"en": "how long?"
+},
+{
+"vi": "hồi lâu",
+"nom": "徊𥹰",
+"en": "a long while"
+},
+{
+"vi": "từ lâu",
+"nom": "自𥹰",
+"en": "in a long time, long-since"
+},
+{
+"vi": "đã lâu",
+"nom": "㐌𥹰",
+"en": "long ago"
+},
+{
+"vi": "nhà trẻ",
+"nom": "茹𥘷",
+"en": "day nursery, creche"
+},
+{
+"vi": "non trẻ",
+"nom": "嫩𥘷",
+"en": "young, of tender age"
+},
+{
+"vi": "trẻ em",
+"nom": "𥘷㛪",
+"en": "young child, infant"
+},
+{
+"vi": "trẻ tuổi",
+"nom": "𥘷歲",
+"en": "young in age"
+},
+{
+"vi": "tuổi trẻ",
+"nom": "歲𥘷",
+"en": "youth"
+},
+{
+"vi": "đường phèn",
+"nom": "糖𥽢",
+"en": "rock sugar, rock candy"
+},
+{
+"vi": "sợi chỉ",
+"nom": "𥾘𥿗",
+"en": "thread; yarn"
+},
+{
+"vi": "bốn phương",
+"nom": "𦊚方",
+"en": "four directions (of the compass)"
+},
+{
+"vi": "thứ sáu",
+"nom": "次𦒹",
+"en": "friday; sixth"
+},
+{
+"vi": "già cả",
+"nom": "𦓅哿",
+"en": "venerably old, elderly"
+},
+{
+"vi": "già yếu",
+"nom": "𦓅要",
+"en": "decrepit, old and feeble"
+},
+{
+"vi": "ông già",
+"nom": "翁𦓅",
+"en": "elderly man; father"
+},
+{
+"vi": "gió trăng",
+"nom": "䬔𦝄",
+"en": "wind and moon; natural scenery; erotic"
+},
+{
+"vi": "mặt trăng",
+"nom": "𩈘𦝄",
+"en": "moon"
+},
+{
+"vi": "hình vẽ",
+"nom": "形𦘧",
+"en": "painting, drawing"
+},
+{
+"vi": "màu vẽ",
+"nom": "牟𦘧",
+"en": "paint"
+},
+{
+"vi": "nghe hơi",
+"nom": "𦖑唏",
+"en": "to know from hearsay"
+},
+{
+"vi": "nằm mê",
+"nom": "𦣰迷",
+"en": "to dream, to have a dream (while sleeping)"
+},
+{
+"vi": "nằm nơi",
+"nom": "𦣰坭",
+"en": "to be confined; to lie in"
+},
+{
+"vi": "áo lá",
+"nom": "襖𦲿",
+"en": "camisole, vest, women's undershirt"
+},
+{
+"vi": "đến nơi",
+"nom": "𦤾坭",
+"en": "to arrive; to be about to do sth."
+},
+{
+"vi": "khó khăn",
+"nom": "𧁷巾",
+"en": "hard, difficult, troublesome"
+},
+{
+"vi": "kẻ khó",
+"nom": "仉𧁷",
+"en": "the poor; beggar"
+},
+{
+"vi": "thuốc bắc",
+"nom": "𧆄北",
+"en": "Chinese herbs"
+},
+{
+"vi": "thuốc nam",
+"nom": "𧆄南",
+"en": "Vietnamese herbs"
+},
+{
+"vi": "thầy thuốc",
+"nom": "偨𧆄",
+"en": "physician, doctor"
+},
+{
+"vi": "trở về",
+"nom": "𧿨𧗱",
+"en": "to return, to come back"
+},
+{
+"vi": "về nhà",
+"nom": "𧗱茹",
+"en": "to come home, to return home"
+},
+{
+"vi": "máu tham",
+"nom": "𧖱貪",
+"en": "cupidity"
+},
+{
+"vi": "ngân hàng máu",
+"nom": "銀行𧖱",
+"en": "blood bank"
+},
+{
+"vi": "chưa từng thấy",
+"nom": "渚曾𧡊",
+"en": "unprecedented"
+},
+{
+"vi": "cảm thấy",
+"nom": "感𧡊",
+"en": "to feel"
+},
+{
+"vi": "gần xa",
+"nom": "𧵆賖",
+"en": "near and far, everywhere"
+},
+{
+"vi": "của chung",
+"nom": "𧵑終",
+"en": "public property"
+},
+{
+"vi": "của công",
+"nom": "𧵑公",
+"en": "public property"
+},
+{
+"vi": "chạy bộ",
+"nom": "𧼋步",
+"en": "to run, to walk, to do jogging"
+},
+{
+"vi": "chạy theo",
+"nom": "𧼋遶",
+"en": "to run after"
+},
+{
+"vi": "trở lại",
+"nom": "𧿨吏",
+"en": "to return; to come back"
+},
+{
+"vi": "bước đầu",
+"nom": "𨀈頭",
+"en": "first step; initially"
+},
+{
+"vi": "đứng gió",
+"nom": "𨅸䬔",
+"en": "windless, calm"
+},
+{
+"vi": "đứng lên",
+"nom": "𨅸𨖲",
+"en": "to stand up, rise"
+},
+{
+"vi": "đứng đầu",
+"nom": "𨅸頭",
+"en": "to head, to be at the head of"
+},
+{
+"vi": "hạ mình",
+"nom": "下𨉟",
+"en": "to condescend; to demean oneself"
+},
+{
+"vi": "tức mình",
+"nom": "息𨉟",
+"en": "angry, upset"
+},
+{
+"vi": "tự mình",
+"nom": "自𨉟",
+"en": "self; unsolicited"
+},
+{
+"vi": "đôi mươi",
+"nom": "堆𨑮",
+"en": "about twenty, twentyish"
+},
+{
+"vi": "nói chơi",
+"nom": "呐𨔈",
+"en": "to joke, to be kidding"
+},
+{
+"vi": "đồ chơi",
+"nom": "圖𨔈",
+"en": "toy, plaything"
+},
+{
+"vi": "dựa trên",
+"nom": "豫𨕭",
+"en": "to found (sth.) on"
+},
+{
+"vi": "kể trên",
+"nom": "計𨕭",
+"en": "above-mentioned, above-said, above"
+},
+{
+"vi": "sang trang",
+"nom": "𨖅張",
+"en": "to turn over a page"
+},
+{
+"vi": "đem sang",
+"nom": "𨑻𨖅",
+"en": "to carry over"
+},
+{
+"vi": "cuốn lên",
+"nom": "捲𨖲",
+"en": "to roll up, to curl up"
+},
+{
+"vi": "rượu lễ",
+"nom": "𨢇礼",
+"en": "sacramental wine"
+},
+{
+"vi": "rượu mạnh",
+"nom": "𨢇孟",
+"en": "strong alcohol"
+},
+{
+"vi": "uống rượu",
+"nom": "㕵𨢇",
+"en": "to drink alcohol"
+},
+{
+"vi": "có vẻ",
+"nom": "固𨤔",
+"en": "to seem, to look, to appear"
+},
+{
+"vi": "ra vẻ",
+"nom": "𫥨𨤔",
+"en": "to pretend"
+},
+{
+"vi": "văn vẻ",
+"nom": "文𨤔",
+"en": "style; polished, refined"
+},
+{
+"vi": "cửa hàng",
+"nom": "𨴦行",
+"en": "shop, store"
+},
+{
+"vi": "cửa sổ",
+"nom": "𨴦数",
+"en": "window"
+},
+{
+"vi": "gọi cửa",
+"nom": "噲𨴦",
+"en": "to knock at the door"
+},
+{
+"vi": "nhà cửa",
+"nom": "茹𨴦",
+"en": "house, dwelling"
+},
+{
+"vi": "mở mặt",
+"nom": "𨷑𩈘",
+"en": "to be better off"
+},
+{
+"vi": "mở đường",
+"nom": "𨷑塘",
+"en": "to pave the way for, to initiate"
+},
+{
+"vi": "mở đầu",
+"nom": "𨷑頭",
+"en": "to initiate, to begin, to start"
+},
+{
+"vi": "chiều dài",
+"nom": "朝𨱽",
+"en": "length"
+},
+{
+"vi": "áo dài",
+"nom": "襖𨱽",
+"en": "tunic, dress"
+},
+{
+"vi": "đánh bóng",
+"nom": "打𩃳",
+"en": "to crosshatch, to shade (a painting)"
+},
+{
+"vi": "biết mặt",
+"nom": "别𩈘",
+"en": "to know (someone) by sight"
+},
+{
+"vi": "giáp mặt",
+"nom": "夾𩈘",
+"en": "face to face"
+},
+{
+"vi": "gặp mặt",
+"nom": "﨤𩈘",
+"en": "to meet (in person)"
+},
+{
+"vi": "mặt tiền",
+"nom": "𩈘前",
+"en": "front, front side"
+},
+{
+"vi": "mặt trận",
+"nom": "𩈘陣",
+"en": "front, battle front"
+},
+{
+"vi": "nhận mặt",
+"nom": "認𩈘",
+"en": "to identify, to reveal"
+},
+{
+"vi": "tiền mặt",
+"nom": "錢𩈘",
+"en": "cash"
+},
+{
+"vi": "đủ mặt",
+"nom": "都𩈘",
+"en": "in full attendance"
+},
+{
+"vi": "gió mưa",
+"nom": "䬔𩅹",
+"en": "wind and rain; bad weather"
+},
+{
+"vi": "hạt mưa",
+"nom": "籺𩅹",
+"en": "rain drop"
+},
+{
+"vi": "chân mây",
+"nom": "蹎𩄲",
+"en": "horizon, line of horizon"
+},
+{
+"vi": "cá vàng",
+"nom": "𩵜鐄",
+"en": "goldfish"
+},
+{
+"vi": "cá đồng",
+"nom": "𩵜垌",
+"en": "freshwater fish"
+},
+{
+"vi": "hắn ta",
+"nom": "𪝳些",
+"en": "bloke, jerk, idiot"
+},
+{
+"vi": "coi thương",
+"nom": "𫀅常",
+"en": "to think little of"
+},
+{
+"vi": "hiện nay",
+"nom": "現𫢩",
+"en": "today, nowadays"
+},
+{
+"vi": "hôm nay",
+"nom": "歆𫢩",
+"en": "today"
+},
+{
+"vi": "phía bắc",
+"nom": "𪰂北",
+"en": "north, to the north"
+},
+{
+"vi": "phía nam",
+"nom": "𪰂南",
+"en": "south, to the south"
+},
+{
+"vi": "phía tây",
+"nom": "𪰂西",
+"en": "west, to the west"
+},
+{
+"vi": "phía đông",
+"nom": "𪰂東",
+"en": "east, to the east"
+},
+{
+"vi": "bạn cũ",
+"nom": "伴𫇰",
+"en": "old friend"
+},
+{
+"vi": "như cũ",
+"nom": "如𫇰",
+"en": "as before"
+},
+{
+"vi": "bàn ra",
+"nom": "盘𫥨",
+"en": "to dissuade (from doing something)"
+},
+{
+"vi": "kể ra",
+"nom": "計𫥨",
+"en": "in fact, to be fair"
+},
+{
+"vi": "nhận ra",
+"nom": "認𫥨",
+"en": "to recognize, to realize"
+},
+{
+"vi": "ra trận",
+"nom": "𫥨陣",
+"en": "to go to the front"
+},
+{
+"vi": "rồi ra",
+"nom": "耒𫥨",
+"en": "in the future"
+},
+{
+"vi": "tạo ra",
+"nom": "造𫥨",
+"en": "to create"
+},
+{
+"vi": "xảy ra",
+"nom": "仕𫥨",
+"en": "to happen, to occur"
+},
+{
+"vi": "thứ bảy",
+"nom": "次𬙞",
+"en": "saturday; seventh"
+},
+{
+"vi": "gọi là",
+"nom": "噲𱺵",
+"en": "provisionally, superficial"
+},
+{
+"vi": "hay là",
+"nom": "咍𱺵",
+"en": "or"
+},
+{
+"vi": "hoặc là",
+"nom": "或𱺵",
+"en": "or; either"
+},
+{
+"vi": "như là",
+"nom": "如𱺵",
+"en": "as if"
+},
+{
+"vi": "nhất là",
+"nom": "一𱺵",
+"en": "foremost"
+},
+{
+"vi": "nói là",
+"nom": "呐𱺵",
+"en": "reportedly, supposedly"
+},
+{
+"vi": "rất là",
+"nom": "慄𱺵",
+"en": "very, extremely"
+},
+{
+"vi": "âu là",
+"nom": "歐𱺵",
+"en": "preferably, rather"
+},
+{
+"vi": "có chồng",
+"nom": "固𫯳",
+"en": "to be married (woman)"
+},
+{
+"vi": "em chồng",
+"nom": "㛪𫯳",
+"en": "brother in law, sister in law"
+},
+{
+"vi": "nhà chồng",
+"nom": "茹𫯳",
+"en": "the husband's family"
+},
+{
+"vi": "ai ai",
+"nom": "埃ㇴ",
+"en": "everybody, everyone"
+},
+{
+"vi": "xanh xanh",
+"nom": "撑ㇴ",
+"en": "greenish, bluish"
+},
+{
+"vi": "đã từng",
+"nom": "㐌曾",
+"en": "ever"
+},
+{
+"vi": "mang tiếng",
+"nom": "芒㗂",
+"en": "to suffer a bad reputation"
+},
+{
+"vi": "tiếng anh",
+"nom": "㗂英",
+"en": "english (language)"
+},
+{
+"vi": "tiếng mỹ",
+"nom": "㗂美",
+"en": "american english (language)"
+},
+{
+"vi": "tiếng nhật",
+"nom": "㗂日",
+"en": "japanese (language)"
+},
+{
+"vi": "tiếng nói",
+"nom": "㗂呐",
+"en": "language, tongue"
+},
+{
+"vi": "tiếng pháp",
+"nom": "㗂法",
+"en": "french (language)"
+},
+{
+"vi": "tiếng trung",
+"nom": "㗂中",
+"en": "Chinese (language)"
+},
+{
+"vi": "tiếng trung quốc",
+"nom": "㗂中國",
+"en": "chinese (language)"
+},
+{
+"vi": "tiếng việt",
+"nom": "㗂越",
+"en": "vietnamese (language)"
+},
+{
+"vi": "tiếng ý",
+"nom": "㗂意",
+"en": "italian (language)"
+},
+{
+"vi": "tiếng đức",
+"nom": "㗂德",
+"en": "german (language)"
+},
+{
+"vi": "tốt tiếng",
+"nom": "卒㗂",
+"en": "popular, well-reputed"
+},
+{
+"vi": "nước uống",
+"nom": "渃㕵",
+"en": "drinking water"
+},
+{
+"vi": "ăn uống",
+"nom": "咹㕵",
+"en": "to eat and drink; food intake"
+},
+{
+"vi": "đồ uống",
+"nom": "圖㕵",
+"en": "beverage, drink"
+},
+{
+"vi": "anh chị em",
+"nom": "偀姉㛪",
+"en": "brothers and sisters, siblings"
+},
+{
+"vi": "anh em",
+"nom": "偀㛪",
+"en": "brothers; siblings"
+},
+{
+"vi": "chị em",
+"nom": "姉㛪",
+"en": "sisters; siblings"
+},
+{
+"vi": "em chồng",
+"nom": "㛪重",
+"en": "younger brother or sister in law"
+},
+{
+"vi": "mới đây",
+"nom": "㵋低",
+"en": "recently, lately, just now"
+},
+{
+"vi": "chờ xem",
+"nom": "徐䀡",
+"en": "to wait and see"
+},
+{
+"vi": "chó mèo",
+"nom": "㹥猫",
+"en": "cats and dogs"
+},
+{
+"vi": "tốt bụng",
+"nom": "卒䏾",
+"en": "kindhearted"
+},
+{
+"vi": "tức bụng",
+"nom": "息䏾",
+"en": "upset stomach, stomachache"
+},
+{
+"vi": "da thuộc",
+"nom": "䏧屬",
+"en": "leather"
+},
+{
+"vi": "duy nhất",
+"nom": "唯一",
+"en": "unique, only"
+},
+{
+"vi": "nhất định",
+"nom": "一定",
+"en": "to decide; determined; inevitable"
+},
+{
+"vi": "thống nhất",
+"nom": "統一",
+"en": "united, to unite, to unify"
+},
+{
+"vi": "thứ nhất",
+"nom": "次一",
+"en": "the first"
+},
+{
+"vi": "vạn nhất",
+"nom": "万一",
+"en": "in the rare case of, by any chance"
+},
+{
+"vi": "đệ nhất",
+"nom": "第一",
+"en": "the first"
+},
+{
+"vi": "gió mùa",
+"nom": "䬔务",
+"en": "monsoon"
+},
+{
+"vi": "gió đông",
+"nom": "䬔東",
+"en": "easterly wind; spring wind; spring; breeze"
+},
+{
+"vi": "cao thượng",
+"nom": "高上",
+"en": "high-minded, noble"
+},
+{
+"vi": "thượng hải",
+"nom": "上海",
+"en": "Shanghai"
+},
+{
+"vi": "thượng khách",
+"nom": "上客",
+"en": "guest of honour"
+},
+{
+"vi": "thượng phẩm",
+"nom": "上品",
+"en": "high grade (product quality)"
+},
+{
+"vi": "thượng tuần",
+"nom": "上旬",
+"en": "first ten days of a month"
+},
+{
+"vi": "bất hạnh",
+"nom": "不幸",
+"en": "unlucky, unfortunate"
+},
+{
+"vi": "bất nhân",
+"nom": "不仁",
+"en": "inhumane, unfeeling"
+},
+{
+"vi": "bất thường",
+"nom": "不常",
+"en": "unusual, extraordinary, special"
+},
+{
+"vi": "vạn năng",
+"nom": "万能",
+"en": "omnipotent"
+},
+{
+"vi": "vạn vật",
+"nom": "万物",
+"en": "all things and living beings"
+},
+{
+"vi": "bộ hạ",
+"nom": "部下",
+"en": "subordinate"
+},
+{
+"vi": "cấp hạ",
+"nom": "級下",
+"en": "lower class, low-ranking, low-grade"
+},
+{
+"vi": "hạ bút",
+"nom": "下筆",
+"en": "set pen to paper"
+},
+{
+"vi": "hạ bộ",
+"nom": "下部",
+"en": "lower part of the abdomen"
+},
+{
+"vi": "hạ cờ",
+"nom": "下旗",
+"en": "to lower the flag"
+},
+{
+"vi": "hạ giá",
+"nom": "下价",
+"en": "to lower the price; to debase"
+},
+{
+"vi": "hạ giới",
+"nom": "下界",
+"en": "this world"
+},
+{
+"vi": "hạ long",
+"nom": "下龍",
+"en": "Ha Long (city in Vietnam)"
+},
+{
+"vi": "hạ mã",
+"nom": "下馬",
+"en": "to dismount from a horse"
+},
+{
+"vi": "hạ thuỷ",
+"nom": "下水",
+"en": "to launch (a ship)"
+},
+{
+"vi": "hạ viện",
+"nom": "下院",
+"en": "Lower House, House of Commons (UK), House of Representatives (USA)"
+},
+{
+"vi": "sinh hạ",
+"nom": "生下",
+"en": "to give birth to"
+},
+{
+"vi": "thiên hạ",
+"nom": "天下",
+"en": "the whole (inhabited) world"
+},
+{
+"vi": "cái gì",
+"nom": "丐之",
+"en": "what"
+},
+{
+"vi": "cái này",
+"nom": "丐尼",
+"en": "this"
+},
+{
+"vi": "cái đó",
+"nom": "丐妬",
+"en": "that"
+},
+{
+"vi": "từng cái",
+"nom": "曾丐",
+"en": "one at a time, one by one, individually"
+},
+{
+"vi": "như vậy",
+"nom": "如丕",
+"en": "like that; thus; so"
+},
+{
+"vi": "vậy mà",
+"nom": "丕麻",
+"en": "but; however"
+},
+{
+"vi": "vậy thì",
+"nom": "丕辰",
+"en": "therefore, so"
+},
+{
+"vi": "thế giới",
+"nom": "世界",
+"en": "world"
+},
+{
+"vi": "thế kỷ",
+"nom": "世紀",
+"en": "century"
+},
+{
+"vi": "thế sự",
+"nom": "世事",
+"en": "world affairs"
+},
+{
+"vi": "thế tục",
+"nom": "世俗",
+"en": "profane, secular, mundane"
+},
+{
+"vi": "lễ trung thu",
+"nom": "礼中秋",
+"en": "mid-autumn festival"
+},
+{
+"vi": "miền trung",
+"nom": "沔中",
+"en": "central region; central Vietnam"
+},
+{
+"vi": "trung hoa",
+"nom": "中華",
+"en": "Chinese, China"
+},
+{
+"vi": "trung học",
+"nom": "中学",
+"en": "high school, secondary school"
+},
+{
+"vi": "trung kỳ",
+"nom": "中圻",
+"en": "Annam"
+},
+{
+"vi": "trung quốc",
+"nom": "中國",
+"en": "China; chinese"
+},
+{
+"vi": "trung tâm",
+"nom": "中心",
+"en": "center, institute"
+},
+{
+"vi": "trung tâm nghiên cứu",
+"nom": "中心研究",
+"en": "research center"
+},
+{
+"vi": "tết trung thu",
+"nom": "節中秋",
+"en": "mid-autumn festival"
+},
+{
+"vi": "địa trung hải",
+"nom": "地中海",
+"en": "Mediterranean Sea, Mediterranean"
+},
+{
+"vi": "chủ bút",
+"nom": "主筆",
+"en": "chief editor, editor-in-chief"
+},
+{
+"vi": "chủ nhân",
+"nom": "主人",
+"en": "master, owner"
+},
+{
+"vi": "chủ nhật",
+"nom": "主日",
+"en": "sunday"
+},
+{
+"vi": "chủ thể",
+"nom": "主体",
+"en": "main part, essential part; subject"
+},
+{
+"vi": "chủ trị",
+"nom": "主治",
+"en": "leader, ruler"
+},
+{
+"vi": "chủ đề",
+"nom": "主題",
+"en": "theme, subject, motif, leitmotiv"
+},
+{
+"vi": "dân chủ",
+"nom": "民主",
+"en": "democratic"
+},
+{
+"vi": "xã hội chủ nghĩa",
+"nom": "社会主義",
+"en": "socialism, socialist"
+},
+{
+"vi": "ai nấy",
+"nom": "埃乃",
+"en": "each and every, everyone, one and all"
+},
+{
+"vi": "dân sự",
+"nom": "民事",
+"en": "civilian"
+},
+{
+"vi": "lãnh sự",
+"nom": "領事",
+"en": "consul"
+},
+{
+"vi": "quân sự",
+"nom": "軍事",
+"en": "military affairs"
+},
+{
+"vi": "sự vật",
+"nom": "事物",
+"en": "thing, object"
+},
+{
+"vi": "tổng lãnh sự",
+"nom": "總領事",
+"en": "consul general"
+},
+{
+"vi": "nhị nguyên",
+"nom": "二元",
+"en": "dual, binary"
+},
+{
+"vi": "thứ nhì",
+"nom": "次二",
+"en": "the second"
+},
+{
+"vi": "đệ nhì",
+"nom": "第二",
+"en": "the second"
+},
+{
+"vi": "chẳng gì",
+"nom": "庄之",
+"en": "nothing at all"
+},
+{
+"vi": "không gì",
+"nom": "空之",
+"en": "nothing"
+},
+{
+"vi": "làm gì",
+"nom": "爫之",
+"en": "what for; what to do"
+},
+{
+"vi": "hỗ trợ",
+"nom": "互助",
+"en": "to help one another"
+},
+{
+"vi": "ngũ thường",
+"nom": "五常",
+"en": "the five constant virtues of Confucianism"
+},
+{
+"vi": "chúng ta",
+"nom": "眾些",
+"en": "we, us (including person addressed)"
+},
+{
+"vi": "châu á",
+"nom": "洲亜",
+"en": "Asia"
+},
+{
+"vi": "á châu",
+"nom": "亜洲",
+"en": "Asia"
+},
+{
+"vi": "á đông",
+"nom": "亜東",
+"en": "east asia"
+},
+{
+"vi": "bàn giao",
+"nom": "搬交",
+"en": "to transfer, to hand over"
+},
+{
+"vi": "giao hàng",
+"nom": "交行",
+"en": "to deliver goods"
+},
+{
+"vi": "ngoài giao",
+"nom": "外交",
+"en": "diplomacy"
+},
+{
+"vi": "hạch nhân",
+"nom": "核仁",
+"en": "nucleolus"
+},
+{
+"vi": "hạnh nhân",
+"nom": "杏仁",
+"en": "almond"
+},
+{
+"vi": "nhân nghĩa",
+"nom": "仁義",
+"en": "benevolence and righteousness"
+},
+{
+"vi": "công nhân",
+"nom": "工人",
+"en": "worker; blue-collar worker"
+},
+{
+"vi": "cử nhân",
+"nom": "舉人",
+"en": "bachelor, imperial examination graduate"
+},
+{
+"vi": "nhân duyên",
+"nom": "人縁",
+"en": "predestined affinity"
+},
+{
+"vi": "nhân dân",
+"nom": "人民",
+"en": "people; country"
+},
+{
+"vi": "nhân loại",
+"nom": "人類",
+"en": "mankind, humanity, human race"
+},
+{
+"vi": "nhân loại học",
+"nom": "人類学",
+"en": "anthropology"
+},
+{
+"vi": "nhân tạo",
+"nom": "人造",
+"en": "artificial"
+},
+{
+"vi": "nhân viên",
+"nom": "人員",
+"en": "employee; staff member; personnel"
+},
+{
+"vi": "nhân đức",
+"nom": "人德",
+"en": "humane"
+},
+{
+"vi": "phạm nhân",
+"nom": "犯人",
+"en": "culprit, criminal (person)"
+},
+{
+"vi": "phụ nhân",
+"nom": "婦人",
+"en": "woman"
+},
+{
+"vi": "thi nhân",
+"nom": "詩人",
+"en": "poet"
+},
+{
+"vi": "tiền nhân",
+"nom": "前人",
+"en": "predecessor"
+},
+{
+"vi": "yếu nhân",
+"nom": "要人",
+"en": "very important person, (abbr. VIP)"
+},
+{
+"vi": "ân nhân",
+"nom": "恩人",
+"en": "benefactor, benefactress"
+},
+{
+"vi": "kim cổ",
+"nom": "今古",
+"en": "the present and the past"
+},
+{
+"vi": "đương kim",
+"nom": "當今",
+"en": "present, current"
+},
+{
+"vi": "chẳng thà",
+"nom": "庄他",
+"en": "rather, better"
+},
+{
+"vi": "nhưng mà",
+"nom": "仍麻",
+"en": "but"
+},
+{
+"vi": "cận đại",
+"nom": "近代",
+"en": "modern (times)"
+},
+{
+"vi": "hiện đại",
+"nom": "現代",
+"en": "contemporary, modern times"
+},
+{
+"vi": "thời đại",
+"nom": "時代",
+"en": "era, age"
+},
+{
+"vi": "triều đại",
+"nom": "朝代",
+"en": "dynasty"
+},
+{
+"vi": "điều kiện",
+"nom": "条件",
+"en": "circumstances; condition"
+},
+{
+"vi": "cơ hội",
+"nom": "机会",
+"en": "opportunity, occasion, chance"
+},
+{
+"vi": "nhập hội",
+"nom": "入会",
+"en": "to be admitted to an association"
+},
+{
+"vi": "quốc hội",
+"nom": "國会",
+"en": "national assembly"
+},
+{
+"vi": "xã hội",
+"nom": "社会",
+"en": "society"
+},
+{
+"vi": "nàng tiên",
+"nom": "娘仙",
+"en": "fairy"
+},
+{
+"vi": "giá mắt",
+"nom": "价眜",
+"en": "high price, high value"
+},
+{
+"vi": "giá thị trường",
+"nom": "价市場",
+"en": "market price, market rate, market value"
+},
+{
+"vi": "giá trị",
+"nom": "价値",
+"en": "value, worth"
+},
+{
+"vi": "đánh giá",
+"nom": "打价",
+"en": "to rate (something or someone), to assess, to value"
+},
+{
+"vi": "đấu giá",
+"nom": "鬥价",
+"en": "to auction"
+},
+{
+"vi": "đặt giá",
+"nom": "噠价",
+"en": "to fix a price"
+},
+{
+"vi": "bạn vàng",
+"nom": "伴鐄",
+"en": "very dear friend"
+},
+{
+"vi": "các bạn",
+"nom": "各伴",
+"en": "friends; you (plural)"
+},
+{
+"vi": "tôi tớ",
+"nom": "碎伵",
+"en": "subordinate, subject"
+},
+{
+"vi": "bố trận",
+"nom": "佈陣",
+"en": "to dispose troops in battle formation"
+},
+{
+"vi": "công bố",
+"nom": "公佈",
+"en": "to publish, to proclaim"
+},
+{
+"vi": "phân bố",
+"nom": "分佈",
+"en": "to distribute, to dispose"
+},
+{
+"vi": "các vị",
+"nom": "各位",
+"en": "ladies and gentlemen, everybody; you (plural)"
+},
+{
+"vi": "vị trí",
+"nom": "位置",
+"en": "position, place"
+},
+{
+"vi": "a di đà phật",
+"nom": "阿彌陀佛",
+"en": "Amitābha (name of a celestial Buddha)"
+},
+{
+"vi": "phật giáo",
+"nom": "佛教",
+"en": "buddhism"
+},
+{
+"vi": "phật tổ",
+"nom": "佛組",
+"en": "Gautama Buddha"
+},
+{
+"vi": "phật đường",
+"nom": "佛堂",
+"en": "buddhist pagoda"
+},
+{
+"vi": "đạo phật",
+"nom": "道佛",
+"en": "buddhism; buddhist (verb)"
+},
+{
+"vi": "đâu đây",
+"nom": "兜低",
+"en": "somewhere"
+},
+{
+"vi": "chế tác",
+"nom": "製作",
+"en": "to invent, to create"
+},
+{
+"vi": "công tác",
+"nom": "工作",
+"en": "mission; business"
+},
+{
+"vi": "tác gia",
+"nom": "作家",
+"en": "author"
+},
+{
+"vi": "tác giả",
+"nom": "作者",
+"en": "author"
+},
+{
+"vi": "tác phẩm",
+"nom": "作品",
+"en": "work (art or literature)"
+},
+{
+"vi": "chính thể",
+"nom": "正体",
+"en": "conventional (character), traditional (character)"
+},
+{
+"vi": "có thể",
+"nom": "固体",
+"en": "possibly, maybe; may, can"
+},
+{
+"vi": "cơ thể",
+"nom": "机体",
+"en": "organism; (human) body"
+},
+{
+"vi": "không thể",
+"nom": "空体",
+"en": "impossible; unable, incapable"
+},
+{
+"vi": "thân thể",
+"nom": "身体",
+"en": "(human) body"
+},
+{
+"vi": "vật thể",
+"nom": "物体",
+"en": "body, object"
+},
+{
+"vi": "tính toán",
+"nom": "併算",
+"en": "to calculate, to count"
+},
+{
+"vi": "sử dụng",
+"nom": "使用",
+"en": "to use, to utilize, to employ"
+},
+{
+"vi": "thiên sứ",
+"nom": "天使",
+"en": "angel"
+},
+{
+"vi": "đại sứ",
+"nom": "大使",
+"en": "ambassador"
+},
+{
+"vi": "đặc sứ",
+"nom": "特使",
+"en": "special envoy, ambassador extraordinary"
+},
+{
+"vi": "hương tục",
+"nom": "鄉俗",
+"en": "village custom"
+},
+{
+"vi": "tiếp tục",
+"nom": "接俗",
+"en": "continuous, successive"
+},
+{
+"vi": "tục ngữ",
+"nom": "俗語",
+"en": "proverb, common saying"
+},
+{
+"vi": "hệ số",
+"nom": "係数",
+"en": "coefficient, factor"
+},
+{
+"vi": "liên hệ",
+"nom": "聯係",
+"en": "to contact (someone), to connect"
+},
+{
+"vi": "quan hệ",
+"nom": "関係",
+"en": "to concern, to affect, to correlate"
+},
+{
+"vi": "thông tin",
+"nom": "通信",
+"en": "information; to inform, to broadcast informations"
+},
+{
+"vi": "tin tức",
+"nom": "信息",
+"en": "news, message, information"
+},
+{
+"vi": "đức tin",
+"nom": "德信",
+"en": "creed, faith"
+},
+{
+"vi": "hoá trị",
+"nom": "化値",
+"en": "valence (in chemistry)"
+},
+{
+"vi": "đa trị",
+"nom": "多値",
+"en": "polyvalent (in chemistry)"
+},
+{
+"vi": "anh chàng",
+"nom": "偀払",
+"en": "man, guy, boy"
+},
+{
+"vi": "anh chị",
+"nom": "偀姉",
+"en": "elder brother and elder sister"
+},
+{
+"vi": "anh họ",
+"nom": "偀户",
+"en": "cousin"
+},
+{
+"vi": "đình chỉ",
+"nom": "停止",
+"en": "to stop, suspend"
+},
+{
+"vi": "bảo hiểm",
+"nom": "保險",
+"en": "insurance, to insure"
+},
+{
+"vi": "bảo lãnh",
+"nom": "保領",
+"en": "to act as guarantor for, to stand surety, to bail for"
+},
+{
+"vi": "bảo toàn",
+"nom": "保全",
+"en": "to keep intact; conservation; integrity"
+},
+{
+"vi": "bảo trợ",
+"nom": "保助",
+"en": "to sponsor"
+},
+{
+"vi": "bảo vệ",
+"nom": "保衛",
+"en": "to protect, to preserve; bodyguard, guard"
+},
+{
+"vi": "phòng bị",
+"nom": "防備",
+"en": "to take precautions against"
+},
+{
+"vi": "thầy chùa",
+"nom": "偨廚",
+"en": "buddhist temple bonze"
+},
+{
+"vi": "thầy giáo",
+"nom": "偨教",
+"en": "schoolmaster"
+},
+{
+"vi": "nho gia",
+"nom": "儒家",
+"en": "confucianist"
+},
+{
+"vi": "nho giáo",
+"nom": "儒教",
+"en": "Confucianism"
+},
+{
+"vi": "nho học",
+"nom": "儒学",
+"en": "Confucianism"
+},
+{
+"vi": "nho sinh",
+"nom": "儒生",
+"en": "student (antiquated)"
+},
+{
+"vi": "nho sĩ",
+"nom": "儒士",
+"en": "Confucian scholar"
+},
+{
+"vi": "nhà nho",
+"nom": "茹儒",
+"en": "Confucian scholar"
+},
+{
+"vi": "đại nho",
+"nom": "大儒",
+"en": "great scholar"
+},
+{
+"vi": "kỷ nguyên",
+"nom": "紀元",
+"en": "era, epoch"
+},
+{
+"vi": "nguyên niên",
+"nom": "元年",
+"en": "first year of rule's reign"
+},
+{
+"vi": "nguyên âm",
+"nom": "元音",
+"en": "vowel"
+},
+{
+"vi": "tết nguyên đán",
+"nom": "節元旦",
+"en": "lunar new year"
+},
+{
+"vi": "truyền hình",
+"nom": "傳形",
+"en": "television"
+},
+{
+"vi": "truyền thanh",
+"nom": "傳聲",
+"en": "radio"
+},
+{
+"vi": "truyện tranh",
+"nom": "傳幀",
+"en": "comic"
+},
+{
+"vi": "cảm thương",
+"nom": "感傷",
+"en": "to feel pity for"
+},
+{
+"vi": "dễ thương",
+"nom": "易傷",
+"en": "lovely, likeable, nice"
+},
+{
+"vi": "lần đầu tiên",
+"nom": "吝頭先",
+"en": "the (very) first time"
+},
+{
+"vi": "tổ tiên",
+"nom": "祖先",
+"en": "ancestor, forefather"
+},
+{
+"vi": "đầu tiên",
+"nom": "頭先",
+"en": "(very) first"
+},
+{
+"vi": "biết đâu",
+"nom": "别兜",
+"en": "who knows, goodness knows"
+},
+{
+"vi": "đâu có",
+"nom": "兜固",
+"en": "not at all"
+},
+{
+"vi": "ở đâu",
+"nom": "於兜",
+"en": "where"
+},
+{
+"vi": "chính đảng",
+"nom": "政党",
+"en": "political party"
+},
+{
+"vi": "đảng sử",
+"nom": "党史",
+"en": "party history"
+},
+{
+"vi": "đảng trưởng",
+"nom": "党長",
+"en": "party leader"
+},
+{
+"vi": "đảng trị",
+"nom": "党治",
+"en": "(one) party rule, (one) party government"
+},
+{
+"vi": "gia nhập",
+"nom": "加入",
+"en": "to adhere; to accede"
+},
+{
+"vi": "nhập cuộc",
+"nom": "入局",
+"en": "to be an insider, to take part in"
+},
+{
+"vi": "nhập cảnh",
+"nom": "入景",
+"en": "entry; entrance; to enter a country; to cross a country's border"
+},
+{
+"vi": "nhập học",
+"nom": "入学",
+"en": "beginning of (school) term"
+},
+{
+"vi": "nhập khẩu",
+"nom": "入口",
+"en": "to import"
+},
+{
+"vi": "nhập nội",
+"nom": "入内",
+"en": "to introduce; to acclimatize, to naturalize"
+},
+{
+"vi": "cộng hoà",
+"nom": "共和",
+"en": "republic, republican"
+},
+{
+"vi": "cộng sản",
+"nom": "共産",
+"en": "communist"
+},
+{
+"vi": "cộng đồng",
+"nom": "共同",
+"en": "community"
+},
+{
+"vi": "tổng cộng",
+"nom": "總共",
+"en": "in total, altogether"
+},
+{
+"vi": "công an",
+"nom": "公安",
+"en": "police; policeman"
+},
+{
+"vi": "công nhận",
+"nom": "公認",
+"en": "to recognize, to accept, to accredit"
+},
+{
+"vi": "công thức",
+"nom": "公式",
+"en": "formula"
+},
+{
+"vi": "công ty",
+"nom": "公司",
+"en": "company, corporation"
+},
+{
+"vi": "công xã",
+"nom": "公社",
+"en": "commune"
+},
+{
+"vi": "cổ điển",
+"nom": "古典",
+"en": "classic, classical"
+},
+{
+"vi": "dược điển",
+"nom": "藥典",
+"en": "pharmacopoeia"
+},
+{
+"vi": "từ điển",
+"nom": "詞典",
+"en": "dictionary (of words)"
+},
+{
+"vi": "tự điển",
+"nom": "字典",
+"en": "dictionary (of characters)"
+},
+{
+"vi": "âm nhạc cổ điển",
+"nom": "音樂古典",
+"en": "classical music"
+},
+{
+"vi": "bằng chứng",
+"nom": "凭證",
+"en": "evidence, proof"
+},
+{
+"vi": "cuốn sách",
+"nom": "卷冊",
+"en": "book"
+},
+{
+"vi": "sách dẫn",
+"nom": "冊引",
+"en": "index (book)"
+},
+{
+"vi": "sử sách",
+"nom": "史冊",
+"en": "books of history and legends"
+},
+{
+"vi": "đọc sách",
+"nom": "讀冊",
+"en": "to read a book"
+},
+{
+"vi": "chế độ",
+"nom": "制度",
+"en": "regulation; (societal) system"
+},
+{
+"vi": "biết bao",
+"nom": "别包",
+"en": "so much, so many"
+},
+{
+"vi": "biết điều",
+"nom": "别条",
+"en": "reasonable, judicious, sensible"
+},
+{
+"vi": "cho biết",
+"nom": "朱别",
+"en": "to tell; to inform, to notify"
+},
+{
+"vi": "hiểu biết",
+"nom": "曉别",
+"en": "to know, to be familiar with"
+},
+{
+"vi": "khác biệt",
+"nom": "恪别",
+"en": "different, unequal"
+},
+{
+"vi": "nhận biết",
+"nom": "認别",
+"en": "to realize, to recognize; to identify"
+},
+{
+"vi": "phân biệt",
+"nom": "分别",
+"en": "to distinguish, to discern, to discriminate"
+},
+{
+"vi": "tạm biệt",
+"nom": "暫别",
+"en": "goodbye"
+},
+{
+"vi": "đặc biệt",
+"nom": "特别",
+"en": "special; unusual"
+},
+{
+"vi": "hiện tiền",
+"nom": "現前",
+"en": "in front of one"
+},
+{
+"vi": "tiền sử",
+"nom": "前史",
+"en": "prehistoric; prehistory"
+},
+{
+"vi": "tiền đề",
+"nom": "前提",
+"en": "premise, precondition, prerequisite"
+},
+{
+"vi": "tiền định",
+"nom": "前定",
+"en": "predetermined, predestined, preordained"
+},
+{
+"vi": "tiền đồ",
+"nom": "前途",
+"en": "future, prospects"
+},
+{
+"vi": "bà nội",
+"nom": "妑内",
+"en": "paternal grandmother"
+},
+{
+"vi": "gia đình bên nội",
+"nom": "家庭边内",
+"en": "family on the paternal (father's) side"
+},
+{
+"vi": "hà nội",
+"nom": "河内",
+"en": "Hanoi"
+},
+{
+"vi": "nội năng",
+"nom": "内能",
+"en": "internal energy"
+},
+{
+"vi": "nội trị",
+"nom": "内治",
+"en": "home affairs, home policy; internal affairs, internal policy"
+},
+{
+"vi": "nội tại",
+"nom": "内在",
+"en": "immanent, inherent, innate, intrinsic"
+},
+{
+"vi": "nội vụ",
+"nom": "内務",
+"en": "home affairs"
+},
+{
+"vi": "nội đường",
+"nom": "内堂",
+"en": "in-house, inside the house"
+},
+{
+"vi": "nội địa",
+"nom": "内地",
+"en": "inland, domestic"
+},
+{
+"vi": "hợp phần",
+"nom": "合分",
+"en": "constituent, component"
+},
+{
+"vi": "khẩu phần",
+"nom": "口分",
+"en": "ration"
+},
+{
+"vi": "phân loại",
+"nom": "分類",
+"en": "to classify; classification"
+},
+{
+"vi": "phân loại học",
+"nom": "分類学",
+"en": "taxonomy, systematics"
+},
+{
+"vi": "phần công",
+"nom": "分工",
+"en": "to allot, to assign"
+},
+{
+"vi": "phần nào",
+"nom": "分芇",
+"en": "to some extent, to a certain degree"
+},
+{
+"vi": "phần tử",
+"nom": "分子",
+"en": "element"
+},
+{
+"vi": "phần việc",
+"nom": "分役",
+"en": "one's job, one's responsibility"
+},
+{
+"vi": "thành phần",
+"nom": "成分",
+"en": "ingredient; component; composition; social back-ground"
+},
+{
+"vi": "đa phần",
+"nom": "多分",
+"en": "most; mostly, for the most part"
+},
+{
+"vi": "sản xuất",
+"nom": "産出",
+"en": "to produce, to manufacture"
+},
+{
+"vi": "xuất bản",
+"nom": "出版",
+"en": "to publish"
+},
+{
+"vi": "xuất hiện",
+"nom": "出現",
+"en": "to appear; appearance"
+},
+{
+"vi": "xuất khẩu",
+"nom": "出口",
+"en": "export; to export"
+},
+{
+"vi": "đề xuất",
+"nom": "題出",
+"en": "to put forward (for discussion)"
+},
+{
+"vi": "kiếm thuật",
+"nom": "劍朮",
+"en": "swordsmanship, fencing"
+},
+{
+"vi": "phi kiếm",
+"nom": "飛劍",
+"en": "throwing sword"
+},
+{
+"vi": "ấn kiếm",
+"nom": "印劍",
+"en": "seal and sword"
+},
+{
+"vi": "gia tăng",
+"nom": "加增",
+"en": "to increase"
+},
+{
+"vi": "gia vị",
+"nom": "加味",
+"en": "spice"
+},
+{
+"vi": "tham gia",
+"nom": "参加",
+"en": "to take part, to attend"
+},
+{
+"vi": "mạnh khoẻ",
+"nom": "孟劸",
+"en": "healthy"
+},
+{
+"vi": "trợ lý",
+"nom": "助理",
+"en": "assistant"
+},
+{
+"vi": "trợ thủ",
+"nom": "助手",
+"en": "assistant, helper, supporter"
+},
+{
+"vi": "trợ động từ",
+"nom": "助動詞",
+"en": "auxiliary verb"
+},
+{
+"vi": "thành công",
+"nom": "成功",
+"en": "to succeed"
+},
+{
+"vi": "hết mùa",
+"nom": "歇务",
+"en": "out of season"
+},
+{
+"vi": "làm mùa",
+"nom": "爫务",
+"en": "to make preparations for the crops"
+},
+{
+"vi": "mùa thu",
+"nom": "务秋",
+"en": "autumn"
+},
+{
+"vi": "mùa xuân",
+"nom": "务春",
+"en": "spring (season)"
+},
+{
+"vi": "nửa mùa",
+"nom": "姅务",
+"en": "half-baked"
+},
+{
+"vi": "lực lượng",
+"nom": "力量",
+"en": "strengh, force, power"
+},
+{
+"vi": "mã lực",
+"nom": "馬力",
+"en": "horsepower"
+},
+{
+"vi": "năng lực",
+"nom": "能力",
+"en": "ability, capability"
+},
+{
+"vi": "quyền lực",
+"nom": "权力",
+"en": "power, might, authority"
+},
+{
+"vi": "áp lực",
+"nom": "壓力",
+"en": "pressure"
+},
+{
+"vi": "áp lực không khí",
+"nom": "壓力空氣",
+"en": "atmospheric pressure"
+},
+{
+"vi": "bị động",
+"nom": "被動",
+"en": "passive"
+},
+{
+"vi": "năng động",
+"nom": "能動",
+"en": "dynamic"
+},
+{
+"vi": "tự động",
+"nom": "自動",
+"en": "automatic"
+},
+{
+"vi": "đánh động",
+"nom": "打動",
+"en": "to alert, to warn"
+},
+{
+"vi": "động từ",
+"nom": "動詞",
+"en": "verb"
+},
+{
+"vi": "động vật",
+"nom": "動物",
+"en": "animal"
+},
+{
+"vi": "động vật học",
+"nom": "動物学",
+"en": "zoology"
+},
+{
+"vi": "động đất",
+"nom": "動坦",
+"en": "earthquake, seism"
+},
+{
+"vi": "dịch vụ",
+"nom": "役務",
+"en": "service"
+},
+{
+"vi": "giáo vụ",
+"nom": "教務",
+"en": "educational administration"
+},
+{
+"vi": "nghĩa vụ",
+"nom": "義務",
+"en": "duty, obligation"
+},
+{
+"vi": "đặc vụ",
+"nom": "特務",
+"en": "secret service; secret agent"
+},
+{
+"vi": "hình thế",
+"nom": "形勢",
+"en": "complexion, character, situation; terrain, topography"
+},
+{
+"vi": "khí thế",
+"nom": "氣勢",
+"en": "momentum, impetus"
+},
+{
+"vi": "như thế",
+"nom": "如勢",
+"en": "like this, like that; thus, so"
+},
+{
+"vi": "như thế nào",
+"nom": "如勢芇",
+"en": "how"
+},
+{
+"vi": "thế nào",
+"nom": "勢芇",
+"en": "how"
+},
+{
+"vi": "vì thế",
+"nom": "爲勢",
+"en": "therefore, so"
+},
+{
+"vi": "địa thế",
+"nom": "地勢",
+"en": "terrain, site"
+},
+{
+"vi": "chẳng cần",
+"nom": "庄勤",
+"en": "not to need"
+},
+{
+"vi": "cần yếu",
+"nom": "勤要",
+"en": "indispensable, essential, important"
+},
+{
+"vi": "ân cần",
+"nom": "殷勤",
+"en": "thoughtful, solicitous"
+},
+{
+"vi": "hoá học",
+"nom": "化学",
+"en": "chemistry"
+},
+{
+"vi": "tạo hoá",
+"nom": "造化",
+"en": "the creator"
+},
+{
+"vi": "văn hoá",
+"nom": "文化",
+"en": "culture, civilization"
+},
+{
+"vi": "khu phố",
+"nom": "區庯",
+"en": "quarter (of a city)"
+},
+{
+"vi": "khu vực",
+"nom": "區域",
+"en": "zone, area"
+},
+{
+"vi": "đặc khu",
+"nom": "特區",
+"en": "special zone"
+},
+{
+"vi": "bắc kỳ",
+"nom": "北圻",
+"en": "Tonkin"
+},
+{
+"vi": "bắc mỹ",
+"nom": "北美",
+"en": "North America"
+},
+{
+"vi": "miền bắc",
+"nom": "沔北",
+"en": "northern region; northern Vietnam"
+},
+{
+"vi": "bao giấy",
+"nom": "包紙",
+"en": "paper bag"
+},
+{
+"vi": "bao nhiêu",
+"nom": "包饒",
+"en": "how much, how many"
+},
+{
+"vi": "bao thơ",
+"nom": "包書",
+"en": "envelope"
+},
+{
+"vi": "hồng thập tự",
+"nom": "紅十字",
+"en": "Red Cross"
+},
+{
+"vi": "thập niên",
+"nom": "十年",
+"en": "decade"
+},
+{
+"vi": "bán phụ âm",
+"nom": "半輔音",
+"en": "semi-consonant"
+},
+{
+"vi": "bán âm",
+"nom": "半音",
+"en": "semivowel"
+},
+{
+"vi": "bán đảo",
+"nom": "半島",
+"en": "peninsula"
+},
+{
+"vi": "chỉ nam",
+"nom": "指南",
+"en": "to guide; guide (book)"
+},
+{
+"vi": "hải nam",
+"nom": "海南",
+"en": "Hainan (island)"
+},
+{
+"vi": "miền nam",
+"nom": "沔南",
+"en": "southern region; southern Vietnam"
+},
+{
+"vi": "nam dương",
+"nom": "南洋",
+"en": "Indonesia"
+},
+{
+"vi": "nam kỳ",
+"nom": "南圻",
+"en": "Cochinchina"
+},
+{
+"vi": "việt nam",
+"nom": "越南",
+"en": "Vietnam; vietnamese"
+},
+{
+"vi": "tốt nghiệp",
+"nom": "卒業",
+"en": "to graduate"
+},
+{
+"vi": "tốt số",
+"nom": "卒数",
+"en": "fortunate, lucky"
+},
+{
+"vi": "bác học",
+"nom": "博学",
+"en": "scholarly, learned, knowledgeable"
+},
+{
+"vi": "bác sĩ",
+"nom": "博士",
+"en": "doctor, physician, general practitioner"
+},
+{
+"vi": "bác vật",
+"nom": "博物",
+"en": "engineer; erudition, scholarliness"
+},
+{
+"vi": "nhà bác học",
+"nom": "茹博学",
+"en": "scientist"
+},
+{
+"vi": "giấy in",
+"nom": "紙印",
+"en": "printing paper"
+},
+{
+"vi": "ấn độ",
+"nom": "印度",
+"en": "India"
+},
+{
+"vi": "ấn độ dương",
+"nom": "印度洋",
+"en": "Indian Ocean"
+},
+{
+"vi": "ấn độ giáo",
+"nom": "印度教",
+"en": "hinduism"
+},
+{
+"vi": "nguy hiểm",
+"nom": "危險",
+"en": "dangerous, risky, perilous"
+},
+{
+"vi": "âm lịch",
+"nom": "阴厤",
+"en": "lunar calendar"
+},
+{
+"vi": "cao nguyên",
+"nom": "高原",
+"en": "plateau"
+},
+{
+"vi": "thái nguyên",
+"nom": "太原",
+"en": "Thái Nguyên province"
+},
+{
+"vi": "tây nguyên",
+"nom": "西原",
+"en": "Tây Nguyên plateau"
+},
+{
+"vi": "đề cập",
+"nom": "提及",
+"en": "to mention something"
+},
+{
+"vi": "tham chiến",
+"nom": "参戰",
+"en": "to be at war, to wage war"
+},
+{
+"vi": "tham khảo",
+"nom": "参考",
+"en": "to consult; consultation"
+},
+{
+"vi": "tham quan",
+"nom": "参觀",
+"en": "to go for a sightseeing"
+},
+{
+"vi": "phản đối",
+"nom": "反対",
+"en": "to oppose, to object (to)"
+},
+{
+"vi": "hải khẩu",
+"nom": "海口",
+"en": "river delta, estuary"
+},
+{
+"vi": "hộ khẩu",
+"nom": "户口",
+"en": "registered residence; population, number of inhabitants"
+},
+{
+"vi": "kêu cầu",
+"nom": "叫求",
+"en": "to pray for help (from higher levels)"
+},
+{
+"vi": "kêu gọi",
+"nom": "叫噲",
+"en": "to appeal, to call upon"
+},
+{
+"vi": "cổ đô",
+"nom": "古都",
+"en": "ancient capital"
+},
+{
+"vi": "thay vì",
+"nom": "台爲",
+"en": "instead of"
+},
+{
+"vi": "kinh sử",
+"nom": "経史",
+"en": "classics and history"
+},
+{
+"vi": "lịch sử",
+"nom": "歷史",
+"en": "history"
+},
+{
+"vi": "sử học",
+"nom": "史学",
+"en": "history (field of study)"
+},
+{
+"vi": "tiểu sử",
+"nom": "小史",
+"en": "biography, history"
+},
+{
+"vi": "cầu xin",
+"nom": "求吀",
+"en": "to solicit, to ask for, to beg for"
+},
+{
+"vi": "xin chào",
+"nom": "吀嘲",
+"en": "(common greeting); Good afternoon/evening!"
+},
+{
+"vi": "xin lỗi",
+"nom": "吀纇",
+"en": "to beg for pardon; Excuse me! Sorry!"
+},
+{
+"vi": "đồng nghĩa",
+"nom": "同義",
+"en": "synonym"
+},
+{
+"vi": "đồng âm",
+"nom": "同音",
+"en": "homophone; homonym"
+},
+{
+"vi": "đồng ý",
+"nom": "同意",
+"en": "to agree, to accord, to consent, to approve"
+},
+{
+"vi": "hợp bang",
+"nom": "合邦",
+"en": "confederation"
+},
+{
+"vi": "hợp doanh",
+"nom": "合营",
+"en": "to share a venture, to joint-venture, to cooperate"
+},
+{
+"vi": "hợp kim",
+"nom": "合金",
+"en": "alloy"
+},
+{
+"vi": "kết hợp",
+"nom": "結合",
+"en": "to combine, to coordinate"
+},
+{
+"vi": "liên hợp",
+"nom": "聯合",
+"en": "union, association; to link, to join; to conjugate"
+},
+{
+"vi": "thích hợp",
+"nom": "適合",
+"en": "to fit, to suit, suitable"
+},
+{
+"vi": "trường hợp",
+"nom": "場合",
+"en": "occasion, circumstance"
+},
+{
+"vi": "tổ hợp",
+"nom": "組合",
+"en": "combination, cooperation"
+},
+{
+"vi": "danh từ",
+"nom": "名詞",
+"en": "noun"
+},
+{
+"vi": "cuốn lại",
+"nom": "捲吏",
+"en": "to wind up, to spool, to coil"
+},
+{
+"vi": "còn lại",
+"nom": "群吏",
+"en": "to remain; remaining, other"
+},
+{
+"vi": "hồi lại",
+"nom": "回吏",
+"en": "to turn back, to reverse"
+},
+{
+"vi": "với lại",
+"nom": "貝吏",
+"en": "furthermore; and then"
+},
+{
+"vi": "để lại",
+"nom": "底吏",
+"en": "to leave back; left over; to spare"
+},
+{
+"vi": "ở lại",
+"nom": "於吏",
+"en": "to remain, to stay"
+},
+{
+"vi": "cha mẹ",
+"nom": "吒媄",
+"en": "parents"
+},
+{
+"vi": "lần đầu",
+"nom": "吝頭",
+"en": "the first time"
+},
+{
+"vi": "trả ơn",
+"nom": "呂恩",
+"en": "to thank so. (for sth.)"
+},
+{
+"vi": "nói chung",
+"nom": "呐終",
+"en": "generally speaking"
+},
+{
+"vi": "hương vị",
+"nom": "香味",
+"en": "taste, aromatic flavour"
+},
+{
+"vi": "cách mạng",
+"nom": "革命",
+"en": "revolution"
+},
+{
+"vi": "hoà bình",
+"nom": "和平",
+"en": "peace, peaceful"
+},
+{
+"vi": "hay quá",
+"nom": "咍過",
+"en": "very good; well done"
+},
+{
+"vi": "hay sao",
+"nom": "咍牢",
+"en": "isn't it?"
+},
+{
+"vi": "bàn ăn",
+"nom": "盘咹",
+"en": "dinner table"
+},
+{
+"vi": "dầu ăn",
+"nom": "油咹",
+"en": "cooking oil, edible oil"
+},
+{
+"vi": "phòng ăn",
+"nom": "房咹",
+"en": "dining room"
+},
+{
+"vi": "tham ăn",
+"nom": "貪咹",
+"en": "greedy, covetous"
+},
+{
+"vi": "thức ăn",
+"nom": "式咹",
+"en": "food"
+},
+{
+"vi": "tiệm ăn",
+"nom": "店咹",
+"en": "restaurant"
+},
+{
+"vi": "ăn cơm",
+"nom": "咹粓",
+"en": "to eat a meal"
+},
+{
+"vi": "ăn thử",
+"nom": "咹試",
+"en": "to sample (food), to taste"
+},
+{
+"vi": "chế phẩm",
+"nom": "製品",
+"en": "finished product"
+},
+{
+"vi": "dược phẩm",
+"nom": "藥品",
+"en": "pharmaceutical product"
+},
+{
+"vi": "phẩm loại",
+"nom": "品類",
+"en": "grade, quality"
+},
+{
+"vi": "sản phẩm",
+"nom": "産品",
+"en": "product"
+},
+{
+"vi": "thế phẩm",
+"nom": "替品",
+"en": "substitute"
+},
+{
+"vi": "vật phẩm",
+"nom": "物品",
+"en": "articles, products, goods"
+},
+{
+"vi": "giáo viên",
+"nom": "教員",
+"en": "teacher, instructor"
+},
+{
+"vi": "sinh viên",
+"nom": "生員",
+"en": "student"
+},
+{
+"vi": "hết cả",
+"nom": "歇哿",
+"en": "all and sundry, all without exception"
+},
+{
+"vi": "tất cả",
+"nom": "毕哿",
+"en": "all; entire, whole"
+},
+{
+"vi": "hết hơi",
+"nom": "歇唏",
+"en": "out of breath, breathless"
+},
+{
+"vi": "học vấn",
+"nom": "学問",
+"en": "knowledge, learning, literacy"
+},
+{
+"vi": "phát vấn",
+"nom": "發問",
+"en": "conversational, by asking and questioning, maieutic"
+},
+{
+"vi": "vấn đề",
+"nom": "問題",
+"en": "problem, matter, question, issue"
+},
+{
+"vi": "ôi thôi",
+"nom": "喂推",
+"en": "alas"
+},
+{
+"vi": "la hét",
+"nom": "囉喝",
+"en": "to scream"
+},
+{
+"vi": "thứ tư",
+"nom": "次四",
+"en": "wednesday; fourth"
+},
+{
+"vi": "tư hải",
+"nom": "四海",
+"en": "the world (lit. \"four oceans\"), cf. 𦊚𣷷"
+},
+{
+"vi": "đặt hàng",
+"nom": "噠航",
+"en": "to place an order"
+},
+{
+"vi": "hồi giáo",
+"nom": "回教",
+"en": "islam"
+},
+{
+"vi": "hồi sinh",
+"nom": "回生",
+"en": "reanimate"
+},
+{
+"vi": "hồi thanh",
+"nom": "回聲",
+"en": "echo"
+},
+{
+"vi": "hồi tưởng",
+"nom": "回想",
+"en": "to remember, to recall"
+},
+{
+"vi": "hồi văn",
+"nom": "回文",
+"en": "palindrome"
+},
+{
+"vi": "hồi xuân",
+"nom": "回春",
+"en": "change of life, menopause"
+},
+{
+"vi": "hồi âm",
+"nom": "回音",
+"en": "to reply"
+},
+{
+"vi": "có khi",
+"nom": "固欺",
+"en": "sometimes; perhaps, maybe"
+},
+{
+"vi": "có lý",
+"nom": "固理",
+"en": "right, reasonable; sensible"
+},
+{
+"vi": "có quyền",
+"nom": "固权",
+"en": "to have the right to"
+},
+{
+"vi": "có tuổi",
+"nom": "固歲",
+"en": "advanced in years, aged"
+},
+{
+"vi": "có điều",
+"nom": "固条",
+"en": "except, just, only that..."
+},
+{
+"vi": "anh quốc",
+"nom": "英國",
+"en": "United Kingdom of Great Britain and Northern Ireland, England (colloquial)"
+},
+{
+"vi": "ngoại quốc",
+"nom": "外國",
+"en": "alien, foreign country"
+},
+{
+"vi": "quốc doanh",
+"nom": "國营",
+"en": "state-run, state-managed"
+},
+{
+"vi": "quốc gia",
+"nom": "國家",
+"en": "nation, country, state"
+},
+{
+"vi": "quốc ngữ",
+"nom": "國語",
+"en": "national language; national script"
+},
+{
+"vi": "quốc phòng",
+"nom": "國防",
+"en": "national defence"
+},
+{
+"vi": "quốc tế",
+"nom": "國际",
+"en": "international"
+},
+{
+"vi": "tổ quốc",
+"nom": "祖國",
+"en": "fatherland"
+},
+{
+"vi": "vương quốc anh",
+"nom": "王國英",
+"en": "Kingdom of England"
+},
+{
+"vi": "đế quốc đức",
+"nom": "帝國德",
+"en": "German Empire"
+},
+{
+"vi": "bản đồ",
+"nom": "版圖",
+"en": "(geographical) map"
+},
+{
+"vi": "đồ vật",
+"nom": "圖物",
+"en": "things, objects"
+},
+{
+"vi": "địa chỉ",
+"nom": "地址",
+"en": "address"
+},
+{
+"vi": "hiện tại",
+"nom": "現在",
+"en": "at present; present, modern, nowadays"
+},
+{
+"vi": "tại sao",
+"nom": "在牢",
+"en": "why"
+},
+{
+"vi": "tại vì",
+"nom": "在爲",
+"en": "because"
+},
+{
+"vi": "bản địa",
+"nom": "本地",
+"en": "native, indigenous; vernacular"
+},
+{
+"vi": "hậu thuộc địa",
+"nom": "後屬地",
+"en": "post-colonial"
+},
+{
+"vi": "khách địa",
+"nom": "客地",
+"en": "foreign land"
+},
+{
+"vi": "thuộc địa",
+"nom": "屬地",
+"en": "colony, annexed territory"
+},
+{
+"vi": "địa chính trị",
+"nom": "地政治",
+"en": "geopolitics"
+},
+{
+"vi": "địa lý",
+"nom": "地理",
+"en": "geography"
+},
+{
+"vi": "địa phương",
+"nom": "地方",
+"en": "region; regional"
+},
+{
+"vi": "địa vực",
+"nom": "地域",
+"en": "territory"
+},
+{
+"vi": "địa điểm",
+"nom": "地點",
+"en": "location, place, site"
+},
+{
+"vi": "đất khách",
+"nom": "坦客",
+"en": "strange land, foreign land"
+},
+{
+"vi": "đất nước",
+"nom": "坦渃",
+"en": "home country, homeland"
+},
+{
+"vi": "mai một",
+"nom": "埋没",
+"en": "to bury; to neglect"
+},
+{
+"vi": "thành phố",
+"nom": "城庯",
+"en": "city, town"
+},
+{
+"vi": "thành thị",
+"nom": "城市",
+"en": "urban area, town"
+},
+{
+"vi": "đồng bằng",
+"nom": "垌平",
+"en": "plain, lowland, level land"
+},
+{
+"vi": "khắp nơi",
+"nom": "泣坭",
+"en": "everywhere"
+},
+{
+"vi": "chẳng ai",
+"nom": "庄埃",
+"en": "nobody"
+},
+{
+"vi": "với ai",
+"nom": "貝埃",
+"en": "with somebody; together (with so.)"
+},
+{
+"vi": "giáo đường",
+"nom": "教堂",
+"en": "palace of worship, church"
+},
+{
+"vi": "hậu đường",
+"nom": "後堂",
+"en": "building at the back of a mansion"
+},
+{
+"vi": "học đường",
+"nom": "学堂",
+"en": "school"
+},
+{
+"vi": "nữ học đường",
+"nom": "女学堂",
+"en": "school for girls, girl's school"
+},
+{
+"vi": "thiên đường",
+"nom": "天堂",
+"en": "paradise, heaven, elysium"
+},
+{
+"vi": "cơ bản",
+"nom": "基本",
+"en": "base, foundation; basic, fundamental"
+},
+{
+"vi": "sinh đôi",
+"nom": "生堆",
+"en": "twin, twins"
+},
+{
+"vi": "đôi bên",
+"nom": "堆边",
+"en": "both sides"
+},
+{
+"vi": "đôi khi",
+"nom": "堆欺",
+"en": "sometimes, occasionally"
+},
+{
+"vi": "bài báo",
+"nom": "排報",
+"en": "article (in a newspaper)"
+},
+{
+"vi": "dự báo",
+"nom": "預報",
+"en": "forcast, to forcast"
+},
+{
+"vi": "giấy báo",
+"nom": "紙報",
+"en": "newsprint"
+},
+{
+"vi": "thông báo",
+"nom": "通報",
+"en": "bulletin, journal"
+},
+{
+"vi": "môi trường",
+"nom": "媒場",
+"en": "environment; medium"
+},
+{
+"vi": "môi trường học",
+"nom": "媒場学",
+"en": "environmental sciences, ecology, mesology"
+},
+{
+"vi": "ngư trường",
+"nom": "魚場",
+"en": "fishing grounds"
+},
+{
+"vi": "phi trường",
+"nom": "飛場",
+"en": "airport"
+},
+{
+"vi": "thị trường",
+"nom": "市場",
+"en": "market"
+},
+{
+"vi": "trường học",
+"nom": "場学",
+"en": "school"
+},
+{
+"vi": "trường tiểu học",
+"nom": "場小学",
+"en": "elementary school"
+},
+{
+"vi": "trường đại học",
+"nom": "場大学",
+"en": "university"
+},
+{
+"vi": "dẫn đường",
+"nom": "引塘",
+"en": "to show the way"
+},
+{
+"vi": "đường phố",
+"nom": "塘庯",
+"en": "street"
+},
+{
+"vi": "dược sĩ",
+"nom": "藥士",
+"en": "pharmacist, chemist"
+},
+{
+"vi": "nghệ sĩ",
+"nom": "芸士",
+"en": "artist"
+},
+{
+"vi": "bà ngoại",
+"nom": "妑外",
+"en": "maternal grandmother"
+},
+{
+"vi": "bên ngoài",
+"nom": "边外",
+"en": "outside, outer, exterior"
+},
+{
+"vi": "hải ngoại",
+"nom": "海外",
+"en": "abroad, overseas"
+},
+{
+"vi": "nước ngoài",
+"nom": "渃外",
+"en": "abroad; foreign country"
+},
+{
+"vi": "tối đa",
+"nom": "最多",
+"en": "maximum, maximal"
+},
+{
+"vi": "đa âm tiết",
+"nom": "多音節",
+"en": "polysyllabic"
+},
+{
+"vi": "thanh thiên",
+"nom": "青天",
+"en": "blue sky, clear sky"
+},
+{
+"vi": "thiên điểu",
+"nom": "天鳥",
+"en": "bird of paradise flower (strelizia)"
+},
+{
+"vi": "thái bình",
+"nom": "太平",
+"en": "peace and secure"
+},
+{
+"vi": "thái bình dương",
+"nom": "太平洋",
+"en": "Pacific Ocean"
+},
+{
+"vi": "thái tử",
+"nom": "太子",
+"en": "crown prince"
+},
+{
+"vi": "thất thường",
+"nom": "失常",
+"en": "irregular, erratic"
+},
+{
+"vi": "thất trận",
+"nom": "失陣",
+"en": "to loose a battle, to be defeated"
+},
+{
+"vi": "giáp chiến",
+"nom": "夾戰",
+"en": "to face each other in a battle"
+},
+{
+"vi": "giáp giới",
+"nom": "夾界",
+"en": "to share the same border, to border"
+},
+{
+"vi": "giáp hạt",
+"nom": "夾籺",
+"en": "between-crop period"
+},
+{
+"vi": "tiếp giáp",
+"nom": "接夾",
+"en": "to adjoin, to be contiguous"
+},
+{
+"vi": "châu đại dương",
+"nom": "洲大洋",
+"en": "Oceania"
+},
+{
+"vi": "đại bản doanh",
+"nom": "大本营",
+"en": "headquarters, head office"
+},
+{
+"vi": "đại công nghiệp",
+"nom": "大工業",
+"en": "large-scale industry"
+},
+{
+"vi": "đại doanh",
+"nom": "大营",
+"en": "headquarters, head office"
+},
+{
+"vi": "đại học",
+"nom": "大学",
+"en": "university; higher education"
+},
+{
+"vi": "như không",
+"nom": "如空",
+"en": "useless"
+},
+{
+"vi": "lão bà",
+"nom": "老妑",
+"en": "old lady"
+},
+{
+"vi": "ông bà",
+"nom": "翁妑",
+"en": "man and woman; husband and wife"
+},
+{
+"vi": "đàn bà",
+"nom": "彈妑",
+"en": "woman"
+},
+{
+"vi": "ngọc nữ",
+"nom": "玉女",
+"en": "beautiful girl; fairy"
+},
+{
+"vi": "nữ thần",
+"nom": "女神",
+"en": "goddess, nymph"
+},
+{
+"vi": "nữa",
+"nom": "女𖿱",
+"en": "half; again, more"
+},
+{
+"vi": "phụ nữ",
+"nom": "婦女",
+"en": "woman"
+},
+{
+"vi": "hồi đó",
+"nom": "徊妬",
+"en": "then, back then, at that time"
+},
+{
+"vi": "nào đó",
+"nom": "芇妬",
+"en": "some, certain"
+},
+{
+"vi": "từ đó",
+"nom": "自妬",
+"en": "from there on; since then"
+},
+{
+"vi": "ở đó",
+"nom": "於妬",
+"en": "there; over there"
+},
+{
+"vi": "trang điểm",
+"nom": "妝點",
+"en": "to beautify, to make up"
+},
+{
+"vi": "cô giáo",
+"nom": "姑教",
+"en": "woman teacher, schoolmistress"
+},
+{
+"vi": "cô nàng",
+"nom": "姑娘",
+"en": "gal, girl"
+},
+{
+"vi": "sản phụ",
+"nom": "産婦",
+"en": "woman in childbirth"
+},
+{
+"vi": "thiếu phụ",
+"nom": "少婦",
+"en": "young woman"
+},
+{
+"vi": "ba má",
+"nom": "爸媽",
+"en": "parents, father and mother"
+},
+{
+"vi": "khổng tử",
+"nom": "孔子",
+"en": "Confucius"
+},
+{
+"vi": "thám tử",
+"nom": "探子",
+"en": "scout, detective"
+},
+{
+"vi": "thư điện tử",
+"nom": "書電子",
+"en": "E-mail"
+},
+{
+"vi": "điện tử",
+"nom": "電子",
+"en": "electron; electronic"
+},
+{
+"vi": "khổng giáo",
+"nom": "孔教",
+"en": "Confucianism"
+},
+{
+"vi": "bài học",
+"nom": "排学",
+"en": "lesson"
+},
+{
+"vi": "dược học",
+"nom": "藥学",
+"en": "pharmacy, pharmaceutics"
+},
+{
+"vi": "học giả",
+"nom": "学者",
+"en": "scholar, literary man"
+},
+{
+"vi": "học hành",
+"nom": "学行",
+"en": "to learn, to study"
+},
+{
+"vi": "học sinh",
+"nom": "学生",
+"en": "pupil; schoolboy; schoolgirl"
+},
+{
+"vi": "học viện",
+"nom": "学院",
+"en": "institute"
+},
+{
+"vi": "khoa học",
+"nom": "科学",
+"en": "science"
+},
+{
+"vi": "lâm học",
+"nom": "林学",
+"en": "forestry"
+},
+{
+"vi": "sinh học",
+"nom": "生学",
+"en": "biology (science)"
+},
+{
+"vi": "tiểu học",
+"nom": "小学",
+"en": "primary education"
+},
+{
+"vi": "văn học",
+"nom": "文学",
+"en": "literature"
+},
+{
+"vi": "vật lý học",
+"nom": "物理学",
+"en": "physics (field of study)"
+},
+{
+"vi": "chỉ định",
+"nom": "指定",
+"en": "to appoint, to assign"
+},
+{
+"vi": "dự định",
+"nom": "預定",
+"en": "to project, to plan, to schedule"
+},
+{
+"vi": "quyết định",
+"nom": "決定",
+"en": "to decide; to resolve"
+},
+{
+"vi": "quyết định luận",
+"nom": "決定論",
+"en": "determinism"
+},
+{
+"vi": "định liệu",
+"nom": "定料",
+"en": "to make arrangements for"
+},
+{
+"vi": "định nghĩa",
+"nom": "定義",
+"en": "definition"
+},
+{
+"vi": "bình an",
+"nom": "平安",
+"en": "peace, security"
+},
+{
+"vi": "cung điện",
+"nom": "宮殿",
+"en": "palace, temple"
+},
+{
+"vi": "hoàng cung",
+"nom": "皇宮",
+"en": "royal palace"
+},
+{
+"vi": "hành khách",
+"nom": "行客",
+"en": "passenger"
+},
+{
+"vi": "làm khách",
+"nom": "爫客",
+"en": "to stand upon ceremony, to behave formally"
+},
+{
+"vi": "nhà khách",
+"nom": "茹客",
+"en": "guest house"
+},
+{
+"vi": "phòng khách",
+"nom": "房客",
+"en": "living room, lounge"
+},
+{
+"vi": "chính trị gia",
+"nom": "政治家",
+"en": "politician"
+},
+{
+"vi": "gia cảnh",
+"nom": "家景",
+"en": "family condition, situation of the family"
+},
+{
+"vi": "gia đình",
+"nom": "家庭",
+"en": "family"
+},
+{
+"vi": "gia đình trị",
+"nom": "家庭治",
+"en": "nepotism"
+},
+{
+"vi": "thành thật",
+"nom": "誠實",
+"en": "honest, honesty"
+},
+{
+"vi": "thực hiện",
+"nom": "實現",
+"en": "to realize, to carry out"
+},
+{
+"vi": "thủ tướng",
+"nom": "首將",
+"en": "chief officer; prime minister"
+},
+{
+"vi": "tìm hiểu",
+"nom": "尋曉",
+"en": "to learn (about sth.)"
+},
+{
+"vi": "tiểu bang",
+"nom": "小邦",
+"en": "state"
+},
+{
+"vi": "niên thiếu",
+"nom": "年少",
+"en": "young, tender"
+},
+{
+"vi": "tối thiểu",
+"nom": "最少",
+"en": "minimum, minimal"
+},
+{
+"vi": "phát triển",
+"nom": "發展",
+"en": "to develop, to grow, to expand"
+},
+{
+"vi": "cuộc sống",
+"nom": "局生",
+"en": "life, existence"
+},
+{
+"vi": "pháp thuộc",
+"nom": "法屬",
+"en": "French domination"
+},
+{
+"vi": "công nghiệp",
+"nom": "工業",
+"en": "industry"
+},
+{
+"vi": "công nghệ",
+"nom": "工芸",
+"en": "craft, industry"
+},
+{
+"vi": "công việc",
+"nom": "工役",
+"en": "work; employment"
+},
+{
+"vi": "hoả sơn",
+"nom": "火山",
+"en": "volcano"
+},
+{
+"vi": "sơn lâm",
+"nom": "山林",
+"en": "mountain and forest, greenwood"
+},
+{
+"vi": "đô thị",
+"nom": "都市",
+"en": "city"
+},
+{
+"vi": "giáo sư",
+"nom": "教師",
+"en": "professor"
+},
+{
+"vi": "luật sư",
+"nom": "律師",
+"en": "lawyer, advocate"
+},
+{
+"vi": "sư trưởng",
+"nom": "師長",
+"en": "master, mastermind; military division commander"
+},
+{
+"vi": "bình thường",
+"nom": "平常",
+"en": "normal, ordinary, usual; normally, usually"
+},
+{
+"vi": "dễ thường",
+"nom": "易常",
+"en": "probably, possibly"
+},
+{
+"vi": "khác thường",
+"nom": "恪常",
+"en": "especial, extraordinary"
+},
+{
+"vi": "thường khi",
+"nom": "常欺",
+"en": "often, frequently"
+},
+{
+"vi": "thường nhật",
+"nom": "常日",
+"en": "daily"
+},
+{
+"vi": "thường niên",
+"nom": "常年",
+"en": "annual, yearly"
+},
+{
+"vi": "thường thường",
+"nom": "常常",
+"en": "usually"
+},
+{
+"vi": "bức tranh",
+"nom": "幅幀",
+"en": "picture, painting"
+},
+{
+"vi": "thanh niên",
+"nom": "青年",
+"en": "youth, juvenile, young person"
+},
+{
+"vi": "chẳng sao",
+"nom": "庄牢",
+"en": "it doesn't matter, never mind"
+},
+{
+"vi": "để cho",
+"nom": "底朱",
+"en": "so that, in order to"
+},
+{
+"vi": "hạnh phúc",
+"nom": "幸福",
+"en": "happiness"
+},
+{
+"vi": "chính phủ",
+"nom": "政府",
+"en": "gonvernment"
+},
+{
+"vi": "trình độ",
+"nom": "程度",
+"en": "level, degree, standard"
+},
+{
+"vi": "phố xá",
+"nom": "庯舍",
+"en": "streets"
+},
+{
+"vi": "dân làng",
+"nom": "民廊",
+"en": "villager, villagers"
+},
+{
+"vi": "hành lang",
+"nom": "行廊",
+"en": "corridor, passage, gallery"
+},
+{
+"vi": "nhà chùa",
+"nom": "茹廚",
+"en": "buddhist monk, clergy"
+},
+{
+"vi": "đàn tranh",
+"nom": "彈爭",
+"en": "vietnamese zither"
+},
+{
+"vi": "đàn ông",
+"nom": "彈翁",
+"en": "man, adult male person"
+},
+{
+"vi": "chỉ dẫn",
+"nom": "指引",
+"en": "to direct, to instruct"
+},
+{
+"vi": "chứng dẫn",
+"nom": "證引",
+"en": "to produce evidence, to prove"
+},
+{
+"vi": "dây dẫn",
+"nom": "絏引",
+"en": "conducting wire, electric cord, power cord"
+},
+{
+"vi": "dẫn chứng",
+"nom": "引證",
+"en": "to cite, to quote"
+},
+{
+"vi": "dẫn giải",
+"nom": "引解",
+"en": "to insert glosses, add marginal notes"
+},
+{
+"vi": "dẫn điện",
+"nom": "引電",
+"en": "current carrying, conducting, live (electric)"
+},
+{
+"vi": "đề dẫn",
+"nom": "題引",
+"en": "introduction, preface"
+},
+{
+"vi": "chính thức",
+"nom": "正式",
+"en": "official"
+},
+{
+"vi": "hình thức",
+"nom": "形式",
+"en": "form"
+},
+{
+"vi": "phương thức",
+"nom": "方式",
+"en": "procedure, method"
+},
+{
+"vi": "đánh thức",
+"nom": "打式",
+"en": "to wake (someone)"
+},
+{
+"vi": "hình thành",
+"nom": "形成",
+"en": "to take form, to shape"
+},
+{
+"vi": "hình ảnh",
+"nom": "形影",
+"en": "image, photo, photograph"
+},
+{
+"vi": "đội hình",
+"nom": "隊形",
+"en": "formation, line-up"
+},
+{
+"vi": "giấy ảnh",
+"nom": "紙影",
+"en": "photographic paper"
+},
+{
+"vi": "ảnh hưởng",
+"nom": "影響",
+"en": "to influence; influence, effect, impact"
+},
+{
+"vi": "ảnh lửa",
+"nom": "影焒",
+"en": "light of fire"
+},
+{
+"vi": "làm việc",
+"nom": "爫役",
+"en": "to go to work, to work; working"
+},
+{
+"vi": "việc làm",
+"nom": "役爫",
+"en": "job, employment, work; act, deed, action"
+},
+{
+"vi": "tối hậu",
+"nom": "最後",
+"en": "final, last, ultimate"
+},
+{
+"vi": "tối hậu thư",
+"nom": "最後書",
+"en": "ultimatum"
+},
+{
+"vi": "hồi nào",
+"nom": "徊芇",
+"en": "when (in the past)"
+},
+{
+"vi": "đức hạnh",
+"nom": "德行",
+"en": "righteousness and good character"
+},
+{
+"vi": "từ từ",
+"nom": "徐徐",
+"en": "slowly"
+},
+{
+"vi": "quan tâm",
+"nom": "関心",
+"en": "to care about sth., to be interested in sth./so."
+},
+{
+"vi": "thanh tâm",
+"nom": "清心",
+"en": "pure mind"
+},
+{
+"vi": "tâm lý",
+"nom": "心理",
+"en": "psychology"
+},
+{
+"vi": "tâm thần",
+"nom": "心神",
+"en": "mind, mental"
+},
+{
+"vi": "ý chí",
+"nom": "意志",
+"en": "will"
+},
+{
+"vi": "tất nhiên",
+"nom": "必然",
+"en": "naturally, of course, inevitably"
+},
+{
+"vi": "tất yếu",
+"nom": "必要",
+"en": "indispensable"
+},
+{
+"vi": "hối hận",
+"nom": "悔恨",
+"en": "to repent; to rue"
+},
+{
+"vi": "cấp thời",
+"nom": "急時",
+"en": "at once, immediately"
+},
+{
+"vi": "cám ơn",
+"nom": "感恩",
+"en": "thanks, thank you"
+},
+{
+"vi": "cảm ơn",
+"nom": "感恩",
+"en": "thanks, thank you"
+},
+{
+"vi": "tình ân",
+"nom": "情恩",
+"en": "deep feeling of gratitude"
+},
+{
+"vi": "ân tình",
+"nom": "恩情",
+"en": "with deep gratitude"
+},
+{
+"vi": "hối tiếc",
+"nom": "悔惜",
+"en": "to repent, to regret"
+},
+{
+"vi": "bây nhiêu",
+"nom": "悲饒",
+"en": "that much, that many"
+},
+{
+"vi": "cảnh tình",
+"nom": "景情",
+"en": "situation, condition, circumstances"
+},
+{
+"vi": "lửa tình",
+"nom": "焒情",
+"en": "ardent zeal"
+},
+{
+"vi": "tình cảm",
+"nom": "情感",
+"en": "sentiment, affection, emotions"
+},
+{
+"vi": "cảm tưởng",
+"nom": "感想",
+"en": "impression"
+},
+{
+"vi": "không tưởng",
+"nom": "空想",
+"en": "fantastic, utopian"
+},
+{
+"vi": "liên tưởng",
+"nom": "連想",
+"en": "to associate, to make associations"
+},
+{
+"vi": "lý tưởng",
+"nom": "理想",
+"en": "ideal"
+},
+{
+"vi": "ý tưởng",
+"nom": "意想",
+"en": "idea, thought"
+},
+{
+"vi": "chú ý",
+"nom": "注意",
+"en": "to pay attention"
+},
+{
+"vi": "thích ý",
+"nom": "適意",
+"en": "to be satisfied"
+},
+{
+"vi": "ý kiến",
+"nom": "意見",
+"en": "view, opinion"
+},
+{
+"vi": "ý nghĩa",
+"nom": "意義",
+"en": "meaning, sense"
+},
+{
+"vi": "mặc cảm",
+"nom": "默感",
+"en": "complex; sense, perception"
+},
+{
+"vi": "hôm qua",
+"nom": "歆戈",
+"en": "yesterday"
+},
+{
+"vi": "gặp nhau",
+"nom": "﨤憢",
+"en": "to meet each other"
+},
+{
+"vi": "đánh nhau",
+"nom": "打憢",
+"en": "to fight, to battle (against each other)"
+},
+{
+"vi": "đều nhau",
+"nom": "調憢",
+"en": "equal"
+},
+{
+"vi": "thành thử",
+"nom": "成此",
+"en": "therefore, so, hence"
+},
+{
+"vi": "trưởng thành",
+"nom": "長成",
+"en": "to grow up; mature"
+},
+{
+"vi": "chiến thuyền",
+"nom": "戰船",
+"en": "warship, war vessel"
+},
+{
+"vi": "chiến tranh",
+"nom": "戰爭",
+"en": "war, warfare"
+},
+{
+"vi": "chiến trận",
+"nom": "戰陣",
+"en": "battle, engagement"
+},
+{
+"vi": "chiến đấu",
+"nom": "戰鬥",
+"en": "to fight, to combat"
+},
+{
+"vi": "tàu chiến",
+"nom": "艚戰",
+"en": "warship"
+},
+{
+"vi": "dược phòng",
+"nom": "藥房",
+"en": "drugstore, chemist's shop"
+},
+{
+"vi": "phòng trà",
+"nom": "房茶",
+"en": "tea room; tea shop"
+},
+{
+"vi": "tài năng",
+"nom": "才能",
+"en": "talent, ability"
+},
+{
+"vi": "bắt gặp",
+"nom": "扒﨤",
+"en": "to run into someone, to come across so."
+},
+{
+"vi": "bắt lửa",
+"nom": "扒焒",
+"en": "to catch fire; to light"
+},
+{
+"vi": "bắt đầu",
+"nom": "扒頭",
+"en": "to begin, to start"
+},
+{
+"vi": "chấp chính",
+"nom": "执政",
+"en": "to seize power, to assume power"
+},
+{
+"vi": "chấp hành",
+"nom": "执行",
+"en": "to implement, to execute, to carry out"
+},
+{
+"vi": "đầu cơ",
+"nom": "投机",
+"en": "to speculate"
+},
+{
+"vi": "đỡ đầu",
+"nom": "拖頭",
+"en": "to sponsor (someone), to support (someone)"
+},
+{
+"vi": "cứ điểm",
+"nom": "拠點",
+"en": "entrenched fortification"
+},
+{
+"vi": "luận cứ",
+"nom": "論拠",
+"en": "foundation (of a thesis), basis of argumentation"
+},
+{
+"vi": "đều cũng",
+"nom": "調拱",
+"en": "equally, also, as well"
+},
+{
+"vi": "chỉ giáo",
+"nom": "指教",
+"en": "to counsel, to educate"
+},
+{
+"vi": "chỉ số",
+"nom": "指数",
+"en": "index, index number"
+},
+{
+"vi": "chỉ số kinh tế",
+"nom": "指数経济",
+"en": "economic index"
+},
+{
+"vi": "chỉ thị",
+"nom": "指示",
+"en": "to instruct; instructions"
+},
+{
+"vi": "chỉ điểm",
+"nom": "指點",
+"en": "to pinpoint, to inform, to indicate"
+},
+{
+"vi": "bài hát",
+"nom": "排欱",
+"en": "song"
+},
+{
+"vi": "bài làm",
+"nom": "排爫",
+"en": "task, exercise"
+},
+{
+"vi": "bài thơ",
+"nom": "排書",
+"en": "poem"
+},
+{
+"vi": "do thám",
+"nom": "由探",
+"en": "to spy"
+},
+{
+"vi": "thám hiểm",
+"nom": "探險",
+"en": "to explore"
+},
+{
+"vi": "mà thôi",
+"nom": "麻推",
+"en": "only, merely, just, not more than"
+},
+{
+"vi": "đề cao",
+"nom": "提高",
+"en": "to heighten; to think highly of"
+},
+{
+"vi": "đề phòng",
+"nom": "提防",
+"en": "to take precautions, to beware"
+},
+{
+"vi": "trà xanh",
+"nom": "茶撑",
+"en": "green tea"
+},
+{
+"vi": "xanh lục",
+"nom": "撑綠",
+"en": "green"
+},
+{
+"vi": "dự chi",
+"nom": "預支",
+"en": "planned expenditure"
+},
+{
+"vi": "cải cách",
+"nom": "改革",
+"en": "to reform, to innovate"
+},
+{
+"vi": "cải tổ",
+"nom": "改組",
+"en": "to reorganize"
+},
+{
+"vi": "chính trị",
+"nom": "政治",
+"en": "politics, political"
+},
+{
+"vi": "chính trị phạm",
+"nom": "政治犯",
+"en": "political prisoner"
+},
+{
+"vi": "tài chính",
+"nom": "財政",
+"en": "finance, budget"
+},
+{
+"vi": "lão giáo",
+"nom": "老教",
+"en": "Taoism"
+},
+{
+"vi": "lễ giáo",
+"nom": "礼教",
+"en": "rites, ethical behaviour"
+},
+{
+"vi": "phụ giáo",
+"nom": "輔教",
+"en": "assistant (at university)"
+},
+{
+"vi": "doanh số",
+"nom": "营数",
+"en": "turnover"
+},
+{
+"vi": "duyên số",
+"nom": "縁数",
+"en": "predestined fate"
+},
+{
+"vi": "dân số",
+"nom": "民数",
+"en": "population"
+},
+{
+"vi": "số liệu",
+"nom": "数料",
+"en": "data"
+},
+{
+"vi": "số lượng",
+"nom": "数量",
+"en": "quantity"
+},
+{
+"vi": "số đen",
+"nom": "数黰",
+"en": "bad luck, misfortune"
+},
+{
+"vi": "đủ số",
+"nom": "都数",
+"en": "complete, full"
+},
+{
+"vi": "hán văn",
+"nom": "漢文",
+"en": "classical Chinese literature"
+},
+{
+"vi": "nhà văn",
+"nom": "茹文",
+"en": "knight of the pen, man of letters, author, littérateur"
+},
+{
+"vi": "văn minh",
+"nom": "文明",
+"en": "civilization, culture, civilized, cultured"
+},
+{
+"vi": "dược liệu",
+"nom": "藥料",
+"en": "drug; medicine"
+},
+{
+"vi": "hương liệu",
+"nom": "香料",
+"en": "spice, condiment"
+},
+{
+"vi": "tài liệu",
+"nom": "材料",
+"en": "material, document"
+},
+{
+"vi": "vật liệu",
+"nom": "物料",
+"en": "material"
+},
+{
+"vi": "cân thư",
+"nom": "斤書",
+"en": "letter balance"
+},
+{
+"vi": "nhà ở",
+"nom": "茹於",
+"en": "dwelling, residential building"
+},
+{
+"vi": "ở chung",
+"nom": "於終",
+"en": "to live together"
+},
+{
+"vi": "hoa kỳ",
+"nom": "花旗",
+"en": "United States of America"
+},
+{
+"vi": "nhật bản",
+"nom": "日本",
+"en": "Japan; japanese"
+},
+{
+"vi": "nhật dụng",
+"nom": "日用",
+"en": "for everyday use"
+},
+{
+"vi": "sinh nhật",
+"nom": "生日",
+"en": "birthday, day of birth"
+},
+{
+"vi": "tuần lễ",
+"nom": "旬礼",
+"en": "week"
+},
+{
+"vi": "anh minh",
+"nom": "英明",
+"en": "sagely, wise, gifted, capable"
+},
+{
+"vi": "thông minh",
+"nom": "聪明",
+"en": "intelligent; clever"
+},
+{
+"vi": "tinh minh",
+"nom": "精明",
+"en": "clear"
+},
+{
+"vi": "xuân thu",
+"nom": "春秋",
+"en": "spring and autumn"
+},
+{
+"vi": "hoả tinh",
+"nom": "火星",
+"en": "Mars"
+},
+{
+"vi": "hành tinh",
+"nom": "行星",
+"en": "planet"
+},
+{
+"vi": "thời cơ",
+"nom": "時机",
+"en": "time, occasion, opportunity"
+},
+{
+"vi": "thời gian",
+"nom": "時間",
+"en": "time"
+},
+{
+"vi": "thời kỳ",
+"nom": "時期",
+"en": "period"
+},
+{
+"vi": "thời tiết",
+"nom": "時節",
+"en": "weather"
+},
+{
+"vi": "tạm thời",
+"nom": "暫時",
+"en": "provisional; temporary; for the time being"
+},
+{
+"vi": "cảnh vật",
+"nom": "景物",
+"en": "scenery"
+},
+{
+"vi": "chúc thư",
+"nom": "祝書",
+"en": "testament, will"
+},
+{
+"vi": "giấy viết thư",
+"nom": "紙曰書",
+"en": "letter paper"
+},
+{
+"vi": "hộp thư",
+"nom": "盒書",
+"en": "post office box"
+},
+{
+"vi": "khoảng không",
+"nom": "曠空",
+"en": "space (including atmosphere)"
+},
+{
+"vi": "chưa từng",
+"nom": "渚曾",
+"en": "never"
+},
+{
+"vi": "ban tối",
+"nom": "班最",
+"en": "at night"
+},
+{
+"vi": "tối cao",
+"nom": "最高",
+"en": "supreme, top-level, utmost"
+},
+{
+"vi": "tối nghĩa",
+"nom": "最義",
+"en": "obscure"
+},
+{
+"vi": "đen tối",
+"nom": "黰最",
+"en": "dark, deep black"
+},
+{
+"vi": "kim bằng",
+"nom": "金朋",
+"en": "true friend"
+},
+{
+"vi": "chiều cao",
+"nom": "朝高",
+"en": "height"
+},
+{
+"vi": "bản doanh",
+"nom": "本营",
+"en": "headquarters, head office"
+},
+{
+"vi": "mỹ thuật",
+"nom": "美朮",
+"en": "fine arts"
+},
+{
+"vi": "nghệ thuật",
+"nom": "芸朮",
+"en": "art"
+},
+{
+"vi": "làm cho",
+"nom": "爫朱",
+"en": "to cause sth., to provoke sth., to induce"
+},
+{
+"vi": "cơ quan",
+"nom": "机関",
+"en": "organ (of an organization)"
+},
+{
+"vi": "phi cơ",
+"nom": "飛机",
+"en": "airplane"
+},
+{
+"vi": "dân quyền",
+"nom": "民权",
+"en": "civic rights"
+},
+{
+"vi": "pháp quyền",
+"nom": "法权",
+"en": "rule of law, jurisdiction"
+},
+{
+"vi": "quyền năng",
+"nom": "权能",
+"en": "juridical power"
+},
+{
+"vi": "đặc quyền",
+"nom": "特权",
+"en": "privilege, prerogative, special right"
+},
+{
+"vi": "đề tài",
+"nom": "題材",
+"en": "subject matter, theme"
+},
+{
+"vi": "đủ điều",
+"nom": "都条",
+"en": "versed, knowledgeable"
+},
+{
+"vi": "đông dương",
+"nom": "東洋",
+"en": "Indochina"
+},
+{
+"vi": "đông dược",
+"nom": "東藥",
+"en": "oriental medicine"
+},
+{
+"vi": "khảo tra",
+"nom": "考查",
+"en": "to investigate"
+},
+{
+"vi": "thanh tra",
+"nom": "清查",
+"en": "to inspect, to investigate"
+},
+{
+"vi": "tra cứu",
+"nom": "查究",
+"en": "to look up, to look through"
+},
+{
+"vi": "điều tra",
+"nom": "調查",
+"en": "to inquire, to survey, to take a consensus of"
+},
+{
+"vi": "kết quả",
+"nom": "結果",
+"en": "result"
+},
+{
+"vi": "cách làm",
+"nom": "格爫",
+"en": "way to do (something)"
+},
+{
+"vi": "dự án",
+"nom": "預案",
+"en": "emergency plan; draft; project"
+},
+{
+"vi": "hạt tiêu",
+"nom": "籺椒",
+"en": "peppercorn"
+},
+{
+"vi": "doanh nghiệp",
+"nom": "营業",
+"en": "trade, business"
+},
+{
+"vi": "nghề nghiệp",
+"nom": "芸業",
+"en": "occupation, profession, career"
+},
+{
+"vi": "âm nhạc",
+"nom": "音樂",
+"en": "music"
+},
+{
+"vi": "thứ trưởng",
+"nom": "次長",
+"en": "vice minister"
+},
+{
+"vi": "thứ yếu",
+"nom": "次要",
+"en": "secondary"
+},
+{
+"vi": "nhà hát",
+"nom": "茹欱",
+"en": "theatre"
+},
+{
+"vi": "khi nào",
+"nom": "欺芇",
+"en": "when"
+},
+{
+"vi": "khi nãy",
+"nom": "欺迺",
+"en": "just a moment ago"
+},
+{
+"vi": "hôm kia",
+"nom": "歆箕",
+"en": "the day before yesterday"
+},
+{
+"vi": "châu âu",
+"nom": "洲歐",
+"en": "Europe"
+},
+{
+"vi": "âu châu",
+"nom": "歐洲",
+"en": "Europe"
+},
+{
+"vi": "bộ hành",
+"nom": "步行",
+"en": "pedestrian"
+},
+{
+"vi": "bộ đội",
+"nom": "步隊",
+"en": "(communist) soldier"
+},
+{
+"vi": "đầy tuổi",
+"nom": "菭歲",
+"en": "one year old (age of a baby)"
+},
+{
+"vi": "dân cử",
+"nom": "民舉",
+"en": "elective, people-elected"
+},
+{
+"vi": "dân vệ",
+"nom": "民衛",
+"en": "The people's self-defence corps"
+},
+{
+"vi": "dân đen",
+"nom": "民黰",
+"en": "mob, rabbel"
+},
+{
+"vi": "ngư dân",
+"nom": "魚民",
+"en": "fisher"
+},
+{
+"vi": "không khí",
+"nom": "空氣",
+"en": "air; atmosphere"
+},
+{
+"vi": "bình thuỷ",
+"nom": "瓶水",
+"en": "thermos bottle"
+},
+{
+"vi": "hồ thuỷ",
+"nom": "湖水",
+"en": "pale blue"
+},
+{
+"vi": "cầu chúc",
+"nom": "求祝",
+"en": "to wish so. sth."
+},
+{
+"vi": "cầu duyên",
+"nom": "求縁",
+"en": "to pray for good chances in love"
+},
+{
+"vi": "yêu cầu",
+"nom": "要求",
+"en": "to require, to ask"
+},
+{
+"vi": "giải quyết",
+"nom": "解決",
+"en": "to resolve (a dispute), to settle (a difference)"
+},
+{
+"vi": "bên phải",
+"nom": "边沛",
+"en": "on the right side, dexter"
+},
+{
+"vi": "một dược",
+"nom": "没藥",
+"en": "myrrh"
+},
+{
+"vi": "hồng hà",
+"nom": "紅河",
+"en": "the Red River"
+},
+{
+"vi": "pháp trị",
+"nom": "法治",
+"en": "rule of law"
+},
+{
+"vi": "trị bệnh",
+"nom": "治病",
+"en": "to medicate, to cure"
+},
+{
+"vi": "tự trị",
+"nom": "自治",
+"en": "autonomous, autonomy"
+},
+{
+"vi": "phạm pháp",
+"nom": "犯法",
+"en": "to break the law"
+},
+{
+"vi": "chú thích",
+"nom": "注釋",
+"en": "annotation, to annotate (a text)"
+},
+{
+"vi": "phụ chú",
+"nom": "輔注",
+"en": "to annotate"
+},
+{
+"vi": "kinh tế",
+"nom": "経济",
+"en": "economy"
+},
+{
+"vi": "hàng hải",
+"nom": "航海",
+"en": "navigation (nautical)"
+},
+{
+"vi": "hải quan",
+"nom": "海関",
+"en": "customs, customs duty office"
+},
+{
+"vi": "hải quân",
+"nom": "海軍",
+"en": "naval forces, navy"
+},
+{
+"vi": "nhà nước",
+"nom": "茹渃",
+"en": "state, country, nation"
+},
+{
+"vi": "nước hoa",
+"nom": "渃花",
+"en": "perfume"
+},
+{
+"vi": "nước mắt",
+"nom": "渃眜",
+"en": "tears"
+},
+{
+"vi": "nước sôi",
+"nom": "渃炊",
+"en": "boiling water"
+},
+{
+"vi": "nước trà",
+"nom": "渃茶",
+"en": "tea (beverage)"
+},
+{
+"vi": "nước việt",
+"nom": "渃越",
+"en": "Vietnam; the Vietnamese country"
+},
+{
+"vi": "sông nước",
+"nom": "滝渃",
+"en": "waterway, water route"
+},
+{
+"vi": "thanh toán",
+"nom": "清算",
+"en": "to liquidate, to clear accounts"
+},
+{
+"vi": "từ nguyên",
+"nom": "詞源",
+"en": "etymology, word origin"
+},
+{
+"vi": "hán việt",
+"nom": "漢越",
+"en": "Sino-Vietnamese"
+},
+{
+"vi": "vô nghĩa",
+"nom": "無義",
+"en": "absurd, nonsensical"
+},
+{
+"vi": "tuy nhiên",
+"nom": "雖然",
+"en": "however, but"
+},
+{
+"vi": "tự nhiên",
+"nom": "自然",
+"en": "nature; natural"
+},
+{
+"vi": "làm giấy",
+"nom": "爫紙",
+"en": "to certify sth. in writing"
+},
+{
+"vi": "làm sao",
+"nom": "爫牢",
+"en": "how"
+},
+{
+"vi": "làm xong",
+"nom": "爫衝",
+"en": "to finish, to finalize, to complete"
+},
+{
+"vi": "cạnh tranh",
+"nom": "競爭",
+"en": "to compete"
+},
+{
+"vi": "tranh luận",
+"nom": "爭論",
+"en": "to discuss, to debate vigorously"
+},
+{
+"vi": "đấu tranh",
+"nom": "鬥爭",
+"en": "to fight, to struggle for"
+},
+{
+"vi": "vì sao",
+"nom": "爲牢",
+"en": "why"
+},
+{
+"vi": "màu lục",
+"nom": "牟綠",
+"en": "green; green color"
+},
+{
+"vi": "màu sắc",
+"nom": "牟色",
+"en": "color"
+},
+{
+"vi": "màu đen",
+"nom": "牟黰",
+"en": "black color"
+},
+{
+"vi": "không sao",
+"nom": "空牢",
+"en": "no problem, never mind, it's okay, you're welcome"
+},
+{
+"vi": "sinh vật",
+"nom": "生物",
+"en": "creature, animate being"
+},
+{
+"vi": "vật lý",
+"nom": "物理",
+"en": "physics, physical"
+},
+{
+"vi": "đặc sản",
+"nom": "特産",
+"en": "(regional) specialty"
+},
+{
+"vi": "đặc sắc",
+"nom": "特色",
+"en": "special, of special quality"
+},
+{
+"vi": "đặc điểm",
+"nom": "特點",
+"en": "characteristic, feature"
+},
+{
+"vi": "độc lập",
+"nom": "獨立",
+"en": "independence, independency"
+},
+{
+"vi": "độc thân",
+"nom": "獨身",
+"en": "single, unmated"
+},
+{
+"vi": "hạt châu",
+"nom": "籺珠",
+"en": "pearl"
+},
+{
+"vi": "ban nãy",
+"nom": "班迺",
+"en": "just a short time ago"
+},
+{
+"vi": "ban đầu",
+"nom": "班頭",
+"en": "at first, initial, initially"
+},
+{
+"vi": "phát hiện",
+"nom": "發現",
+"en": "to discover; to excavate"
+},
+{
+"vi": "lý do",
+"nom": "理由",
+"en": "cause; reason"
+},
+{
+"vi": "nghiên cứu sinh",
+"nom": "研究生",
+"en": "post-graduate"
+},
+{
+"vi": "sinh trưởng",
+"nom": "生長",
+"en": "to grow up, to grow"
+},
+{
+"vi": "duyên do",
+"nom": "縁由",
+"en": "reason, cause"
+},
+{
+"vi": "tự do",
+"nom": "自由",
+"en": "freedom; free"
+},
+{
+"vi": "thông dụng",
+"nom": "通用",
+"en": "common use, commonly used"
+},
+{
+"vi": "giới hạn",
+"nom": "界限",
+"en": "limit; term; bound"
+},
+{
+"vi": "bệnh viện",
+"nom": "病院",
+"en": "hospital"
+},
+{
+"vi": "bàn chân",
+"nom": "盘蹎",
+"en": "foot"
+},
+{
+"vi": "bàn cờ",
+"nom": "盘碁",
+"en": "chessboard; chequered board"
+},
+{
+"vi": "bàn giấy",
+"nom": "盘紙",
+"en": "office, secretariat; desk, writing table"
+},
+{
+"vi": "bàn luận",
+"nom": "盘論",
+"en": "to discuss"
+},
+{
+"vi": "tiết mục",
+"nom": "節目",
+"en": "program item"
+},
+{
+"vi": "đèn điện",
+"nom": "畑電",
+"en": "electric light; electric lamp"
+},
+{
+"vi": "phát tiết",
+"nom": "發節",
+"en": "to appear, to display, to show up"
+},
+{
+"vi": "liên tỉnh",
+"nom": "聯省",
+"en": "inter-provincial"
+},
+{
+"vi": "chúng tôi",
+"nom": "眾碎",
+"en": "we, us (not including person addressed)"
+},
+{
+"vi": "nhà tôi",
+"nom": "茹碎",
+"en": "my husband, my wife; my house; my family"
+},
+{
+"vi": "nghiên cứu",
+"nom": "研究",
+"en": "to study; to examine"
+},
+{
+"vi": "viện nghiên cứu",
+"nom": "院研究",
+"en": "research institute"
+},
+{
+"vi": "xã luận",
+"nom": "社論",
+"en": "editorial (in a newspaper)"
+},
+{
+"vi": "tinh thần",
+"nom": "精神",
+"en": "mind, spirit, vigor"
+},
+{
+"vi": "khoa trưởng",
+"nom": "科長",
+"en": "dean, head of a university department"
+},
+{
+"vi": "trưởng khoa",
+"nom": "長科",
+"en": "dean, head of a university department"
+},
+{
+"vi": "khảo cứu",
+"nom": "考究",
+"en": "to study, to carry out scientific research"
+},
+{
+"vi": "chương trình",
+"nom": "章程",
+"en": "programme, schedule; computer program, software"
+},
+{
+"vi": "quá trình",
+"nom": "過程",
+"en": "process, course of events"
+},
+{
+"vi": "hàng không",
+"nom": "航空",
+"en": "aviation"
+},
+{
+"vi": "không kể",
+"nom": "空計",
+"en": "excluding, not counting"
+},
+{
+"vi": "phòng không",
+"nom": "防空",
+"en": "air defense"
+},
+{
+"vi": "âm tết",
+"nom": "音節",
+"en": "syllable"
+},
+{
+"vi": "hạt sen",
+"nom": "籺蓮",
+"en": "lotus seed"
+},
+{
+"vi": "cơm tấm",
+"nom": "粓糝",
+"en": "broken rice with meat and vegetables (dish)"
+},
+{
+"vi": "cơm đen",
+"nom": "粓黰",
+"en": "opium (colloquial)"
+},
+{
+"vi": "hệ thống",
+"nom": "系統",
+"en": "system, network, net"
+},
+{
+"vi": "ngữ hệ",
+"nom": "語系",
+"en": "family of languages"
+},
+{
+"vi": "cao cấp",
+"nom": "高級",
+"en": "high-class, high-ranking, high-grade"
+},
+{
+"vi": "giấy bạc",
+"nom": "紙鉑",
+"en": "banknote, paper money"
+},
+{
+"vi": "tiền giấy",
+"nom": "錢紙",
+"en": "banknote, paper money"
+},
+{
+"vi": "chung kết",
+"nom": "終結",
+"en": "final, finals"
+},
+{
+"vi": "kinh doanh",
+"nom": "経营",
+"en": "to carry on, to run (a business)"
+},
+{
+"vi": "kinh tài",
+"nom": "経財",
+"en": "economy and finance"
+},
+{
+"vi": "tổ chức",
+"nom": "組織",
+"en": "to organize"
+},
+{
+"vi": "dây điện",
+"nom": "絏電",
+"en": "electric cable, power line, current line"
+},
+{
+"vi": "kết duyên",
+"nom": "結縁",
+"en": "to join in wedlock, to tie a knot"
+},
+{
+"vi": "liên kết",
+"nom": "連結",
+"en": "to link, to connect"
+},
+{
+"vi": "tổng kết",
+"nom": "總結",
+"en": "to sum up, to conclude; summary"
+},
+{
+"vi": "giải nghĩa",
+"nom": "解義",
+"en": "to explain"
+},
+{
+"vi": "ngư ông",
+"nom": "魚翁",
+"en": "fisherman"
+},
+{
+"vi": "ông lão",
+"nom": "翁老",
+"en": "old gentleman"
+},
+{
+"vi": "hương lão",
+"nom": "鄉老",
+"en": "village elders"
+},
+{
+"vi": "khán giả",
+"nom": "看者",
+"en": "spectator, audience"
+},
+{
+"vi": "độc giả",
+"nom": "讀者",
+"en": "reader"
+},
+{
+"vi": "liên bang",
+"nom": "聯邦",
+"en": "union, federation, federal"
+},
+{
+"vi": "liên doanh",
+"nom": "聯营",
+"en": "joint venture"
+},
+{
+"vi": "liên quan",
+"nom": "聯関",
+"en": "to concern so./sth."
+},
+{
+"vi": "âm thanh",
+"nom": "音聲",
+"en": "sound"
+},
+{
+"vi": "năng lượng",
+"nom": "能量",
+"en": "energy"
+},
+{
+"vi": "cử hành",
+"nom": "舉行",
+"en": "to celebrate, to host (an event)"
+},
+{
+"vi": "thi cử",
+"nom": "試舉",
+"en": "examination"
+},
+{
+"vi": "thuyền trưởng",
+"nom": "船長",
+"en": "captain, ship captain"
+},
+{
+"vi": "bông hoa",
+"nom": "葻花",
+"en": "flowers"
+},
+{
+"vi": "hoa trà",
+"nom": "花茶",
+"en": "camelia"
+},
+{
+"vi": "nghề phụ",
+"nom": "芸輔",
+"en": "side-job, sideline"
+},
+{
+"vi": "nhà chồng",
+"nom": "茹重",
+"en": "the husband's family"
+},
+{
+"vi": "nhà hàng",
+"nom": "茹行",
+"en": "restaurant; hotel"
+},
+{
+"vi": "kim anh",
+"nom": "金英",
+"en": "cherokee rose"
+},
+{
+"vi": "đầy đủ",
+"nom": "菭都",
+"en": "entirely sufficient; complete"
+},
+{
+"vi": "bông lan",
+"nom": "葻蘭",
+"en": "orchid"
+},
+{
+"vi": "bông sen",
+"nom": "葻蓮",
+"en": "lotus flower"
+},
+{
+"vi": "chế tạo",
+"nom": "製造",
+"en": "to manufacture"
+},
+{
+"vi": "cảnh vệ",
+"nom": "警衛",
+"en": "guard, security guard, watchman"
+},
+{
+"vi": "phòng vệ",
+"nom": "防衛",
+"en": "to defend, to protect; defence"
+},
+{
+"vi": "ngân hàng",
+"nom": "銀行",
+"en": "Bank (financial institution)"
+},
+{
+"vi": "vàng tây",
+"nom": "鐄西",
+"en": "gold and copper alloy"
+},
+{
+"vi": "dự kiến",
+"nom": "預見",
+"en": "to predict, to foresee, to anticipate"
+},
+{
+"vi": "ngôn ngữ",
+"nom": "言語",
+"en": "language"
+},
+{
+"vi": "quan âm",
+"nom": "觀音",
+"en": "Quan Am, goddess of mercy"
+},
+{
+"vi": "quan điểm",
+"nom": "觀點",
+"en": "point of view"
+},
+{
+"vi": "giải thích",
+"nom": "解釋",
+"en": "to explain, to clarify"
+},
+{
+"vi": "cận thị",
+"nom": "近視",
+"en": "short-sighted, myopic"
+},
+{
+"vi": "trọng yếu",
+"nom": "重要",
+"en": "essential"
+},
+{
+"vi": "yếu điểm",
+"nom": "要點",
+"en": "the essential point, the main point"
+},
+{
+"vi": "bình luận",
+"nom": "評論",
+"en": "to comment on"
+},
+{
+"vi": "phụ từ",
+"nom": "輔詞",
+"en": "adjunct (grammar)"
+},
+{
+"vi": "luận ngữ",
+"nom": "論語",
+"en": "the Analects (of Confucius)"
+},
+{
+"vi": "luận đề",
+"nom": "論題",
+"en": "topic, subject of discussion"
+},
+{
+"vi": "tham tài",
+"nom": "貪財",
+"en": "to be greedy for gain, to be mercenary"
+},
+{
+"vi": "cao xa",
+"nom": "高賖",
+"en": "unattainable"
+},
+{
+"vi": "bên trái",
+"nom": "边賴",
+"en": "on the left side"
+},
+{
+"vi": "đấu đá",
+"nom": "鬥跢",
+"en": "to struggle, to attack"
+},
+{
+"vi": "quân mã",
+"nom": "軍馬",
+"en": "troops; knight (in chess)"
+},
+{
+"vi": "quân đội",
+"nom": "軍隊",
+"en": "army"
+},
+{
+"vi": "đội quân",
+"nom": "隊軍",
+"en": "army"
+},
+{
+"vi": "phụ âm",
+"nom": "輔音",
+"en": "consonant"
+},
+{
+"vi": "phụ đạo",
+"nom": "輔道",
+"en": "to give extra-class help"
+},
+{
+"vi": "luôn luôn",
+"nom": "輪輪",
+"en": "continously, always"
+},
+{
+"vi": "bộ thủ",
+"nom": "部首",
+"en": "characer radical"
+},
+{
+"vi": "bộ trưởng",
+"nom": "部長",
+"en": "minister"
+},
+{
+"vi": "thủ đô",
+"nom": "首都",
+"en": "capital (city)"
+},
+{
+"vi": "quan trọng",
+"nom": "関重",
+"en": "important"
+},
+{
+"vi": "bạch kim",
+"nom": "白金",
+"en": "platinum"
+},
+{
+"vi": "tiền bạc",
+"nom": "錢鉑",
+"en": "money"
+},
+{
+"vi": "đồng bạc",
+"nom": "銅鉑",
+"en": "piastre; silver dollar"
+},
+{
+"vi": "thủ trưởng",
+"nom": "首長",
+"en": "chief officer"
+},
+{
+"vi": "đội trưởng",
+"nom": "隊長",
+"en": "leader of a working gang; leader of a group"
+},
+{
+"vi": "a phiến",
+"nom": "阿片",
+"en": "opium"
+},
+{
+"vi": "phi đội",
+"nom": "飛隊",
+"en": "squadron"
+},
+{
+"vi": "thanh long",
+"nom": "青龍",
+"en": "The Azure Dragon (representing the east)"
+},
+{
+"vi": "âm hưởng",
+"nom": "音響",
+"en": "sonority, harmony, music"
+},
+{
+"vi": "cao điểm",
+"nom": "高點",
+"en": "peak, height, highest level"
+}
+]

@@ -1,0 +1,400 @@
+1601	to continue, to proceed; to connect
+1602	to adjoin, to be contiguous
+1603	continuous, successive
+1604	[segment, part]
+1605	program item
+1606	front
+1607	money, currency
+1608	money
+1609	cash
+1610	predecessor
+1611	prehistoric; prehistory
+1612	premise, precondition, prerequisite
+1613	predetermined, predestined, preordained
+1614	future, prospects
+1615	[small, tiny]
+1616	state
+1617	primary education
+1618	biography, history
+1619	shop
+1620	restaurant
+1621	big, large, wide
+1622	big and tall; bulky; great
+1623	all, whole, entire
+1624	[to count, to calculate, to plan]
+1625	to seek, to look up (in a dictionary); to investigate
+1626	to look up, to look through
+1627	male; boy, young man
+1628	[to dress up, to make up]
+1629	page, sheet
+1630	to beautify, to make up
+1631	to compete, to fight
+1632	picture, painting, scroll
+1633	to discuss, to debate vigorously
+1634	[dynasty]
+1635	dynasty
+1636	[to open, to extend]
+1637	million
+1638	clear, pure
+1639	in; within
+1640	while, meanwhile
+1641	pure, bright
+1642	center; central; Chinese
+1643	Chinese, China
+1644	high school, secondary school
+1645	Annam
+1646	China; chinese
+1647	center, institute
+1648	research center
+1649	to transmit, to propagate, to communicate
+1650	television
+1651	radio
+1652	story
+1653	comic
+1654	tea; tea plant
+1655	green tea
+1656	left; to the left
+1657	fruit
+1658	the earth
+1659	above; at the top
+1660	to submit, to show, to present
+1661	schedule, agenda
+1662	level, degree, standard
+1663	[to place, to set aside]
+1664	exactly, correct; to hit, to impact
+1665	to win (a lottery)
+1666	hundred
+1667	(surname); [to open up, to spread, to extend]
+1668	before; ahead (of)
+1669	before (at an earlier time)
+1670	in the presence of, facing, directly in front of so.
+1671	inevitably, sooner or later
+1672	before, previously
+1673	school; field; ground
+1674	occasion, circumstance
+1675	elementary school
+1676	university
+1677	leader
+1678	to grow up; mature
+1679	to return, to pay back
+1680	to answer, to reply, to respond
+1681	to thank so. (for sth.)
+1682	(surname Tran)
+1683	battle, fight
+1684	white, clear, bare, blank
+1685	young; children
+1686	child; childish
+1687	young child, infant
+1688	young in age
+1689	to cure, to treat; [to regulate, to administer]
+1690	[value, worth]
+1691	to medicate, to cure
+1692	to value, to respect; [weight, heavy]
+1693	essential
+1694	sky; heaven; weather
+1695	rainy weather
+1696	to turn, to change
+1697	to return; to come back
+1698	to become, to turn
+1699	to return, to come back
+1700	[to help, to assist]
+1701	assistant
+1702	assistant, helper, supporter
+1703	auxiliary verb
+1704	I, my, me
+1705	though
+1706	however, but
+1707	week; ten-day period
+1708	week
+1709	age; year of age
+1710	youth
+1711	service, administration; [to manage, to govern, to regulate]
+1712	talent, gift
+1713	[wealth, richness]
+1714	[material, stuff]
+1715	finance, budget
+1716	material, document
+1717	talent, ability
+1718	ship, boat
+1719	warship
+1720	[to make, to work, to compose]
+1721	author
+1722	work (art or literature)
+1723	eight
+1724	[heart; mind]
+1725	psychology
+1726	mind, mental
+1727	west; western
+1728	Tây Nguyên plateau
+1729	arrow
+1730	family name; last name
+1731	rocket, missile
+1732	birth name
+1733	to search, to look for
+1734	to learn (about sth.)
+1735	feeling, emotion
+1736	sentiment, affection, emotions
+1737	love; passion
+1738	deep feeling of gratitude
+1739	to calculate; to plan
+1740	to calculate, to count
+1741	subordinate, subject
+1742	to increase, to augment
+1743	[four]
+1744	the world (lit. "four oceans"), cf. 𦊚𣷷
+1745	officer, general; minister
+1746	to memorize
+1747	at, in; because, because of
+1748	right away, immediately, on the spot
+1749	why
+1750	temporary, provisional
+1751	goodbye
+1752	provisional; temporary; for the time being
+1753	to create; to make; to form
+1754	the creator
+1755	to create
+1756	broken rice
+1757	board, tile, sheet; mat, blanket, cover
+1758	all, whole; [finish, complete]
+1759	surely, of course
+1760	all; entire, whole
+1761	naturally, of course, inevitably
+1762	indispensable
+1763	festival, holiday
+1764	lunar new year
+1765	province
+1766	night; dark; obscure; [extremely, exceedingly]
+1767	supreme, top-level, utmost
+1768	final, last, ultimate
+1769	ultimatum
+1770	obscure
+1771	all day long, day and night
+1772	minimum, minimal
+1773	maximum, maximal
+1774	good, well, fine; [finally, at last]
+1775	kindhearted
+1776	to graduate
+1777	fortunate, lucky
+1778	popular, well-reputed
+1779	group, team; to form, to organize
+1780	[ancestor, forefather; grandfather]
+1781	to organize
+1782	combination, cooperation
+1783	ancestor, forefather
+1784	[altogether]
+1785	in total, altogether
+1786	to sum up, to conclude; summary
+1787	consul general
+1788	servant; I, my, me
+1789	to arrive, to come
+1790	vulgar, crude; [social customs]
+1791	proverb, common saying
+1792	angry, upset; [to rest, to end, to cease]
+1793	upset stomach, stomachache
+1794	angry, upset
+1795	word; phrase
+1796	from, since
+1797	in a long time, long-since
+1798	etymology, word origin
+1799	slowly
+1800	dictionary (of words)
+1801	from there on; since then
+1802	[ever; already]
+1803	one at a time, one by one, individually
+1804	[child]
+1805	self
+1806	character; letter; word
+1807	freedom; free
+1808	self; unsolicited
+1809	nature; natural
+1810	autonomous, autonomy
+1811	dictionary (of characters)
+1812	automatic
+1813	to drink
+1814	to drink alcohol
+1815	member; employee; personnel
+1816	to write, to record; pen
+1817	job; work; business
+1818	job, employment, work; act, deed, action
+1819	institute; court
+1820	research institute
+1821	vietnamese
+1822	Vietnam; vietnamese
+1823	amusing, funny, merry, joyful, gay
+1824	to be content, pleased, happy
+1825	and, also
+1826	gold; yellow
+1827	gold and copper alloy
+1828	in; into
+1829	about, around, circa
+1830	yes, all right
+1831	to obey, to comply with
+1832	because; as; for
+1833	therefore, so
+1834	to reach sth.
+1835	to reach (out) for sth., to strech out one's arm (for sth.)
+1836	[non-, negative]
+1837	absurd, nonsensical
+1838	region, area
+1839	land, area
+1840	literature; culture
+1841	culture, civilization
+1842	literature
+1843	civilization, culture, civilized, cultured
+1844	style; polished, refined
+1845	[king, ruler; royal]
+1846	Kingdom of England
+1847	in the rare case of, by any chance
+1848	omnipotent
+1849	all things and living beings
+1850	[to ask, to inquire]
+1851	problem, matter, question, issue
+1852	still, yet
+1853	material
+1854	physics, physical
+1855	physics (field of study)
+1856	articles, products, goods
+1857	body, object
+1858	so; thus
+1859	but; however
+1860	look, appearance
+1861	to draw, to paint
+1862	to return; about; (back) to
+1863	to come home, to return home
+1864	[to guard, to protect]
+1865	[measure word for persons; throne; seat; rank, status]
+1866	[flavor, taste]
+1867	position, place
+1868	(together) with
+1869	with somebody; together (with so.)
+1870	furthermore; and then
+1871	wife
+1872	couple, maried couple
+1873	[affairs; duty, obligation, must]
+1874	suitable, fitting
+1875	[area, region, domain, field]
+1876	far, distant
+1877	green; blue
+1878	sky blue; azure
+1879	greenish, bluish
+1880	vehicle; car
+1881	to see, to observe
+1882	to beg; to ask for
+1883	(common greeting); Good afternoon/evening!
+1884	to beg for pardon; Excuse me! Sorry!
+1885	ready, finished, complete
+1886	spring and autumn
+1887	[to go out; to produce]
+1888	to publish
+1889	to appear; appearance
+1890	export; to export
+1891	to descend; to go down
+1892	[house, dwelling]
+1893	to build
+1894	to build, to construct
+1895	[society, company]
+1896	society
+1897	socialism, socialist
+1898	editorial (in a newspaper)
+1899	ancient, old
+1900	formerly
+1901	(see: xảy ra)
+1902	to happen, to occur
+1903	[to need, to require, to demand; necessary]
+1904	to love
+1905	to require, to ask
+1906	weak, feeble
+1907	very important person, (abbr. VIP)
+1908	the essential point, the main point
+1909	oh, aha, I see
+1910	Asia (continent)
+1911	east asia
+1912	(legal) case, sentence; small table
+1913	Austria; austrian
+1914	blouse, shirt, jacket
+1915	tunic, dress
+1916	camisole, vest, women's undershirt
+1917	raincoat
+1918	to press against, to oppress
+1919	pressure
+1920	atmospheric pressure
+1921	sound; noise
+1922	[lunar; female]
+1923	sonority, harmony, music
+1924	lunar calendar
+1925	classical music
+1926	sound
+1927	syllable
+1928	favour, grace; [kindness, mercy]
+1929	thoughtful, solicitous
+1930	benefactor, benefactress
+1931	with deep gratitude
+1932	just, perhaps; [european]
+1933	preferably, rather
+1934	less; little; few
+1935	to be rare to find, to be scarce
+1936	rarely, seldom
+1937	a little while, soon, shortly
+1938	uncommunicative, ineloquent
+1939	a little
+1940	at least
+1941	still young
+1942	oh
+1943	alas
+1944	man; Mr.
+1945	man and woman; husband and wife
+1946	elderly man; father
+1947	old gentleman
+1948	youngest, smallest; little
+1949	idea, opinion, thought; Italy; italian
+1950	will
+1951	view, opinion
+1952	thought, idea
+1953	meaning, sense
+1954	idea, thought
+1955	to eat
+1956	to eat a meal
+1957	to celebrate with a feast
+1958	to eat raw (food)
+1959	to sample (food), to taste
+1960	to eat and drink; food intake
+1961	many; much; numerous
+1962	most; mostly, for the most part
+1963	polyvalent (in chemistry)
+1964	polysyllabic
+1965	currently; just; now
+1966	to bring; to carry
+1967	to carry over
+1968	black
+1969	dark, deep black
+1970	to go, to walk; come on!
+1971	to walk (on foot); to stroll
+1972	to walk, to stroll; to go barefoot
+1973	to go out; to be out
+1974	to disappear, to vanish, to go away completely
+1975	to go to work
+1976	to go to bed
+1977	to go across, to cross
+1978	to step out, to leave (a room)
+1979	to follow, to go with so., to come with so.; to accompany
+1980	to enter, to go in
+1981	to go home
+1982	to pace around, to go back and forth
+1983	occurrence; condition; terms
+1984	circumstances; condition
+1985	to inquire, to survey, to take a consensus of
+1986	point, mark, score
+1987	classic written source
+1988	[bird]
+1989	electricity
+1990	electron; electronic
+1991	group of beings of the same kind, drove, flock, herd; to play on stringed instruments, stringed music instrument
+1992	vietnamese zither
+1993	man, adult male person
+1994	to kick
+1995	stone; rock
+1996	to play football (soccer)
+1997	marble
+1998	flint; silex
+1999	[day, dawn, morning]
+2000	to beat, to hit; to fight, to combat, to play

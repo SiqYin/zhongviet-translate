@@ -1,0 +1,11 @@
+{
+  "appId": "org.chunom.hanvietdict",
+  "appName": "漢喃詞典",
+  "webDir": "app",
+  "android": {
+    "allowMixedContent": false
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}

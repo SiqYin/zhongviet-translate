@@ -1,0 +1,400 @@
+1201	country, land
+1202	five
+1203	year
+1204	the year before last year
+1205	long ago
+1206	[ability, capability, to be able to]
+1207	energy
+1208	ability, capability
+1209	dynamic
+1210	place, location, site
+1211	water; country; nation
+1212	lustre (of pearls)
+1213	perfume
+1214	tears
+1215	abroad; foreign country
+1216	boiling water
+1217	tea (beverage)
+1218	drinking water
+1219	Vietnam; the Vietnamese country
+1220	ice, frozen water
+1221	that (one), that (person or thing)
+1222	to lie down
+1223	to dream, to have a dream (while sleeping)
+1224	to be confined; to lie in
+1225	if
+1226	if not; otherwise, or else
+1227	inside; paternal
+1228	internal energy
+1229	home affairs, home policy; internal affairs, internal policy
+1230	immanent, inherent, innate, intrinsic
+1231	home affairs
+1232	in-house, inside the house
+1233	inland, domestic
+1234	half
+1235	half-baked
+1236	midnight; in the middle of the night
+1237	[female, woman]
+1238	school for girls, girl's school
+1239	goddess, nymph
+1240	more, further
+1241	half; again, more
+1242	[to fly]
+1243	throwing sword
+1244	airport
+1245	squadron
+1246	law; France; french
+1247	rule of law, jurisdiction
+1248	French domination
+1249	rule of law
+1250	to deliver, to distribute, to issue
+1251	to discover; to excavate
+1252	to appear, to display, to show up
+1253	to develop, to grow, to expand
+1254	conversational, by asking and questioning, maieutic
+1255	centimeter; to separate
+1256	to distinguish, to discern, to discriminate
+1257	to distribute, to dispose
+1258	to divide
+1259	to classify; classification
+1260	taxonomy, systematics
+1261	subclass
+1262	alum
+1263	direction, way
+1264	north, to the north
+1265	south, to the south
+1266	in the front
+1267	west, to the west
+1268	east, to the east
+1269	room, chamber
+1270	[to prevent]
+1271	to take precautions against
+1272	living room, lounge
+1273	air defense
+1274	bedroom
+1275	tea room; tea shop
+1276	to defend, to protect; defence
+1277	dining room
+1278	[happiness]
+1279	direction
+1280	procedure, method
+1281	ward, urban subdistrict
+1282	to violate, to offend, to commit (a crime)
+1283	culprit, criminal (person)
+1284	to break the law
+1285	right; to have to; must; should
+1286	to betray, to be disloyal to
+1287	to oppose, to object (to)
+1288	part, portion, piece (of a whole)
+1289	to allot, to assign
+1290	the most, the lion's share, bulk
+1291	most, the greatest part
+1292	to some extent, to a certain degree
+1293	percent; percentage
+1294	element
+1295	one's job, one's responsibility
+1296	[product, article]
+1297	grade, quality
+1298	Buddha
+1299	buddhism
+1300	Gautama Buddha
+1301	buddhist pagoda
+1302	street that is built-up on both sides; avenue, boulevard
+1303	streets
+1304	wife, woman, married woman
+1305	to help, to assist, to aid
+1306	to annotate
+1307	assistant (at university)
+1308	woman
+1309	adjunct (grammar)
+1310	consonant
+1311	to give extra-class help
+1312	government; prefecture; prefect
+1313	to cross; to pass
+1314	to pass away
+1315	[frontier, barrier, gate]
+1316	to concern, to affect, to correlate
+1317	important
+1318	to care about sth., to be interested in sth./so.
+1319	Quan Am, goddess of mercy
+1320	point of view
+1321	clear; brilliant
+1322	to decide, to determine
+1323	to decide; to resolve
+1324	determinism
+1325	right, power; authority
+1326	power, might, authority
+1327	juridical power
+1328	book, volume (publishing)
+1329	very; too (much); to exceed, to pass
+1330	too much
+1331	process, course of events
+1332	army, military
+1333	troops; knight (in chess)
+1334	military affairs
+1335	army
+1336	to forget
+1337	self-sacrificing, devotional
+1338	fruit; result
+1339	[country, nation]
+1340	state-run, state-managed
+1341	national assembly
+1342	national language; national script
+1343	national defence
+1344	international
+1345	to kneel
+1346	[jade; rare, precious; elegant]
+1347	to get out
+1348	to go to the front
+1349	to go in and out
+1350	to pretend
+1351	to leave, to go off
+1352	liquor
+1353	sacramental wine
+1354	strong alcohol
+1355	very; quite
+1356	very, extremely
+1357	that; so that
+1358	already; then; after
+1359	in the future
+1360	dragon
+1361	[sand; granulated]
+1362	to cross; to transfer; across, over
+1363	next year
+1364	to turn over a page
+1365	to transfer
+1366	star
+1367	Neptune
+1368	Venus
+1369	Uranus
+1370	Mercury (planet)
+1371	Saturn
+1372	after; following
+1373	at the very end
+1374	finally, at the end
+1375	later, after, thereafter
+1376	afterwards, later, in the future
+1377	moreover
+1378	from before and after
+1379	hereafter, following
+1380	after that
+1381	lotus, water lily
+1382	life; birth
+1383	to give birth to
+1384	biology (science)
+1385	birthday, day of birth
+1386	to grow up, to grow
+1387	student
+1388	creature, animate being
+1389	twin, twins
+1390	index (book)
+1391	bright, light, clear; morning
+1392	shiny, radiant
+1393	to see clearly, to realize
+1394	six
+1395	to boil
+1396	waterway, water route
+1397	scholar; feudal intellectual
+1398	[mountain; mountains]
+1399	mountain and forest, greenwood
+1400	[teacher, master]
+1401	master, mastermind; military division commander
+1402	[to give birth]
+1403	product
+1404	woman in childbirth
+1405	to produce, to manufacture
+1406	color; beauty
+1407	beauty, glamour
+1408	to divide, to share
+1409	to be going to; will; shall
+1410	number; fate
+1411	data
+1412	quantity
+1413	singular; minority
+1414	bad luck, misfortune
+1415	to live; alive; raw
+1416	life and death; at all costs
+1417	to resurrect
+1418	to fear, to be afraid
+1419	fibre; filament
+1420	ambassador; [envoy, ambassador; to make, to cause, to use]
+1421	to use, to utilize, to employ
+1422	history (field of study)
+1423	books of history and legends
+1424	matter, business; occurrence, event
+1425	thing, object
+1426	we, us
+1427	I, me, my (colloquial)
+1428	arm; hand; side
+1429	bare hands
+1430	to be greedy, to crave something
+1431	[to take part, to attend]
+1432	to be at war, to wage war
+1433	to take part, to attend
+1434	to consult; consultation
+1435	to go for a sightseeing
+1436	to be greedy for gain, to be mercenary
+1437	greedy, covetous
+1438	juvenile; [green, blue]
+1439	pure, clear, clean
+1440	sound, voice, noise
+1441	The Azure Dragon (representing the east)
+1442	youth, juvenile, young person
+1443	blue sky, clear sky
+1444	to liquidate, to clear accounts
+1445	to inspect, to investigate
+1446	pure mind
+1447	to change, to replace
+1448	instead of
+1449	to change, to modify
+1450	to follow; according to
+1451	poetry
+1452	to compete, to race, to take an examination
+1453	examination
+1454	poet
+1455	[sky, heaven]
+1456	the whole (inhabited) world
+1457	angel
+1458	bird of paradise flower (strelizia)
+1459	paradise, heaven, elysium
+1460	to lack
+1461	young woman
+1462	really; true, real, genuine
+1463	autumn, fall
+1464	ship, boat, vessel
+1465	captain, ship captain
+1466	art, technique
+1467	medicine, remedy, medicament; drug
+1468	Chinese herbs
+1469	Vietnamese herbs
+1470	sleeping pill, soporific
+1471	to belong to, subordinate of; to know by heart; to tan
+1472	(to know or learn something) by heart
+1473	colony, annexed territory
+1474	[water, liquid]
+1475	citadel; city
+1476	to become; to change into
+1477	to succeed
+1478	ingredient; component; composition; social back-ground
+1479	city, town
+1480	honest, honesty
+1481	urban area, town
+1482	therefore, so, hence
+1483	[very, much; big; extreme]
+1484	peace and secure
+1485	Pacific Ocean
+1486	Thái Nguyên province
+1487	crown prince
+1488	to explore
+1489	scout, detective
+1490	month
+1491	april
+1492	body; trunk; intimate, close
+1493	(human) body
+1494	to add, to increase; additional
+1495	[time; era, period]
+1496	so, then; certainly
+1497	to like
+1498	[to explain]
+1499	to fit, to suit, suitable
+1500	to be satisfied
+1501	to stop, no more; only, just; enough!
+1502	[clear, open; common; to communicate]
+1503	[intelligent; bright]
+1504	bulletin, journal
+1505	common use, commonly used
+1506	intelligent; clever
+1507	information; to inform, to broadcast informations
+1508	to visit
+1509	poetry, verse
+1510	letter; [book]
+1511	E-mail
+1512	to be fond of, to love
+1513	frequent; common, normal, usual
+1514	often, frequently
+1515	everyday
+1516	daily
+1517	annual, yearly
+1518	usually
+1519	[top, above, superior]
+1520	Shanghai
+1521	guest of honour
+1522	high grade (product quality)
+1523	first ten days of a month
+1524	[to lose; to make a mistake]
+1525	irregular, erratic
+1526	to loose a battle, to be defeated
+1527	to see; to feel
+1528	[spirit, supernatural being]
+1529	teacher, master; father, dad
+1530	buddhist temple bonze
+1531	schoolmaster
+1532	physician, doctor
+1533	[ten]
+1534	decade
+1535	true, real, actual
+1536	guy, boy, man; (form of address for male third-person, singular)
+1537	little guy, kid
+1538	little guy; the younger (of two males)
+1539	such, so; [condition, appearance; position, influence, impetus, power]
+1540	to substitute; to replace
+1541	world; era
+1542	world
+1543	century
+1544	substitute
+1545	world affairs
+1546	profane, secular, mundane
+1547	[body]
+1548	[to show, to demonstrate]
+1549	[to look, to see]
+1550	[city; market; town; trade]
+1551	market
+1552	[to unite; to control]
+1553	united, to unite, to unify
+1554	earch; soil
+1555	era, age, period
+1556	time, occasion, opportunity
+1557	weather
+1558	era, age
+1559	[head]
+1560	[hand]
+1561	chief officer
+1562	chief officer; prime minister
+1563	capital (city)
+1564	order, rank; sort, type, category; next, subsequent
+1565	tuesday; third
+1566	saturday; seventh
+1567	monday; second
+1568	the second
+1569	the first
+1570	thursday; fifth
+1571	friday; sixth
+1572	vice minister
+1573	wednesday; fourth
+1574	secondary
+1575	awake
+1576	food
+1577	to test, to try, to attempt
+1578	[this; then]
+1579	to realize, to carry out
+1580	to believe; news, information
+1581	news, message, information
+1582	[star, planet]
+1583	[pure, clear; essence; spirit; perfect]
+1584	clear
+1585	mind, spirit, vigor
+1586	fairy, immortal
+1587	first, firstly
+1588	pepper
+1589	to regret, to be sorry, to grudge
+1590	sound; noise; language
+1591	english (language)
+1592	american english (language)
+1593	japanese (language)
+1594	language, tongue
+1595	french (language)
+1596	Chinese (language)
+1597	chinese (language)
+1598	vietnamese (language)
+1599	italian (language)
+1600	german (language)

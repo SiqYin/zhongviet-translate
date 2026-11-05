@@ -1,0 +1,400 @@
+401	commune
+402	world; country, region
+403	all, total; together with
+404	old; ancient; second-hand
+405	also; too
+406	opportunity; [machine, engine]
+407	[foundation, base]
+408	base, foundation; basic, fundamental
+409	opportunity, occasion, chance
+410	organ (of an organization)
+411	organism; (human) body
+412	(cooked) rice
+413	broken rice with meat and vegetables (dish)
+414	opium (colloquial)
+415	to laugh; to smile
+416	[to compete]
+417	to compete
+418	all; in total; completely
+419	to change, to alter, to reform, to correct
+420	to reform, to innovate
+421	to reorganize
+422	[to feel]
+423	feelings, impressions, sentiment
+424	to feel pity for
+425	to feel
+426	impression
+427	scene, scenery; landscape
+428	[guard]
+429	situation, condition, circumstances
+430	scenery
+431	guard, security guard, watchman
+432	rank, level, class; (school) grade
+433	pressing, urgent
+434	lower class, low-ranking, low-grade
+435	at once, immediately
+436	to need
+437	indispensable, essential, important
+438	[to seek, to demand]
+439	to pray for good chances in love
+440	to solicit, to ask for, to beg for
+441	near, close
+442	short-sighted, myopic
+443	modern (times)
+444	to land, to lay alongside; [to reach, to arrive]
+445	uncle (mother's brother); young man
+446	to cut; to cut off
+447	old, ancient, antique
+448	classic, classical
+449	ancient capital
+450	to add (up); addition
+451	republic, republican
+452	communist
+453	community
+454	flag, banner
+455	chess
+456	of; to belong to; properties, belongings
+457	public property
+458	to continue, to keep on; [ground, base]
+459	entrenched fortification
+460	[to examine, to investigate]
+461	to raise; to elect
+462	to celebrate, to host (an event)
+463	bachelor, imperial examination graduate
+464	door, gate, entrance
+465	shop, store
+466	window
+467	skin; leather; pelt
+468	leather
+469	name
+470	noun
+471	reason; cause
+472	to spy
+473	[to manage; barracks, casern, encampment]
+474	trade, business
+475	turnover
+476	unique, only
+477	charm, grace, loveliness; [cause, reason]
+478	reason, cause
+479	predestined fate
+480	long
+481	people; citizen
+482	democratic
+483	elective, people-elected
+484	villager, villagers
+485	civic rights
+486	population
+487	civilian
+488	The people's self-defence corps
+489	mob, rabbel
+490	rope; cord; wire; string
+491	conducting wire, electric cord, power cord
+492	electric cable, power line, current line
+493	row, chain, series
+494	chain of mountains, cordillera
+495	however, though
+496	though; although
+497	anyhow; anyway
+498	to use, to employ
+499	ocean, sea
+500	below; at the bottom
+501	medicine, pharmacy
+502	pharmacy, pharmaceutics
+503	drug; medicine
+504	drugstore, chemist's shop
+505	pharmaceutical product
+506	pharmacist, chemist
+507	pharmacopoeia
+508	yes, yes sir, affirmative!
+509	yes; all right
+510	to teach, to educate, to train
+511	to elevate, to bring up
+512	to teach (at a school)
+513	oil, fat, grease
+514	cooking oil, edible oil
+515	to conduct, to guide, to escort
+516	to cite, to quote
+517	to insert glosses, add marginal notes
+518	current carrying, conducting, live (electric)
+519	to show the way
+520	to lead; to tow; to guide
+521	easy
+522	agreeable, pleasant, cozy
+523	lovely, likeable, nice
+524	probably, possibly
+525	to translate, to decode
+526	service
+527	[before, in advance]
+528	forcast, to forcast
+529	planned expenditure
+530	to predict, to foresee, to anticipate
+531	emergency plan; draft; project
+532	to project, to plan, to schedule
+533	to lean on; to stand against
+534	to found (sth.) on
+535	to erect, to raise, to set up, to put up
+536	younger sibling
+537	little child; baby
+538	younger brother or sister in law
+539	brother in law, sister in law
+540	[house, home; family]
+541	to increase, to add
+542	family condition, situation of the family
+543	to adhere; to accede
+544	to increase
+545	spice
+546	family
+547	family on the paternal (father's) side
+548	nepotism
+549	[space, interval; between]
+550	to deliver, to hand over, to exchange; [to communicate]
+551	to deliver goods
+552	old, aged
+553	venerably old, elderly
+554	decrepit, old and feeble
+555	for many years of life, the whole life
+556	price, value
+557	high price, high value
+558	market price, market rate, market value
+559	value, worth
+560	to teach, to educate
+561	professor
+562	teacher, instructor
+563	educational administration
+564	palace of worship, church
+565	bordering, adjacent, near
+566	to face each other in a battle
+567	to share the same border, to border
+568	between-crop period
+569	face to face
+570	wind; air
+571	monsoon
+572	wind and rain; bad weather
+573	wind and moon; natural scenery; erotic
+574	easterly wind; spring wind; spring; breeze
+575	to help, to assist
+576	[the one who, that person]
+577	to solve, to answer, to explain
+578	to explain
+579	to resolve (a dispute), to settle (a difference)
+580	to explain, to clarify
+581	paper
+582	newsprint
+583	banknote, paper money
+584	printing paper
+585	letter paper
+586	typing paper, flimsy paper
+587	photographic paper
+588	limit; world; society
+589	limit; term; bound
+590	time
+591	working hours
+592	a long while
+593	now; nowadays
+594	to keep; to retain; to hold; to maintain
+595	to occupy a seat
+596	to take care of ones heart
+597	to keep one's word
+598	to be cautious in one's words, to hold one's tongue
+599	to be thoughtful
+600	between, in the middle of, amid
+601	female; girl
+602	to quarrel; to cause, to excite, to initiate
+603	to provoke a war; to be a warmonger
+604	to be quarrelsome; to pick a quarrel (with sb.)
+605	to found, to stablish
+606	lad, bloke, underdog
+607	pressing, urgent, hurry
+608	near; nearly, almost
+609	near and far, everywhere
+610	to meet, to encounter
+611	to meet (in person)
+612	to meet each other
+613	to call
+614	to knock at the door
+615	provisionally, superficial
+616	wood, timber
+617	rough timber
+618	two
+619	double-faced, decitful, duplicitous
+620	or; good; well
+621	or
+622	very good; well done
+623	isn't it?
+624	dangerous, risky
+625	to understand
+626	to know, to be familiar with
+627	to appear
+628	today, nowadays
+629	in front of one
+630	at present; present, modern, nowadays
+631	contemporary, modern times
+632	chinese
+633	United States of America
+634	camelia
+635	[harmony, peace]
+636	peace, peaceful
+637	to become, to change, to transform
+638	chemistry
+639	valence (in chemistry)
+640	[fire, flame; anger, rage]
+641	volcano
+642	Mars
+643	or; either
+644	river
+645	Hanoi
+646	[sail; navigate]
+647	line, row; rank, order; goods, wares, merchandise
+648	line of text
+649	navigation (nautical)
+650	aviation
+651	passenger
+652	corridor, passage, gallery
+653	planet
+654	[Chinese; Chinese language]
+655	Sino-Vietnamese
+656	classical Chinese literature
+657	to sing
+658	company, firm
+659	to scream, to cry
+660	appearance, shape; picture, photo
+661	to take form, to shape
+662	complexion, character, situation; terrain, topography
+663	form
+664	painting, drawing
+665	image, photo, photograph
+666	hill; small island; ball, piece
+667	(small) island
+668	day
+669	the day before yesterday
+670	today
+671	yesterday
+672	the next day, the following day
+673	one long past day
+674	steam, air, gas; a little bit, slightly
+675	more than; better than
+676	perfume; fragrancy
+677	[rural, village]
+678	spice, condiment
+679	village elders
+680	village custom
+681	taste, aromatic flavour
+682	[to make noise; sound]
+683	to lower, to set down, to take down
+684	set pen to paper
+685	lower part of the abdomen
+686	to lower the flag
+687	to lower the price; to debase
+688	this world
+689	Ha Long (city in Vietnam)
+690	to dismount from a horse
+691	to condescend; to demean oneself
+692	to launch (a ship)
+693	Lower House, House of Commons (UK), House of Representatives (USA)
+694	nucleus
+695	nucleolus
+696	limit; term
+697	[luck, fortunate]
+698	apricot tree
+699	almond
+700	happiness
+701	pearl
+702	rain drop
+703	lotus seed
+704	peppercorn
+705	[sea, ocean]
+706	river delta, estuary
+707	Hainan (island)
+708	abroad, overseas
+709	customs, customs duty office
+710	naval forces, navy
+711	hatred; resentiment
+712	[after, behind]
+713	post-colonial
+714	building at the back of a mansion
+715	he; him (derogatory)
+716	bloke, jerk, idiot
+717	to be over; to end; to expire; to be used up
+718	all and sundry, all without exception
+719	out of breath, breathless
+720	out of season
+721	[to relate to, to connect]
+722	system, branch
+723	coefficient, factor
+724	system, network, net
+725	they
+726	to learn, to study
+727	scholar, literary man
+728	pupil; schoolboy; schoolgirl
+729	to memorize, to learn something by heart
+730	institute
+731	knowledge, learning, literacy
+732	school
+733	to ask; to question, to inquire
+734	to ask after, inquire about (someone)
+735	to repent; to regret; to rue
+736	to repent; to rue
+737	to repent, to regret
+738	lake
+739	glue; to glue
+740	pale blue
+741	to return
+742	time, period; when, at (some time)
+743	islam
+744	to turn back, to reverse
+745	when (in the past)
+746	reanimate
+747	echo
+748	in the past, before
+749	to remember, to recall
+750	palindrome
+751	change of life, menopause
+752	in earlier times, in former times
+753	to reply
+754	then, back then, at that time
+755	rose, pink; rosy
+756	the Red River
+757	[mutually, reciprocally]
+758	to help one another
+759	registered residence; population, number of inhabitants
+760	to meet; meeting
+761	box, case
+762	post office box
+763	grain, seed
+764	to fit; to join
+765	confederation
+766	to share a venture, to joint-venture, to cooperate
+767	alloy
+768	constituent, component
+769	to print
+770	when, while; case, circumstance
+771	when
+772	just a moment ago
+773	field of study, subject of study
+774	science
+775	dean, head of a university department
+776	about, circa; space, distance, interval; period (time)
+777	space (including atmosphere)
+778	healthy, strong
+779	area, district, zone
+780	quarter (of a city)
+781	zone, area
+782	[dog]
+783	other; another; further
+784	different, unequal
+785	especial, extraordinary
+786	guest, visitor
+787	foreign land
+788	spectator, audience
+789	[air, steam]
+790	momentum, impetus
+791	difficult
+792	grumpy; unbearable
+793	hard, difficult, troublesome
+794	unlikely
+795	to be at a loss
+796	to cry, to weep, to shed tears
+797	no; not; without; (closed-question marker)
+798	nothing
+799	air; atmosphere
+800	excluding, not counting

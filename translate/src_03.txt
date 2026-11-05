@@ -1,0 +1,400 @@
+801	no problem, never mind, it's okay, you're welcome
+802	impossible; unable, incapable
+803	fantastic, utopian
+804	towel
+805	[to verify, to test, to examine]
+806	to study, to carry out scientific research
+807	to investigate
+808	[mouth; entrance; gate]
+809	ration
+810	all, all of
+811	everywhere
+812	to escape, to prevent
+813	painful, hard, bitter
+814	[emptiness, hollow, hole, opening]
+815	Confucianism
+816	Confucius
+817	that, the other
+818	[gold, metal]
+819	[today]
+820	cherokee rose
+821	true friend
+822	the present and the past
+823	classic works, prayer book
+824	to carry on, to run (a business)
+825	classics and history
+826	economy and finance
+827	economy
+828	sword
+829	swordsmanship, fencing
+830	[to see]
+831	item; case; matter; to sue
+832	to call; to cry
+833	to pray for help (from higher levels)
+834	to appeal, to call upon
+835	to implore God, to beseech God, to pray for help
+836	man, person, he
+837	the poor; beggar
+838	the mighty, the privileged
+839	the average, the ordinary man
+840	to tie, to knot
+841	to join in wedlock, to tie a knot
+842	to combine, to coordinate
+843	result
+844	to tell; in relation to, with respect to
+845	in fact, to be fair
+846	above-mentioned, above-said, above
+847	strange; unusual
+848	[period, time, age]
+849	[border, boundary]
+850	period
+851	era, epoch
+852	to shout, to cry
+853	to scream
+854	[corridor]
+855	[to connect]
+856	[to join, to associate]
+857	union, federation, federal
+858	joint venture
+859	to contact (someone), to connect
+860	union, association; to link, to join; to conjugate
+861	to link, to connect
+862	to concern so./sth.
+863	to associate, to make associations
+864	inter-provincial
+865	[materials, ingredients]
+866	to worry, to take care of
+867	full of cares, sorrowful
+868	[dragon]
+869	class, group, kind, category
+870	directly, right away; also, too; often; [wheel, disk; revolve, recur]
+871	continously, always
+872	to talk incessantly
+873	to debate, to discuss; essay
+874	foundation (of a thesis), basis of argumentation
+875	the Analects (of Confucius)
+876	topic, subject of discussion
+877	law, rule, regulation
+878	lawyer, advocate
+879	to be
+880	to do; to make
+881	to cause sth., to provoke sth., to induce
+882	to certify sth. in writing
+883	what for; what to do
+884	to stand upon ceremony, to behave formally
+885	to make preparations for the crops
+886	how
+887	to go to work, to work; working
+888	to finish, to finalize, to complete
+889	village
+890	leaf
+891	[forest, woods]
+892	forestry
+893	long, long time, long while
+894	long-standing
+895	to receive; [to lead]
+896	consul
+897	old lady
+898	Taoism
+899	to rise; to ascend; to go up
+900	to give a lesson
+901	soul, mind, heart; feeling
+902	kind, kindness
+903	moment, time
+904	currently; at present
+905	(surname)
+906	logic; reason
+907	cause; reason
+908	ideal
+909	quantity, measure
+910	also; to come; again, re-...
+911	to take
+912	time, times
+913	the first time
+914	the (very) first time
+915	to form, to establish, to set up
+916	very
+917	holiday; festival; [manners, courtesy, etiquette]
+918	rites, ethical behaviour
+919	mid-autumn festival
+920	[passing, successive, throughout; past, historic]
+921	calendar
+922	history
+923	mistake; fault; error
+924	big; large
+925	class; layer, coat
+926	word
+927	green
+928	fire
+929	lust, desire
+930	ardent zeal
+931	force, strength
+932	strengh, force, power
+933	[to bury]
+934	to bury; to neglect
+935	to carry; to wear
+936	to suffer a bad reputation
+937	[bright; clear]
+938	region; district
+939	northern region; northern Vietnam
+940	southern region; southern Vietnam
+941	central region; central Vietnam
+942	mouth
+943	to buy
+944	to desire, to want, to wish
+945	but
+946	only, merely, just, not more than
+947	color
+948	green; green color
+949	paint
+950	black color
+951	you, your (informal)
+952	mother
+953	blood
+954	cupidity
+955	machine; engine
+956	airplane
+957	cloud
+958	[horse]
+959	horsepower
+960	cat
+961	to be fascinated; to loose consciousness, to faint
+962	we; us
+963	[medium, intermediary, agent, go-between]
+964	environment; medium
+965	environmental sciences, ecology, mesology
+966	season; time; tide
+967	autumn
+968	spring (season)
+969	flavour, taste, smell
+970	rain
+971	ten
+972	fate; destiny
+973	life
+974	strong, powerful
+975	healthy
+976	to lose; lost; to die, to vanish
+977	mannerless, ill-bred
+978	to have a poor crop
+979	(quite) a few, some; how many
+980	few people
+981	rarely, seldom, few times
+982	eye; expensive
+983	[silent, quiet; dark]
+984	complex; sense, perception
+985	though; allthough
+986	face
+987	front, front side
+988	front, battle front
+989	sun
+990	mother; mom
+991	each, every
+992	one
+993	[to sink; to have not]; also: number one (see 𠬠)
+994	one (piece)
+995	myrrh
+996	in one go, at a stretch
+997	a while
+998	a moment
+999	once
+1000	one thousand
+1001	one million
+1002	one hundred
+1003	some, several, quite a few
+1004	ten thousand
+1005	a little bit, a tiny bit
+1006	a few, some
+1007	new; fresh
+1008	recently, lately, just now
+1009	to open
+1010	to speak out, to pipe up
+1011	to be better off
+1012	to pave the way for, to initiate
+1013	to initiate, to begin, to start
+1014	section, topic; program item; [eye]
+1015	happy, glad
+1016	to express new year's day wishes (for being one year older)
+1017	beautiful; America; american
+1018	fine arts
+1019	south; southern
+1020	Indonesia
+1021	Cochinchina
+1022	this (year or day); now; today
+1023	straight, direct
+1024	instantly
+1025	neat, tidy
+1026	sincere; honest
+1027	to hear
+1028	to know from hearsay
+1029	to take someone's advice, to listen to someone
+1030	[study, research]
+1031	to study; to examine
+1032	post-graduate
+1033	profession; trade
+1034	thousand
+1035	to think
+1036	to think to oneself
+1037	to reconsider, to change one's mind, to have second thoughts
+1038	to recall; to think sth. out
+1039	meaning
+1040	duty, obligation
+1041	work, craft; occupation, profession
+1042	occupation, profession, career
+1043	side-job, sideline
+1044	artist
+1045	art
+1046	tasty, delicious; well, easy
+1047	tasty; with good appetite
+1048	pleasant to the eye, appealing
+1049	out; outside; external
+1050	diplomacy
+1051	lip service
+1052	maternal grandmother; [outside, external]
+1053	alien, foreign country
+1054	[dangerous]
+1055	dangerous, risky, perilous
+1056	whole, entire; [original, initial, source, root]
+1057	[source, origin, root]
+1058	first year of rule's reign
+1059	vowel
+1060	(surname Nguyen)
+1061	source, origin; spring
+1062	light source
+1063	gentleman; Mr.
+1064	the day after tomorrow
+1065	holiday; feast-day
+1066	harvest time
+1067	in a distant future
+1068	date, date specification
+1069	weekday
+1070	formerly, once, back then, in the past
+1071	[money, cash]
+1072	Bank (financial institution)
+1073	blood bank
+1074	tile
+1075	[speech; to speak]
+1076	language
+1077	[five]
+1078	the five constant virtues of Confucianism
+1079	[fish]
+1080	fisher
+1081	fishing grounds
+1082	fisherman
+1083	people; person; human
+1084	people; they
+1085	vietnamese person; vietnamese people
+1086	the ancients, ancient people
+1087	short; abbreviate
+1088	gemstone, gem, jewel
+1089	beautiful girl; fairy
+1090	to sit
+1091	to idle away
+1092	to sleep, asleep
+1093	to dream, to sleep deeply, to be dead to the world
+1094	to sleep well
+1095	[language]
+1096	family of languages
+1097	one another, each another, together
+1098	[so, like that]
+1099	how many; (quantity)
+1100	many; much; a lot of
+1101	sometimes; often times
+1102	talkative, garrulous, gossip
+1103	[Confucian scholar]
+1104	confucianist
+1105	student (antiquated)
+1106	Confucian scholar
+1107	house; home; building
+1108	scientist
+1109	buddhist monk, clergy
+1110	the husband's family
+1111	house, dwelling
+1112	restaurant; hotel
+1113	theatre
+1114	guest house
+1115	state, country, nation
+1116	day nursery, creche
+1117	my husband, my wife; my house; my family
+1118	king
+1119	knight of the pen, man of letters, author, littérateur
+1120	dwelling, residential building
+1121	kernel, filling; [humane]
+1122	[person, people; man, mankind]
+1123	predestined affinity
+1124	people; country
+1125	mankind, humanity, human race
+1126	anthropology
+1127	benevolence and righteousness
+1128	artificial
+1129	employee; staff member; personnel
+1130	humane
+1131	[two]
+1132	to look
+1133	as a whole, all in all
+1134	to see
+1135	to group, to aggregate, to concentrate
+1136	group leader, team leader
+1137	as; like; alike; similar to
+1138	as before
+1139	useless
+1140	as if
+1141	like this, like that; thus, so
+1142	like that; thus; so
+1143	but; yet
+1144	music
+1145	first; most (adverb for superlatives)
+1146	foremost
+1147	to decide; determined; inevitable
+1148	to agree, to accept; to recognize
+1149	to realize, to recognize; to identify
+1150	to accept, to agree
+1151	to identify, to reveal
+1152	to recognize, to realize
+1153	to join, to enter; to import
+1154	to be an insider, to take part in
+1155	entry; entrance; to enter a country; to cross a country's border
+1156	beginning of (school) term
+1157	to be admitted to an association
+1158	to import
+1159	to introduce; to acclimatize, to naturalize
+1160	sun; Japan; japanese
+1161	Japan; japanese
+1162	for everyday use
+1163	dual, binary
+1164	small
+1165	still very young (in age)
+1166	small and weak
+1167	to remember; to recall; to call in mind
+1168	to reminisce
+1169	homesick; to be sick for home
+1170	to recall, to bring (something) to mind
+1171	to grieve for
+1172	to think with deep regret of
+1173	remember (something) all one's life
+1174	to commission, to resort to; thanks to, owing to
+1175	thank heaven!
+1176	(plural marker); some; as many as
+1177	[year]
+1178	young, tender
+1179	young, tender, green; premature; mild
+1180	mountain
+1181	fatherland
+1182	home country
+1183	young, of tender age
+1184	she; her
+1185	fairy
+1186	which; any
+1187	some, certain
+1188	this; here
+1189	just (now), only just, a short while ago
+1190	to ought to, shall; to become
+1191	to become a good person
+1192	he, she, it (colloquial)
+1193	to speak; to say; to talk
+1194	generally speaking
+1195	to talk
+1196	to joke, to be kidding
+1197	reportedly, supposedly
+1198	nôm
+1199	mountain; hill
+1200	mountains

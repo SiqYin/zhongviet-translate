@@ -1,0 +1,50 @@
+{
+  "name": "hanviet-dict",
+  "version": "0.1.0",
+  "private": true,
+  "description": "漢喃詞典 — 越南語・字喃・漢語對照詞典",
+  "main": "electron/main.js",
+  "scripts": {
+    "start": "electron .",
+    "serve": "python -m http.server 5173 --directory app",
+    "dist:win": "electron-builder --win nsis",
+    "cap:sync": "npx cap sync android",
+    "cap:open": "npx cap open android"
+  },
+  "devDependencies": {
+    "electron": "^33.2.0",
+    "electron-builder": "^25.1.8",
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/cli": "^6.2.0",
+    "@capacitor/core": "^6.2.0"
+  },
+  "build": {
+    "appId": "org.chunom.hanvietdict",
+    "productName": "漢喃詞典",
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "app/**/*",
+      "electron/**/*",
+      "package.json"
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "artifactName": "HanVietDict-${version}-setup.${ext}"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "perMachine": false,
+      "createDesktopShortcut": true
+    }
+  }
+}
