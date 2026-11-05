@@ -58,7 +58,7 @@ Hai liên kết trên luôn trỏ tới **bản mới nhất**; bản cũ nằm 
 ## Quy mô dữ liệu
 
 - **115.243 mục từ**: từ Trung + pinyin + nghĩa tiếng Việt (tối đa 5 nghĩa)
-- 112.934 mục có âm Hán Việt, 10.934 mục có chữ Nôm
+- 112.934 mục có âm Hán Việt (mục một chữ liệt kê **toàn bộ** âm Hán Việt của chữ đó, âm chính đứng trước, ví dụ 行 → hành、hàng、hạnh、hạng), 10.934 mục có chữ Nôm
 - **113.934 mục** đã được đưa qua AI đối chiếu, trong đó **83.761 mục** được sửa lại
 
 ## Giao diện

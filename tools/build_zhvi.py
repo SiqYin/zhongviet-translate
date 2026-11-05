@@ -7,6 +7,7 @@ SRC = ROOT.parent / "cvdict.u8"
 
 # ---------- Hán-Việt readings ----------
 hv = {}
+ALLR = {}                      # 字 -> 該字在詞表中出現過的全部漢越音（保序）
 for row in csv.reader(open(ROOT.parent / "hanviet.csv", encoding="utf-8")):
     if not row or row[0] == "char":
         continue
@@ -16,6 +17,10 @@ for row in csv.reader(open(ROOT.parent / "hanviet.csv", encoding="utf-8")):
         continue
     hv[(ch, py)] = lst[0]
     hv.setdefault((ch, "*"), lst[0])
+    bucket = ALLR.setdefault(ch, [])
+    for m in lst:
+        if m and m not in bucket:
+            bucket.append(m)
 
 # ---------- 簡 -> 繁（用於查漢越音） ----------
 st = {}
@@ -179,6 +184,47 @@ def read_of(ch, p):
             or (KVIET.get(ch) or "").split(" ")[0]
             or (KVIET.get(tr) or "").split(" ")[0]
             or "")
+
+
+def read_of_nofix(ch, p):
+    """不含人工校正的取音（用來把被校正掉的舊值排除出列表）。"""
+    tr = to_trad(ch)
+    return (hv.get((ch, p)) or hv.get((tr, p))
+            or hv.get((ch, "*")) or hv.get((tr, "*"))
+            or (KVIET.get(ch) or "").split(" ")[0]
+            or (KVIET.get(tr) or "").split(" ")[0]
+            or "")
+
+
+def all_readings(ch, prim, py):
+    """該字的全部漢越音：主讀音在前，其餘按複音詞出現頻率排序。"""
+    tr = to_trad(ch)
+    pool = []
+    seen = set()
+    for src_ch in (ch, tr):
+        for r in ALLR.get(src_ch, []):
+            k = r.lower()
+            if k not in seen:
+                seen.add(k)
+                pool.append(r)
+    drop = ""
+    if HV_FIX.get(ch):
+        drop = read_of_nofix(ch, py).lower()      # 被人工校正取代的舊值
+    out, taken = [], set()
+    if prim:
+        out.append(prim)
+        taken.add(prim.lower())
+    freq = READ_CNT.get(ch) or READ_CNT.get(tr) or {}
+    pool.sort(key=lambda r: -freq.get(r.lower(), 0))
+    for r in pool:
+        k = r.lower()
+        if k in taken or (drop and k == drop):
+            continue
+        taken.add(k)
+        out.append(r)
+    if not out:
+        out = [x for x in (KVIET.get(ch) or KVIET.get(tr) or "").split(" ") if x]
+    return out
 
 
 CSV_ROWS = {}
@@ -357,9 +403,14 @@ for simp, e in merged.items():
     pys = py.split()
     hanviet = ""
     if len(pys) == len(simp):
-        rs = [read_of(ch, p) for ch, p in zip(simp, pys)]
-        if all(rs):
-            hanviet = " ".join(rs)
+        if len(simp) == 1:
+            rs = all_readings(simp, read_of(simp, pys[0]), pys[0])
+            if rs:
+                hanviet = "、".join(rs)
+        else:
+            rs = [read_of(ch, p) for ch, p in zip(simp, pys)]
+            if all(rs):
+                hanviet = " ".join(rs)
 
     nom = ""
     for s in senses:

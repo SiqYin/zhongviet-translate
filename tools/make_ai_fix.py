@@ -80,7 +80,7 @@ def main():
         if _ot and _nt and _ot[0].isupper() and _nt[0].isupper() and _ot.lower() != _nt.lower():
             stats["專名音譯(略過)"] += 1
             continue
-        hv = (e.get("h") or "").lower().split()
+        hv = [x for x in re.split(r"[\s、,，]+", (e.get("h") or "").lower()) if x]
         if len(w) == 1 and hv and norm(v) in [x.lower() for x in hv]:
             stats["值是漢越音(略過)"] += 1
             continue

@@ -58,7 +58,7 @@ The two links above always point at the **latest release**; older builds are in 
 ## Data
 
 - **115,243 entries**: Chinese headword + pinyin + Vietnamese senses (up to 5)
-- 112,934 entries carry a Sino-Vietnamese reading; 10,934 carry a Nôm glyph
+- 112,934 entries carry Sino-Vietnamese readings — single characters list **all** readings, primary first (e.g. 行 → hành、hàng、hạnh、hạng); 10,934 carry a Nôm glyph
 - **113,934 entries** were checked against AI; **83,761** were rewritten
 
 ## Interface languages

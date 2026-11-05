@@ -6,7 +6,7 @@
 5	你们	nǐ men	nhĩ môn	các bạn	各伴	0	相關詞少
 6	他们	tā men	tha môn	họ	户	0	相關詞少
 7	这	zhè	giá	này	尼	31	
-8	那	nà	na	đó	妬	22	
+8	那	nà	na、nả	đó	妬	22	
 9	这里	zhè lǐ	giá lý	chỗ này		0	相關詞少
 10	那里	nà li	na lý	ở đó	於妬	0	相關詞少
 11	谁	shéi	thuỳ	ai	埃	10	
@@ -18,7 +18,7 @@
 17	全部	quán bù	toàn bộ	toàn bộ	毕哿	0	相關詞少
 18	多	duō	đa	nhiều	𡗉	119	
 19	一些	yī xiē	nhất ta	một vài	𠬠𠄧	2	
-20	少	shǎo	thiểu	ít	𠃣	27	
+20	少	shǎo	thiểu、thiếu	ít	𠃣	27	
 21	其他	qí tā	kỳ tha	khác	恪	0	相關詞少
 22	一	yī	nhất	một	𠬠	530	
 23	二	èr	nhị	hai	𠄩	162	
@@ -26,10 +26,10 @@
 25	四	sì	tứ	bốn	𦊚	116	
 26	五	wǔ	ngũ	năm	𠄼	111	
 27	大	dà	đại	lớn	𡘯	411	
-28	长	cháng	trường	dài	𨱽	188	
+28	长	cháng	trường、trưởng	dài	𨱽	188	
 29	宽	kuān	khoan	rộng	户	52	
 30	厚	hòu	hậu	dày	卒䏾	26	
-31	重	zhòng	trọng	nặng		98	
+31	重	zhòng	trọng、trùng	nặng		98	
 32	小	xiǎo	tiểu	nhỏ	𡮈	297	
 33	短	duǎn	đoản	ngắn	𥐉	96	
 34	窄	zhǎi	trách	hẹp		10	
@@ -58,7 +58,7 @@
 57	根	gēn	căn	gốc rễ		52	
 58	树皮	shù pí	thụ bì	vỏ cây		0	相關詞少
 59	花	huā	hoa	hoa	華	388	
-60	草	cǎo	thảo	cỏ		122	
+60	草	cǎo	thảo、tháo	cỏ		122	
 61	绳子	shéng zi	thừng tử	dây thừng	絏	0	相關詞少
 62	皮肤	pí fū	bì phu	da	䏧	4	
 63	肉	ròu	nhục	thịt		156	
@@ -66,7 +66,7 @@
 65	骨头	gǔ tou	cốt đầu	xương		7	
 66	脂肪	zhī fáng	chi phương	chất béo		3	
 67	蛋	dàn	đản	trứng		68	
-68	角	jiǎo	giác	góc	競爭	104	
+68	角	jiǎo	giác、giốc、góc	góc	競爭	104	
 69	尾巴	wěi ba	vĩ ba	cái đuôi		0	相關詞少
 70	羽毛	yǔ máo	vũ mao	lông vũ		5	
 71	头发	tóu fa	đầu phát	tóc		2	
@@ -86,21 +86,21 @@
 85	肚子	dù zi	đỗ tử	bụng	䏾	8	
 86	肠子	cháng zi	tràng tử	ruột		2	
 87	脖子	bó zi	bột tử	cổ	古	9	
-88	背	bèi	bối	lưng		102	
+88	背	bèi	bối、bội	lưng		102	
 89	乳房	rǔ fáng	nhũ phòng	vú		1	相關詞少
 90	心	xīn	tâm	tim	心	94	
 91	肝	gān	can	gan		27	
-92	喝	hē	hát	uống	㕵	15	
-93	吃	chī	cật	ăn	咹	104	
+92	喝	hē	hát、hét	uống	㕵	15	
+93	吃	chī	cật、khiết	ăn	咹	104	
 94	咬	yǎo	giảo	cắn		19	
 95	吸	xī	hấp	hít		9	
 96	吐	tǔ	thổ	nôn	呐	11	
 97	呕吐	ǒu tù	ẩu thổ	nôn mửa		1	相關詞少
-98	吹	chuī	xuy	thổi		45	
+98	吹	chuī	xuy、xuý	thổi		45	
 99	呼吸	hū xī	hô hấp	hơi thở		0	相關詞少
 100	笑	xiào	tiếu	cười	唭	124	
 101	看	kàn	khán	xem	䀡	35	
-102	听	tīng	thính	nghe	𦖑	93	
+102	听	tīng	thính、dẫn	nghe	𦖑	93	
 103	知道	zhī dào	tri đạo	biết	别	4	
 104	想	xiǎng	tưởng	muốn	悶	8	
 105	闻	wén	văn	nghe	𦖑	35	
@@ -111,10 +111,10 @@
 110	杀	shā	sát	giết		81	
 111	打斗	dǎ dòu	đả đẩu	đánh nhau	打憢	0	相關詞少
 112	打猎	dǎ liè	đả liệp	săn bắn		0	相關詞少
-113	打	dǎ	đả	đánh	打	118	
-114	切	qiè	thiết	cắt	割	40	
-115	分	fēn	phân	phần	分	78	
-116	刺	cì	thích	gai		30	
+113	打	dǎ	đả、tá	đánh	打	118	
+114	切	qiè	thiết、tiếp	cắt	割	40	
+115	分	fēn	phân、phận、phần	phần	分	78	
+116	刺	cì	thích、thứ	gai		30	
 117	抓	zhuā	trảo	nắm bắt	扒	12	
 118	挖	wā	oạt	đào		13	
 119	游泳	yóu yǒng	du vịnh	bơi		7	
@@ -124,7 +124,7 @@
 123	躺	tǎng	thảng	nằm	𦣰	13	
 124	坐	zuò	toạ	ngồi	𡎥	78	
 125	站	zhàn	trạm	trạm	𨅸	65	
-126	转	zhuǎn	chuyển	xoay	𢺺𢩿	51	
+126	转	zhuǎn	chuyển、chuyến	xoay	𢺺𢩿	51	
 127	掉	diào	điệu	rơi	𠅍	8	
 128	给	gěi	cấp	cho	朱	21	
 129	拿	ná	nã	lấy	𥙩	3	
@@ -136,9 +136,9 @@
 135	推	tuī	suy	đẩy	割	51	
 136	扔	rēng	nhưng	ném		4	
 137	绑	bǎng	bảng	buộc		9	
-138	缝	fèng	phúng	khâu		16	
-139	数	shǔ	số	đếm	数料	51	
-140	说	shuō	thuyết	nói	呐	139	
+138	缝	fèng	phúng、phùng	khâu		16	
+139	数	shǔ	số、sác	đếm	数料	51	
+140	说	shuō	thuyết、thuế	nói	呐	139	
 141	唱	chàng	xướng	hát	欱	59	
 142	玩	wán	ngoạn	chơi	制	62	
 143	浮	fú	phù	nổi	暫時	37	
@@ -170,7 +170,7 @@
 169	烧	shāo	thiêu	nướng		15	
 170	路	lù	lộ	đường	糖	240	
 171	山	shān	sơn	núi	𡶀	445	
-172	红	hóng	hồng	đỏ	𧹼	273	
+172	红	hóng	hồng、công	đỏ	𧹼	273	
 173	绿	lǜ	lục	xanh lục	撑綠	122	
 174	黄	huáng	hoàng	vàng	鐄	188	
 175	白	bái	bạch	trắng	𤽸	362	
@@ -183,7 +183,7 @@
 182	满	mǎn	mãn	đầy	菭	77	
 183	新	xīn	tân	mới	㵋	180	
 184	旧	jiù	cựu	cũ	𫇰	98	
-185	好	hǎo	hảo	tốt	卒	90	
+185	好	hǎo	hảo、hiếu	tốt	卒	90	
 186	坏	huài	hoại	xấu		18	
 187	烂	làn	lạn	thối nát	𣟮	7	
 188	脏	zāng	tang	bẩn	机関	17	
@@ -193,7 +193,7 @@
 192	钝	dùn	độn	cùn		3	
 193	滑	huá	hoạt	trượt	户	51	
 194	湿	shī	thấp	ướt		18	
-195	干	gān	can	làm	爫	28	
+195	干	gān	can、cán	làm	爫	28	
 196	对	duì	đối	đúng	𠁦	16	
 197	近	jìn	cận	gần	𧵆	78	
 198	远	yuǎn	viễn	xa	賖	112	
@@ -201,8 +201,8 @@
 200	左	zuǒ	tả	trái	賴	33	
 201	在	zài	tại	ở	於	31	
 202	里	lǐ	lý	trong	𤄯	69	
-203	和	hé	hoà	và	吧	22	
-204	和	hé	hoà	và	吧	22	
+203	和	hé	hoà、hoạ、ù、hồ	và	吧	22	
+204	和	hé	hoà、hoạ、ù、hồ	và	吧	22	
 205	如果	rú guǒ	như quả	nếu	𠮩	1	相關詞少
 206	因为	yīn wèi	nhân vị	vì	爲	0	相關詞少
 207	名字	míng zi	danh tự	tên	𠸜	2	
