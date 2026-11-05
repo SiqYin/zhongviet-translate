@@ -203,17 +203,22 @@
     setTimeout(function () { stepViIndex(10); }, 0);
   }
 
+  // 回傳 分數*100 + 詞數，分數越小越貼合；詞數用來把冗長的釋義排後面
   function senseScore(i, key) {
-    var ss = HV.senses(ZV[i]), best = 9;
+    var ss = HV.senses(ZV[i]), best = 9, bestLen = 99;
     for (var j = 0; j < ss.length; j++) {
       var t = ss[j].toLowerCase().replace(/[（(][^）)]*[）)]/g, " ")
         .replace(/[.,;:!?"'”’\]]+$/, "").trim();
-      if (t === key) return 0;
-      if (t.indexOf(key) === 0) best = Math.min(best, 1);
-      else if (t.split(SEP).indexOf(key) > -1) best = Math.min(best, 3);
-      else if (t.indexOf(key) > -1) best = Math.min(best, 4);
+      if (!t) continue;
+      var sc = 9;
+      if (t === key) sc = 0;
+      else if (t.indexOf(key) === 0) sc = 1;
+      else if (t.split(SEP).indexOf(key) > -1) sc = 3;
+      else if (t.indexOf(key) > -1) sc = 4;
+      var wc = t.split(/\s+/).length;
+      if (sc < 9 && (sc < best || (sc === best && wc < bestLen))) { best = sc; bestLen = wc; }
     }
-    return best === 9 ? -1 : best;
+    return best === 9 ? -1 : best * 100 + Math.min(bestLen, 30);
   }
 
   function linearVi(key) {
@@ -240,6 +245,11 @@
     scored.sort(function (a, b) {
       return a[0] - b[0] || ZV[a[1]][1].length - ZV[b[1]][1].length;
     });
+    // 只保留和最佳結果同一檔次（含下一檔）的，避免「包含該詞」的長釋義混進來
+    if (scored.length) {
+      var lim = (Math.floor(scored[0][0] / 100) + 2) * 100;
+      scored = scored.filter(function (x) { return x[0] < lim; });
+    }
     var out = scored.slice(0, 5).map(function (x) { return x[1]; });
     viCache.set(key, out);
     return out;
