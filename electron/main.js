@@ -8,7 +8,7 @@ function createWindow() {
     minWidth: 380,
     minHeight: 560,
     backgroundColor: "#faf7f2",
-    title: "漢喃詞典",
+    title: "漢南辭典",
     autoHideMenuBar: true,
     webPreferences: {
       contextIsolation: true,

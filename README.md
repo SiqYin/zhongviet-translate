@@ -1,8 +1,12 @@
-# 漢喃詞典 · zhongviet-translate
+# 漢南辭典
+
+[中文](README.md) · [Tiếng Việt](README.vi.md) · [English](README.en.md)
+
+Từ điển Trung–Việt · Sino-Vietnamese Dictionary
 
 面向中文母語者的**漢語 ⇄ 越南語**詞典，帶字喃（Chữ Nôm）字形與 AI 翻譯。離線優先，同一套程式碼跑在網頁、Windows、Android 三端。
 
-**[▶ 線上使用](https://siqyin.github.io/zhongviet-translate-web/)** · [下載桌面版／Android](https://github.com/SiqYin/zhongviet-translate/releases)
+**[▶ 線上使用](https://siqyin.github.io/zhongviet-translate-web/)** · [下載桌面版／Android](https://github.com/SiqYin/zhongviet-translate/releases/latest)
 
 <p align="center">
   <img src="docs/screenshot-dict.png" width="270" alt="查詞">
@@ -46,8 +50,10 @@ gà
 
 | 平台 | 檔案 | 說明 |
 |---|---|---|
-| Windows | `HanVietDict-1.2.0-setup.exe` | 安裝版，約 85 MB |
-| Android | `zhongviet-translate-1.2.0.apk` | 直接安裝，需 Android 5.1+ |
+| Windows | [HanVietDict-setup.exe](https://github.com/SiqYin/zhongviet-translate/releases/latest/download/HanVietDict-setup.exe) | 安裝版，約 85 MB |
+| Android | [zhongviet-translate.apk](https://github.com/SiqYin/zhongviet-translate/releases/latest/download/zhongviet-translate.apk) | 直接安裝，需 Android 5.1+ |
+
+兩個連結固定指向**最新版本**；要取舊版請到 [Releases](https://github.com/SiqYin/zhongviet-translate/releases)。
 | 網頁 | [siqyin.github.io/zhongviet-translate-web](https://siqyin.github.io/zhongviet-translate-web/) | 免安裝 |
 
 ## 資料規模

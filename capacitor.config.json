@@ -1,6 +1,6 @@
 {
   "appId": "org.chunom.hanvietdict",
-  "appName": "漢喃詞典",
+  "appName": "漢南辭典",
   "webDir": "app",
   "android": {
     "allowMixedContent": false
