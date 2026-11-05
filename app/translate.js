@@ -183,10 +183,14 @@
       for (var j = 0; j < ss.length; j++) {
         var raw = ss[j].toLowerCase().replace(/[（(][^）)]*[）)]/g, " ").trim();
         if (!raw) continue;
-        var tk = raw.split(SEP).filter(Boolean);
-        if (!tk.length) continue;
-        for (var k = 0; k < tk.length; k++) idxAdd(tk[k], i);
-        if (tk.length > 1 && raw.length < 60) idxAdd(tk.join(" "), i);
+        var tk = raw.match(/[\p{L}\p{N}]+/gu);
+        if (!tk || !tk.length) continue;
+        // 同時索引單詞與 2/3 詞的組合，長釋義（如「Hà Nội, thủ đô…」）才查得到
+        for (var k = 0; k < tk.length; k++) {
+          idxAdd(tk[k], i);
+          if (k + 1 < tk.length) idxAdd(tk[k] + " " + tk[k + 1], i);
+          if (k + 2 < tk.length) idxAdd(tk[k] + " " + tk[k + 1] + " " + tk[k + 2], i);
+        }
       }
     }
     if (viPos >= ZV.length) { viBuilt = true; viBuilding = false; return; }
@@ -202,7 +206,8 @@
   function senseScore(i, key) {
     var ss = HV.senses(ZV[i]), best = 9;
     for (var j = 0; j < ss.length; j++) {
-      var t = ss[j].toLowerCase().replace(/[（(][^）)]*[）)]/g, " ").trim();
+      var t = ss[j].toLowerCase().replace(/[（(][^）)]*[）)]/g, " ")
+        .replace(/[.,;:!?"'”’\]]+$/, "").trim();
       if (t === key) return 0;
       if (t.indexOf(key) === 0) best = Math.min(best, 1);
       else if (t.split(SEP).indexOf(key) > -1) best = Math.min(best, 3);
@@ -220,10 +225,13 @@
     return out;
   }
 
+  var viCache = new Map();
+
   function lookupVi(word) {
     var key = word.toLowerCase().trim();
+    if (viCache.has(key)) return viCache.get(key);
     var cand = viIdx.get(key);
-    if (!cand) cand = viBuilt ? [] : linearVi(key);
+    if (!cand) cand = linearVi(key);      // 索引還沒建好，或鍵不在索引裡：直接掃一遍
     var scored = [];
     for (var k = 0; k < cand.length; k++) {
       var s = senseScore(cand[k], key);
@@ -232,7 +240,9 @@
     scored.sort(function (a, b) {
       return a[0] - b[0] || ZV[a[1]][1].length - ZV[b[1]][1].length;
     });
-    return scored.slice(0, 5).map(function (x) { return x[1]; });
+    var out = scored.slice(0, 5).map(function (x) { return x[1]; });
+    viCache.set(key, out);
+    return out;
   }
 
   // ================= 彈窗 =================
