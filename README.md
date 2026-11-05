@@ -46,8 +46,8 @@ gà
 
 | 平台 | 檔案 | 說明 |
 |---|---|---|
-| Windows | `HanVietDict-1.1.0-setup.exe` | 安裝版，約 81 MB |
-| Android | `zhongviet-translate-1.1.0.apk` | 直接安裝，需 Android 5.1+ |
+| Windows | `HanVietDict-1.2.0-setup.exe` | 安裝版，約 85 MB |
+| Android | `zhongviet-translate-1.2.0.apk` | 直接安裝，需 Android 5.1+ |
 | 網頁 | [siqyin.github.io/zhongviet-translate-web](https://siqyin.github.io/zhongviet-translate-web/) | 免安裝 |
 
 ## 資料規模
@@ -57,11 +57,26 @@ gà
 - **113,934 條**已逐條送 AI 校對，其中 **83,761 條**實際改寫（其餘原本就正確或觸發保護規則被跳過）
 - 改寫明細：修正錯義 15,562 條、收窄冗長釋義 1,922 條、同義替換 66,277 條
 
+## 字體
+
+整個介面（簡體、繁體、越南語國語字）統一用**霞鶩文楷**，字喃單獨用 **Nom Na Tong**，兩套都內嵌在 `app/fonts/`，
+網頁、Windows、Android 三端共用同一份檔案。
+
+| 字體 | 用途 | 授權 | 內嵌體積 |
+|---|---|---|---|
+| [LXGW WenKai 霞鶩文楷](https://github.com/lxgw/LxgwWenKai) | 簡繁漢字、越南語、拉丁、注音 | SIL OFL 1.1 | 3.0 MB |
+| [Nom Na Tong 喃那宋](https://github.com/nomfoundation/font) | 字喃專用 | MIT | 221 KB |
+
+原檔分別 25 MB 與 16 MB，按本詞典實際用到的字形做了子集化：霞鶩文楷保留 13,120 個碼位
+（詞庫用字 + 越南語全套 + 注音符號 + 常用符號），Nom Na Tong 保留 945 個字喃字形。
+字喃字形 949 個中 945 個由 Nom Na Tong 覆蓋，其餘 4 個（含 2 個資料噪音）退回系統字體。
+
 ## 技術架構
 
 | 層 | 做法 |
 |---|---|
 | 前端 | 純 HTML/CSS/JS，無框架、無建置步驟，12 MB 詞庫以單一 JS 檔載入 |
+| 字體 | 子集化 woff2，正文 3.0 MB + 字喃 221 KB，@font-face 內嵌 |
 | 分詞 | 中文後向最大匹配（詞表即詞庫，11.5 萬詞頭）；越南語按音節做 1–4 詞合併 |
 | 詞典索引 | 簡繁雙向 Map；越南語反查建 n-gram 倒排索引，索引未建好時退回線性掃描 |
 | 查詢 | 完全相等 > 詞首 > 詞中 > 子串，同分再按詞頻與詞長 |
