@@ -19,7 +19,7 @@
   --accent-soft:#f3e3de;
   --radius:14px;
   --kai:"LXGW WenKai","PingFang SC","Microsoft YaHei","Noto Sans CJK SC","Segoe UI",system-ui,sans-serif;
-  --nom:"Nom Na Tong","LXGW WenKai","Hanazono","HanaMinA",serif;
+  --nom:"Nom Na Tong",serif;
 }
 *{box-sizing:border-box}
 [hidden]{display:none!important}
