@@ -130,6 +130,7 @@ main{max-width:720px;margin:0 auto;padding:10px 16px 0}
 .hz-sm{font-size:24px;line-height:1.2;min-width:28px;font-family:"Songti SC","SimSun",serif;color:#3a3025}
 .hz-side{padding-top:4px}
 .py{font-size:13px;color:var(--muted);font-family:"Segoe UI",system-ui,sans-serif}
+.zy{font-size:13px;color:#5f5e5a;margin-top:1px;letter-spacing:.02em}
 .trad{font-size:12px;color:#a2957f;margin-top:2px}
 .hv{font-size:11px;color:#8a7a62;margin-top:4px;letter-spacing:.02em}
 .answer{margin-top:12px;display:flex;align-items:center;gap:10px;flex-wrap:wrap}

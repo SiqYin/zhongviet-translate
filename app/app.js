@@ -24,6 +24,53 @@
     return (s || "").toLowerCase().split(SPLIT).filter(Boolean);
   }
 
+
+  // ---------- 拼音 -> 注音 ----------
+  var ZY_INIT = [["zh","ㄓ"],["ch","ㄔ"],["sh","ㄕ"],["b","ㄅ"],["p","ㄆ"],["m","ㄇ"],["f","ㄈ"],
+    ["d","ㄉ"],["t","ㄊ"],["n","ㄋ"],["l","ㄌ"],["g","ㄍ"],["k","ㄎ"],["h","ㄏ"],
+    ["j","ㄐ"],["q","ㄑ"],["x","ㄒ"],["r","ㄖ"],["z","ㄗ"],["c","ㄘ"],["s","ㄙ"]];
+  var ZY_FIN = {"a":"ㄚ","o":"ㄛ","e":"ㄜ","ai":"ㄞ","ei":"ㄟ","ao":"ㄠ","ou":"ㄡ","an":"ㄢ","en":"ㄣ",
+    "ang":"ㄤ","eng":"ㄥ","er":"ㄦ","i":"ㄧ","ia":"ㄧㄚ","ie":"ㄧㄝ","iao":"ㄧㄠ","iu":"ㄧㄡ",
+    "ian":"ㄧㄢ","in":"ㄧㄣ","iang":"ㄧㄤ","ing":"ㄧㄥ","iong":"ㄩㄥ","u":"ㄨ","ua":"ㄨㄚ","uo":"ㄨㄛ",
+    "uai":"ㄨㄞ","ui":"ㄨㄟ","uan":"ㄨㄢ","un":"ㄨㄣ","uang":"ㄨㄤ","ong":"ㄨㄥ","ü":"ㄩ","üe":"ㄩㄝ",
+    "üan":"ㄩㄢ","ün":"ㄩㄣ"};
+  var ZY_TONE = {1:"",2:"ˊ",3:"ˇ",4:"ˋ",5:"˙"};
+  var ZY_MARK = {"ā":"a","á":"a","ǎ":"a","à":"a","ē":"e","é":"e","ě":"e","è":"e","ī":"i","í":"i",
+    "ǐ":"i","ì":"i","ō":"o","ó":"o","ǒ":"o","ò":"o","ū":"u","ú":"u","ǔ":"u","ù":"u","ǖ":"ü",
+    "ǘ":"ü","ǚ":"ü","ǜ":"ü"};
+
+  function zhuyinSyl(tok) {
+    var m = /^([A-Za-zü:āáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ]+)([0-5])?$/.exec(tok);
+    if (!m) return "";
+    var body = m[1], tone = parseInt(m[2] || "1", 10), mark = 0;
+    body = body.replace(/[āáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ]/g, function (c) {
+      var t = "āáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ".indexOf(c) % 4 + 1;
+      mark = t;
+      return ZY_MARK[c];
+    });
+    if (mark) tone = mark;
+    body = body.toLowerCase().replace(/u:/g, "ü");
+    if (body.charAt(0) === "y") {
+      var r = body.slice(1);
+      body = r === "" ? "i" : (r.charAt(0) === "u" ? "ü" + r.slice(1) : (r === "ong" ? "iong" : "i" + r));
+    } else if (body.charAt(0) === "w") {
+      var r2 = body.slice(1);
+      body = r2 ? "u" + r2 : "u";
+    }
+    var ini = "";
+    for (var i = 0; i < ZY_INIT.length; i++) {
+      if (body.indexOf(ZY_INIT[i][0]) === 0) { ini = ZY_INIT[i][1]; body = body.slice(ZY_INIT[i][0].length); break; }
+    }
+    var fin = "";
+    if (body && !(/^[iuü]$/.test(body) && /[ㄓㄔㄕㄖㄗㄘㄙ]/.test(ini))) fin = ZY_FIN[body] || "";
+    if (tone === 5) return "˙" + ini + fin;
+    return ini + fin + (ZY_TONE[tone] || "");
+  }
+
+  function zhuyin(py) {
+    return (py || "").split(" ").map(zhuyinSyl).filter(Boolean).join(" ");
+  }
+
   function esc(s) {
     return String(s == null ? "" : s).replace(/[&<>"]/g, function (c) {
       return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c];
@@ -132,6 +179,7 @@
         '<div class="hz">' + esc(e[1]) + "</div>" +
         '<div class="hz-side">' +
           '<div class="py">' + esc(e[2]) + "</div>" +
+          '<div class="zy">' + esc(zhuyin(e[2])) + "</div>" +
           (tr ? '<div class="trad">' + esc(tr) + "</div>" : "") +
           (e[4] ? '<div class="hv">漢越音 ' + esc(e[4]) + "</div>" : "") +
         "</div>" +
