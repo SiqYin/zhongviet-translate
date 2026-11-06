@@ -19,7 +19,7 @@ android {
     signingConfigs {
         release {
             def ksPath = System.getenv("ANDROID_KEYSTORE_PATH") ?: "keystore/hanviet-release.jks"
-            def ksFile = file(ksPath)
+            def ksFile = rootProject.file(ksPath)
             if (ksFile.exists()) {
                 storeFile ksFile
                 storePassword System.getenv("ANDROID_KEYSTORE_PASSWORD")
@@ -33,7 +33,7 @@ android {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
             def ksPath = System.getenv("ANDROID_KEYSTORE_PATH") ?: "keystore/hanviet-release.jks"
-            if (file(ksPath).exists()) {
+            if (rootProject.file(ksPath).exists()) {
                 signingConfig signingConfigs.release
             }
         }
