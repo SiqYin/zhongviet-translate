@@ -35,6 +35,18 @@
 
   // ================= 方向 =================
   var st = { view: "dict", dir: "zh2vi", script: "hans", busy: false, out: "", lang: "" };
+  try {
+    var _d = localStorage.getItem("hanviet.ai.dir");
+    var _sc = localStorage.getItem("hanviet.ai.script");
+    if (_d === "zh2vi" || _d === "vi2zh") st.dir = _d;
+    if (_sc === "hans" || _sc === "hant") st.script = _sc;
+  } catch (e) {}
+  function saveOpts() {
+    try {
+      localStorage.setItem("hanviet.ai.dir", st.dir);
+      localStorage.setItem("hanviet.ai.script", st.script);
+    } catch (e) {}
+  }
 
   function dirLabel() {
     return t("ai.dirHint." + st.dir + "." + st.script);
@@ -106,9 +118,9 @@
       if (!s) continue;
       var parts = s.split(/[；;，,、\/]/);
       for (var j = 0; j < parts.length; j++) {
-        var t = parts[j].replace(/[（(][^）)]*[）)]/g, " ").trim().toLowerCase();
-        if (!t) continue;
-        var sy = t.split(SEP).filter(Boolean);
+        var seg = parts[j].replace(/[（(][^）)]*[）)]/g, " ").trim().toLowerCase();
+        if (!seg) continue;
+        var sy = seg.split(SEP).filter(Boolean);
         if (sy.length < 2 || sy.length > 4) continue;
         set.add(sy.join(" "));
       }
@@ -205,15 +217,15 @@
   function senseScore(i, key) {
     var ss = HV.senses(ZV[i]), best = 9, bestLen = 99;
     for (var j = 0; j < ss.length; j++) {
-      var t = ss[j].toLowerCase().replace(/[（(][^）)]*[）)]/g, " ")
+      var sv = ss[j].toLowerCase().replace(/[（(][^）)]*[）)]/g, " ")
         .replace(/[.,;:!?"'”’\]]+$/, "").trim();
-      if (!t) continue;
+      if (!sv) continue;
       var sc = 9;
-      if (t === key) sc = 0;
-      else if (t.indexOf(key) === 0) sc = 1;
-      else if (t.split(SEP).indexOf(key) > -1) sc = 3;
-      else if (t.indexOf(key) > -1) sc = 4;
-      var wc = t.split(/\s+/).length;
+      if (sv === key) sc = 0;
+      else if (sv.indexOf(key) === 0) sc = 1;
+      else if (sv.split(SEP).indexOf(key) > -1) sc = 3;
+      else if (sv.indexOf(key) > -1) sc = 4;
+      var wc = sv.split(/\s+/).length;
       if (sc < 9 && (sc < best || (sc === best && wc < bestLen))) { best = sc; bestLen = wc; }
     }
     return best === 9 ? -1 : best * 100 + Math.min(bestLen, 30);
@@ -274,7 +286,7 @@
     if (e[4]) h += '<div class="prow"><b>' + t("detail.hv") + '</b><span>' + esc(e[4]) + "</span></div>";
     if (ss[0]) {
       h += '<div class="pvi">' + esc(ss[0]) +
-        (e[5] ? '<span class="pnom' + (window.isHanWord && window.isHanWord(e[5]) ? " han" : "") + '">' + esc(e[5]) + "</span>" : "") + "</div>";
+        (e[5] ? '<span class="pnom">' + esc(e[5]) + "</span>" : "") + "</div>";
     }
     if (ss.length > 1) h += '<div class="poth">' + ss.slice(1, 3).map(esc).join("；") + "</div>";
     h += '<div class="pfoot" data-open="' + i + '">' + t("detail.more") + "</div>";
@@ -285,7 +297,7 @@
     var hits = lookupVi(w);
     var nom = (HV.NOM && HV.NOM.get(w.toLowerCase().trim())) || "";
     var h = '<div class="ptop"><span class="pvi-big">' + esc(w) + "</span>" +
-      (nom ? '<span class="pnom' + (window.isHanWord && window.isHanWord(nom) ? " han" : "") + '">' + esc(nom) + "</span>" : "") + "</div>";
+      (nom ? '<span class="pnom">' + esc(nom) + "</span>" : "") + "</div>";
     if (!hits.length) {
       return h + '<div class="plabel">' + t("pop.lib") + '</div><div class="pop-none">' + t("pop.noZh") + "</div>";
     }
@@ -343,10 +355,10 @@
     var toks = lang === "vi" ? segVi(text) : segZh(text);
     var html = [];
     for (var i = 0; i < toks.length; i++) {
-      var t = toks[i];
-      var lead = t.lead ? esc(t.lead) : "";
-      if (t.w) html.push(lead + '<span class="tok" data-t="' + esc(t.t) + '">' + esc(t.t) + "</span>");
-      else html.push(lead + '<span class="glue">' + esc(t.t) + "</span>");
+      var tk = toks[i];
+      var lead = tk.lead ? esc(tk.lead) : "";
+      if (tk.w) html.push(lead + '<span class="tok" data-t="' + esc(tk.t) + '">' + esc(tk.t) + "</span>");
+      else html.push(lead + '<span class="glue">' + esc(tk.t) + "</span>");
     }
     tokensEl.innerHTML = html.join("");
     $("out").hidden = false;
@@ -468,6 +480,7 @@
       Array.prototype.forEach.call(dirSeg.querySelectorAll("button"), function (x) {
         x.classList.toggle("on", x === b);
       });
+      saveOpts();
       clearOut();
       refreshDir();
     });
@@ -478,10 +491,20 @@
       Array.prototype.forEach.call(scriptSeg.querySelectorAll("button"), function (x) {
         x.classList.toggle("on", x === b);
       });
+      saveOpts();
       clearOut();
       refreshDir();
     });
   });
+
+  // 還原上次的選項狀態（方向／簡繁）
+  Array.prototype.forEach.call(dirSeg.querySelectorAll("button"), function (x) {
+    x.classList.toggle("on", x.getAttribute("data-dir") === st.dir);
+  });
+  Array.prototype.forEach.call(scriptSeg.querySelectorAll("button"), function (x) {
+    x.classList.toggle("on", x.getAttribute("data-script") === st.script);
+  });
+  refreshDir();
 
   // ================= 翻譯流程 =================
   var goBtn = $("go"), errBox = $("err"), errMsg = $("errMsg");
@@ -550,18 +573,18 @@
   $("again").addEventListener("click", run);
 
   $("copy").addEventListener("click", function () {
-    var t = st.out;
+    var out = st.out;
     var done = function () {
       var b = $("copy");
       b.textContent = t("ai.copied");
       setTimeout(function () { b.textContent = t("ai.copy"); }, 1200);
     };
     if (navigator.clipboard && navigator.clipboard.writeText) {
-      navigator.clipboard.writeText(t).then(done, fallback);
+      navigator.clipboard.writeText(out).then(done, fallback);
     } else { fallback(); }
     function fallback() {
       var ta = document.createElement("textarea");
-      ta.value = t;
+      ta.value = out;
       ta.style.position = "fixed";
       ta.style.opacity = "0";
       document.body.appendChild(ta);
