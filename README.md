@@ -1,5 +1,7 @@
 # 漢南辭典
 
+<p align="center"><img src="docs/logo.png" width="112" alt="漢南辭典"></p>
+
 [中文](README.md) · [Tiếng Việt](README.vi.md) · [English](README.en.md)
 
 Từ điển Trung–Việt · Sino-Vietnamese Dictionary

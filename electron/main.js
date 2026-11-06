@@ -9,6 +9,7 @@ function createWindow() {
     minHeight: 560,
     backgroundColor: "#faf7f2",
     title: "漢南辭典",
+    icon: path.join(__dirname, "icon.png"),
     autoHideMenuBar: true,
     webPreferences: {
       contextIsolation: true,

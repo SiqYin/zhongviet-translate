@@ -1,6 +1,6 @@
 {
   "name": "hanviet-dict",
-  "version": "1.2.2",
+  "version": "1.3.0",
   "private": true,
   "description": "漢南辭典 — 中越雙向詞典與 AI 翻譯",
   "main": "electron/main.js",
@@ -31,6 +31,7 @@
       "package.json"
     ],
     "win": {
+      "icon": "build/icon.ico",
       "target": [
         {
           "target": "nsis",

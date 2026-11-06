@@ -26,3 +26,10 @@
 - **OpenCC** 繁簡轉換表 — Apache License 2.0
 - **Electron** — MIT License
 - **Capacitor** — MIT License
+- **霞鹜文楷（LXGW WenKai）** 字體子集 — SIL Open Font License 1.1
+- **NomNaTong** 字喃字體子集 — MIT License
+
+## Logo
+
+應用圖示（圓形漸變徽章＋白色蓮花）為本專案**原創設計**，不取材自任何官方標誌；
+著作權歸本專案所有。
