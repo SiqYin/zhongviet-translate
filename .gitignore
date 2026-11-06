@@ -6,3 +6,4 @@ ios/
 .DS_Store
 Thumbs.db
 data/zhvi_src*.json
+android/keystore/
