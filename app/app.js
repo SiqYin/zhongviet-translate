@@ -163,8 +163,21 @@
   var input = document.getElementById("q");
   var clearBtn = document.getElementById("clear");
 
+  // 漢字詞（如「暫時」「机関」）用霞鶩文楷；含喃字字形的整詞用 NomNaTong
+  function isHanWord(s) {
+    if (!s || s.length < 2) return false;
+    var set = window.HAN_CHARS || "";
+    for (var i = 0; i < s.length; i++) {
+      if (set.indexOf(s.charAt(i)) === -1) return false;
+    }
+    return true;
+  }
+  window.isHanWord = isHanWord;
+
   function nomTag(nom, cls) {
-    return nom ? '<span class="' + (cls || "nom-sm") + '">' + esc(nom) + "</span>" : "";
+    if (!nom) return "";
+    var c = (cls || "nom-sm") + (isHanWord(nom) ? " han" : "");
+    return '<span class="' + c + '">' + esc(nom) + "</span>";
   }
 
   // 中文詞條（主卡）
@@ -253,7 +266,7 @@
           '<div class="vi">' + esc(firstSense(e)) + "</div>" +
           '<div class="zh">' + esc(e[2]) + (e[4] ? " · " + t("detail.hv") + " " + esc(e[4]) : "") + "</div>" +
         "</div>" +
-        (e[5] ? '<div class="nom-r">' + esc(e[5]) + "</div>" : "") +
+        (e[5] ? '<div class="nom-r' + (isHanWord(e[5]) ? " han" : "") + '">' + esc(e[5]) + "</div>" : "") +
       "</div></article>";
   }
 
@@ -330,7 +343,7 @@
       '<div class="def"><dt>' + t("detail.pinyin") + '</dt><dd>' + esc(e[2]) + "</dd></div>" +
       (e[0] !== e[1] ? '<div class="def"><dt>' + t("detail.trad") + '</dt><dd>' + esc(e[0]) + "</dd></div>" : "") +
       (e[4] ? '<div class="def"><dt>' + t("detail.hv") + '</dt><dd>' + esc(e[4]) + "</dd></div>" : "") +
-      (e[5] ? '<div class="def"><dt>' + t("detail.nom") + '</dt><dd><span class="ids">' + esc(e[5]) + "</span></dd></div>" : "") +
+      (e[5] ? '<div class="def"><dt>' + t("detail.nom") + '</dt><dd><span class="nomword' + (isHanWord(e[5]) ? " han" : "") + '">' + esc(e[5]) + "</span></dd></div>" : "") +
       "</dl>";
     html += famBlock(fam);
     openSheet(html);

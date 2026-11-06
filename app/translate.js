@@ -274,7 +274,7 @@
     if (e[4]) h += '<div class="prow"><b>' + t("detail.hv") + '</b><span>' + esc(e[4]) + "</span></div>";
     if (ss[0]) {
       h += '<div class="pvi">' + esc(ss[0]) +
-        (e[5] ? '<span class="pnom">' + esc(e[5]) + "</span>" : "") + "</div>";
+        (e[5] ? '<span class="pnom' + (window.isHanWord && window.isHanWord(e[5]) ? " han" : "") + '">' + esc(e[5]) + "</span>" : "") + "</div>";
     }
     if (ss.length > 1) h += '<div class="poth">' + ss.slice(1, 3).map(esc).join("；") + "</div>";
     h += '<div class="pfoot" data-open="' + i + '">' + t("detail.more") + "</div>";
@@ -285,7 +285,7 @@
     var hits = lookupVi(w);
     var nom = (HV.NOM && HV.NOM.get(w.toLowerCase().trim())) || "";
     var h = '<div class="ptop"><span class="pvi-big">' + esc(w) + "</span>" +
-      (nom ? '<span class="pnom">' + esc(nom) + "</span>" : "") + "</div>";
+      (nom ? '<span class="pnom' + (window.isHanWord && window.isHanWord(nom) ? " han" : "") + '">' + esc(nom) + "</span>" : "") + "</div>";
     if (!hits.length) {
       return h + '<div class="plabel">' + t("pop.lib") + '</div><div class="pop-none">' + t("pop.noZh") + "</div>";
     }
@@ -432,8 +432,11 @@
       : t("foot.count", { n: ZV.length.toLocaleString() });
   }
 
+  var VIEW_KEY = "hanviet.ui.view";
+
   function setView(v) {
     st.view = v;
+    try { localStorage.setItem(VIEW_KEY, v); } catch (e) {}
     dictView.hidden = v !== "dict";
     aiView.hidden = v !== "ai";
     dictBar.hidden = v !== "dict";
@@ -651,7 +654,11 @@
   });
 
   var qs = new URLSearchParams(location.search);
-  if (qs.get("view") === "ai") {
+  var wantView = qs.get("view");
+  if (wantView !== "ai" && wantView !== "dict") {
+    try { wantView = localStorage.getItem(VIEW_KEY) || ""; } catch (e) { wantView = ""; }
+  }
+  if (wantView === "ai") {
     setView("ai");
     if (qs.get("q")) {
       src.value = qs.get("q");
@@ -660,6 +667,7 @@
     }
     if (qs.get("go") === "1") setTimeout(run, 60);
   } else {
+    setView("dict");
     footer();
   }
 })();

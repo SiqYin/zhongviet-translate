@@ -41,7 +41,11 @@ def wenkai_charset():
             chars.update(field)
         for field in (row[2], row[4]):              # 拼音、漢越音（拉丁）
             chars.update(field)
-    for f in ("index.html", "app.js", "translate.js", "style.css"):
+        if len(row) > 5 and row[5]:
+            chars.update(row[5])                    # 字喃欄（其中的漢字詞用霞鶩文楷）
+    for vi, nom in load_json_var(APP / "nom.js"):
+        chars.update(nom)                           # 同上
+    for f in ("index.html", "app.js", "translate.js", "style.css", "i18n.js", "nomcls.js"):
         chars.update((APP / f).read_text(encoding="utf-8"))
     chars.update(chr(c) for c in range(0x20, 0x7F))
     chars.update(VI_LOWER + VI_UPPER + BOPOMOFO + SYMBOLS)
