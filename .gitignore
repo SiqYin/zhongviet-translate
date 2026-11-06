@@ -9,3 +9,6 @@ data/zhvi_src*.json
 android/keystore/
 run_logs.zip
 apk_artifact.zip
+*.apk
+*.zip
+out*/
