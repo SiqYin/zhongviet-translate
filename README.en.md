@@ -1,6 +1,6 @@
 # Sino-Vietnamese Dictionary
 
-<p align="center"><img src="docs/logo.png" width="112" alt="漢南辭典"></p>
+<p align="center"><img src="docs/logo.png" width="200" alt="漢南辭典"></p>
 
 [中文](README.md) · [Tiếng Việt](README.vi.md) · [English](README.en.md)
 
@@ -39,6 +39,7 @@ The Sino-Vietnamese reading is an annotation only — it never becomes a separat
 - Chinese (simplified or traditional) → the actual Vietnamese word, pinyin, zhuyin, traditional form, Sino-Vietnamese reading, and word family
 - Vietnamese (tones optional) → matching Chinese words, ranked by sense fit
 - Single characters carry Nôm glyphs, radical, stroke count and structure
+- Bilingual example sentences (Chinese example + Vietnamese translation), generated per entry and grammar-checked
 
 **AI translation**
 
@@ -101,5 +102,4 @@ Android can also be built in CI: push to `main` and download the `android-apk` a
 ## Known limitations
 
 - Nôm covers about 10,900 entries; no Nôm reverse lookup yet
-- Some rare words are translated a bit too literally
-- Example sentences not included yet
+- A few very rare characters (radicals, symbols) have no example sentences

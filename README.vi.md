@@ -1,6 +1,6 @@
 # Từ điển Trung–Việt
 
-<p align="center"><img src="docs/logo.png" width="112" alt="漢南辭典"></p>
+<p align="center"><img src="docs/logo.png" width="200" alt="漢南辭典"></p>
 
 [中文](README.md) · [Tiếng Việt](README.vi.md) · [English](README.en.md)
 
@@ -39,6 +39,7 @@ Người Việt nói `gà`, nhưng chữ「雞」vay sang tiếng Việt đọc 
 - Tiếng Trung (giản thể hoặc phồn thể) → từ Việt thực dùng, pinyin, chú âm, phồn thể, âm Hán Việt và hệ từ
 - Tiếng Việt (bỏ dấu vẫn tra được) → các từ Hán tương ứng, xếp theo mức độ khớp nghĩa
 - Chữ đơn kèm chữ Nôm, bộ thủ, số nét, cấu tạo chữ
+- Kèm ví dụ song ngữ (câu tiếng Trung + bản dịch tiếng Việt), tạo từng mục và được rà lỗi câu
 
 **Dịch AI**
 
@@ -102,5 +103,4 @@ Android cũng có thể build qua CI: đẩy lên `main`, tải artifact `androi
 ## Giới hạn còn lại
 
 - Chữ Nôm phủ khoảng 10.900 mục, chưa tra ngược bằng chữ Nôm
-- Một số từ ít gặp vẫn dịch hơi sát nghĩa đen
-- Chưa có ví dụ câu
+- Vài ký tự hiếm (bộ thủ, ký hiệu) không tạo được ví dụ tự nhiên nên thiếu ví dụ

@@ -14,29 +14,29 @@
 13	哪里	nǎ lǐ	nả lý	đâu	兜	1	相關詞少
 14	什么时候	shén me shí hou	thậm yêu thời hậu	khi nào	欺芇	0	相關詞少
 15	怎么	zěn me	chẩm yêu	làm sao	爫牢	3	
-16	不	bù	bất	không	空	1536	
+16	不	bù	bất	không	空	1527	
 17	全部	quán bù	toàn bộ	toàn bộ	毕哿	0	相關詞少
 18	多	duō	đa	nhiều	𡗉	119	
 19	一些	yī xiē	nhất ta	một vài	𠬠𠄧	2	
 20	少	shǎo	thiểu、thiếu	ít	𠃣	27	
 21	其他	qí tā	kỳ tha	khác	恪	0	相關詞少
-22	一	yī	nhất	một	𠬠	530	
-23	二	èr	nhị	hai	𠄩	162	
-24	三	sān	tam	ba	𠀧	259	
-25	四	sì	tứ	bốn	𦊚	116	
-26	五	wǔ	ngũ	năm	𠄼	111	
-27	大	dà	đại	lớn	𡘯	411	
-28	长	cháng	trường、trưởng	dài	𨱽	188	
+22	一	yī	nhất	một	𠬠	528	
+23	二	èr	nhị	hai	𠄩	158	
+24	三	sān	tam	ba	𠀧	254	
+25	四	sì	tứ	bốn	𦊚	119	
+26	五	wǔ	ngũ	năm	𠄼	107	
+27	大	dà	đại	lớn	𡘯	395	
+28	长	cháng	trường、trưởng	dài	𨱽	187	
 29	宽	kuān	khoan	rộng	户	52	
 30	厚	hòu	hậu	dày	卒䏾	26	
-31	重	zhòng	trọng、trùng	nặng		98	
-32	小	xiǎo	tiểu	nhỏ	𡮈	297	
+31	重	zhòng	trọng、trùng	nặng		94	
+32	小	xiǎo	tiểu	nhỏ	𡮈	284	
 33	短	duǎn	đoản	ngắn	𥐉	96	
 34	窄	zhǎi	trách	hẹp		10	
 35	薄	bó	bạc	mỏng	要	34	
-36	女人	nǚ rén	nữ nhân	phụ nữ	婦女	3	
+36	女人	nǚ rén	nữ nhân	phụ nữ	婦女	2	
 37	男人	nán rén	nam nhân	đàn ông	彈翁	4	
-38	人	rén	nhân	người	𠊛	963	
+38	人	rén	nhân	người	𠊛	960	
 39	小孩	xiǎo hái	tiểu hài	trẻ con	𥘷𡥵	2	
 40	妻子	qī zǐ	thê tử	vợ	𡞕	0	相關詞少
 41	丈夫	zhàng fu	trượng phu	chồng	𫯳	0	相關詞少
@@ -45,7 +45,7 @@
 44	动物	dòng wù	động vật	động vật	動物	60	
 45	鱼	yú	ngư	cá	𩵜	240	
 46	鸟	niǎo	điểu	chim	𪀄	223	
-47	狗	gǒu	cẩu	chó	㹥	97	
+47	狗	gǒu	cẩu	chó	㹥	95	
 48	虱子	shī zi	sắt tử	chấy		0	相關詞少
 49	蛇	shé	xà	rắn		51	
 50	虫	chóng	trùng	côn trùng		41	
@@ -53,9 +53,9 @@
 52	森林	sēn lín	sâm lâm	khu rừng		0	相關詞少
 53	棍子	gùn zi	côn tử	gậy		1	相關詞少
 54	水果	shuǐ guǒ	thuỷ quả	trái cây		2	
-55	种子	zhǒng zi	chủng tử	hạt giống		5	
+55	种子	zhǒng zi	chủng tử	hạt giống		4	
 56	叶子	yè zi	diệp tử	Lá cây	𦲿	3	
-57	根	gēn	căn	gốc rễ		52	
+57	根	gēn	căn	gốc rễ		51	
 58	树皮	shù pí	thụ bì	vỏ cây		0	相關詞少
 59	花	huā	hoa	hoa	華	388	
 60	草	cǎo	thảo、tháo	cỏ		122	
@@ -63,35 +63,35 @@
 62	皮肤	pí fū	bì phu	da	䏧	4	
 63	肉	ròu	nhục	thịt		156	
 64	血	xuè	huyết	máu	𧖱	197	
-65	骨头	gǔ tou	cốt đầu	xương		7	
+65	骨头	gǔ tou	cốt đầu	xương		6	
 66	脂肪	zhī fáng	chi phương	chất béo		3	
 67	蛋	dàn	đản	trứng		68	
 68	角	jiǎo	giác、giốc、góc	góc	競爭	104	
 69	尾巴	wěi ba	vĩ ba	cái đuôi		0	相關詞少
 70	羽毛	yǔ máo	vũ mao	lông vũ		5	
 71	头发	tóu fa	đầu phát	tóc		2	
-72	头	tóu	đầu	đầu	頭	473	
+72	头	tóu	đầu	đầu	頭	469	
 73	耳朵	ěr duo	nhĩ đoá	tai		6	
 74	眼睛	yǎn jing	nhãn tình	mắt	眜	5	
 75	鼻子	bí zi	tỵ tử	mũi		7	
-76	嘴	zuǐ	chuỷ	miệng	𠰘	50	
+76	嘴	zuǐ	chuỷ	miệng	𠰘	49	
 77	牙齿	yá chǐ	nha xỉ	răng		0	相關詞少
 78	舌头	shé tou	thiệt đầu	lưỡi		2	
 79	指甲	zhǐ jia	chỉ giáp	móng tay		8	
-80	脚	jiǎo	cước	chân	蹎	159	
+80	脚	jiǎo	cước	chân	蹎	156	
 81	腿	tuǐ	thối	chân	蹎	51	
 82	膝盖	xī gài	tất cái	đầu gối		1	相關詞少
-83	手	shǒu	thủ	tay	𢬣	314	
+83	手	shǒu	thủ	tay	𢬣	310	
 84	翅膀	chì bǎng	sí bảng	cánh		1	相關詞少
 85	肚子	dù zi	đỗ tử	bụng	䏾	8	
 86	肠子	cháng zi	tràng tử	ruột		2	
 87	脖子	bó zi	bột tử	cổ	古	9	
 88	背	bèi	bối、bội	lưng		102	
 89	乳房	rǔ fáng	nhũ phòng	vú		1	相關詞少
-90	心	xīn	tâm	tim	心	94	
+90	心	xīn	tâm	tim	心	93	
 91	肝	gān	can	gan		27	
 92	喝	hē	hát、hét	uống	㕵	15	
-93	吃	chī	cật、khiết	ăn	咹	104	
+93	吃	chī	cật、khiết	ăn	咹	100	
 94	咬	yǎo	giảo	cắn		19	
 95	吸	xī	hấp	hít		9	
 96	吐	tǔ	thổ	nôn	呐	11	
@@ -100,39 +100,39 @@
 99	呼吸	hū xī	hô hấp	hơi thở		0	相關詞少
 100	笑	xiào	tiếu	cười	唭	124	
 101	看	kàn	khán	xem	䀡	35	
-102	听	tīng	thính、dẫn	nghe	𦖑	93	
+102	听	tīng	thính、dẫn	nghe	𦖑	92	
 103	知道	zhī dào	tri đạo	biết	别	4	
 104	想	xiǎng	tưởng	muốn	悶	8	
 105	闻	wén	văn	nghe	𦖑	35	
 106	怕	pà	phạ	sợ	𢜝	23	
 107	睡	shuì	thuỵ	ngủ	𥄬	52	
 108	活	huó	hoạt	sống	𤯩	99	
-109	死	sǐ	tử	chết	𣩂	203	
-110	杀	shā	sát	giết		81	
+109	死	sǐ	tử	chết	𣩂	200	
+110	杀	shā	sát	giết		79	
 111	打斗	dǎ dòu	đả đẩu	đánh nhau	打憢	0	相關詞少
 112	打猎	dǎ liè	đả liệp	săn bắn		0	相關詞少
-113	打	dǎ	đả、tá	đánh	打	118	
+113	打	dǎ	đả、tá	đánh	打	117	
 114	切	qiè	thiết、tiếp	cắt	割	40	
-115	分	fēn	phân、phận、phần	phần	分	78	
+115	分	fēn	phân、phận、phần	phần	分	75	
 116	刺	cì	thích、thứ	gai		30	
-117	抓	zhuā	trảo	nắm bắt	扒	12	
+117	抓	zhuā	trảo	nắm bắt	扒	11	
 118	挖	wā	oạt	đào		13	
 119	游泳	yóu yǒng	du vịnh	bơi		7	
-120	飞	fēi	phi	bay	𠖤	120	
+120	飞	fēi	phi	bay	𠖤	117	
 121	走	zǒu	tẩu	đi	𠫾	111	
-122	来	lái	lai	đến	𦤾	78	
+122	来	lái	lai	đến	𦤾	77	
 123	躺	tǎng	thảng	nằm	𦣰	13	
 124	坐	zuò	toạ	ngồi	𡎥	78	
 125	站	zhàn	trạm	trạm	𨅸	65	
-126	转	zhuǎn	chuyển、chuyến	xoay	𢺺𢩿	51	
+126	转	zhuǎn	chuyển、chuyến	xoay	𢺺𢩿	50	
 127	掉	diào	điệu	rơi	𠅍	8	
 128	给	gěi	cấp	cho	朱	21	
 129	拿	ná	nã	lấy	𥙩	3	
 130	挤	jǐ	tễ	ép	尋	13	
 131	擦	cā	sát	lau		14	
-132	洗	xǐ	tẩy	rửa		75	
+132	洗	xǐ	tẩy	rửa		74	
 133	擦干	cā gān	sát can	lau khô		0	相關詞少
-134	拉	lā	lạp	kéo	制	47	
+134	拉	lā	lạp	kéo	制	45	
 135	推	tuī	suy	đẩy	割	51	
 136	扔	rēng	nhưng	ném		4	
 137	绑	bǎng	bảng	buộc		9	
@@ -141,17 +141,17 @@
 140	说	shuō	thuyết、thuế	nói	呐	139	
 141	唱	chàng	xướng	hát	欱	59	
 142	玩	wán	ngoạn	chơi	制	62	
-143	浮	fú	phù	nổi	暫時	37	
-144	流	liú	lưu	chảy		102	
+143	浮	fú	phù	nổi	暫時	36	
+144	流	liú	lưu	chảy		101	
 145	冻	dòng	đông	đóng băng		15	
 146	肿	zhǒng	trũng	sưng		11	
-147	太阳	tài yang	thái dương	mặt trời	𩈘𡗶	30	
+147	太阳	tài yang	thái dương	mặt trời	𩈘𡗶	28	
 148	月亮	yuè liang	nguyệt lượng	mặt trăng	𩈘𦝄	2	
 149	星星	xīng xing	tinh tinh	ngôi sao		0	相關詞少
-150	水	shuǐ	thuỷ	nước	渃	521	
-151	雨	yù	vũ	mưa	𩅹	131	
+150	水	shuǐ	thuỷ	nước	渃	519	
+151	雨	yù	vũ	mưa	𩅹	130	
 152	河	hé	hà	sông	滝	192	
-153	湖	hú	hồ	hồ	湖	165	
+153	湖	hú	hồ	hồ	湖	164	
 154	海	hǎi	hải	biển	𣷷	280	
 155	盐	yán	diêm	muối		58	
 156	石头	shí tou	thạch đầu	đá	跢	6	
@@ -161,29 +161,29 @@
 160	云	yún	vân	đám mây	呐	14	
 161	雾	wù	vụ	sương mù		39	
 162	天空	tiān kōng	thiên không	bầu trời		2	
-163	风	fēng	phong	gió	䬔	234	
+163	风	fēng	phong	gió	䬔	231	
 164	雪	xuě	tuyết	tuyết	户	103	
-165	冰	bīng	băng	băng		111	
+165	冰	bīng	băng	băng		110	
 166	烟	yān	yên	khói		54	
-167	火	huǒ	hoả	lửa	焒	187	
+167	火	huǒ	hoả	lửa	焒	188	
 168	灰	huī	hôi	xám		109	
-169	烧	shāo	thiêu	nướng		15	
-170	路	lù	lộ	đường	糖	240	
+169	烧	shāo	thiêu	nướng		14	
+170	路	lù	lộ	đường	糖	237	
 171	山	shān	sơn	núi	𡶀	445	
 172	红	hóng	hồng、công	đỏ	𧹼	273	
 173	绿	lǜ	lục	xanh lục	撑綠	122	
 174	黄	huáng	hoàng	vàng	鐄	188	
-175	白	bái	bạch	trắng	𤽸	362	
-176	黑	hēi	hắc	đen	黰	240	
+175	白	bái	bạch	trắng	𤽸	363	
+176	黑	hēi	hắc	đen	黰	236	
 177	夜	yè	dạ	đêm	𣎀	133	
 178	白天	bái tiān	bạch thiên	ban ngày	班𣈜	1	相關詞少
-179	年	nián	niên	năm	𠄼	191	
+179	年	nián	niên	năm	𠄼	189	
 180	暖	nuǎn	noãn	ấm áp	萻	32	
-181	冷	lěng	lạnh	lạnh	户	94	
+181	冷	lěng	lạnh	lạnh	户	86	
 182	满	mǎn	mãn	đầy	菭	77	
-183	新	xīn	tân	mới	㵋	180	
+183	新	xīn	tân	mới	㵋	178	
 184	旧	jiù	cựu	cũ	𫇰	98	
-185	好	hǎo	hảo、hiếu	tốt	卒	90	
+185	好	hǎo	hảo、hiếu	tốt	卒	86	
 186	坏	huài	hoại	xấu		18	
 187	烂	làn	lạn	thối nát	𣟮	7	
 188	脏	zāng	tang	bẩn	机関	17	
@@ -193,14 +193,14 @@
 192	钝	dùn	độn	cùn		3	
 193	滑	huá	hoạt	trượt	户	51	
 194	湿	shī	thấp	ướt		18	
-195	干	gān	can、cán	làm	爫	28	
+195	干	gān	can、cán	làm	爫	27	
 196	对	duì	đối	đúng	𠁦	16	
-197	近	jìn	cận	gần	𧵆	78	
+197	近	jìn	cận	gần	𧵆	77	
 198	远	yuǎn	viễn	xa	賖	112	
 199	右	yòu	hữu	phải	沛	31	
 200	左	zuǒ	tả	trái	賴	33	
 201	在	zài	tại	ở	於	31	
-202	里	lǐ	lý	trong	𤄯	69	
+202	里	lǐ	lý	trong	𤄯	68	
 203	和	hé	hoà、hoạ、ù、hồ	và	吧	22	
 204	和	hé	hoà、hoạ、ù、hồ	và	吧	22	
 205	如果	rú guǒ	như quả	nếu	𠮩	1	相關詞少

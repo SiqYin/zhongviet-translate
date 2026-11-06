@@ -337,6 +337,13 @@ if _fix_path.exists():
     AI_FIX = json.loads(_fix_path.read_text(encoding="utf-8"))
     print("ai_fix entries", len(AI_FIX))
 
+# 雙語例句（word -> [中文例句, 越南語譯文]）
+EXAMPLES = {}
+_ex_path = ROOT / "data" / "examples.json"
+if _ex_path.exists():
+    EXAMPLES = json.loads(_ex_path.read_text(encoding="utf-8"))
+    print("examples", len(EXAMPLES))
+
 for simp, e in merged.items():
     trads = e["trads"]
     trad = simp if simp in trads else trads[0]
@@ -419,7 +426,8 @@ for simp, e in merged.items():
             nom = vi_nom[key]
             break
 
-    rows.append([trad, simp, pinyin_display(py), "；".join(senses[:5]), hanviet, nom])
+    rows.append([trad, simp, pinyin_display(py), "；".join(senses[:5]), hanviet, nom,
+                 EXAMPLES.get(simp, "")])
     src_dump.append({"s": simp, "t": trad, "y": pinyin_display(py),
                      "g": senses_orig[:5], "h": hanviet})
 
