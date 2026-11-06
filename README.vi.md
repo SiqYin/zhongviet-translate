@@ -43,8 +43,10 @@ Người Việt nói `gà`, nhưng chữ「雞」vay sang tiếng Việt đọc 
 
 **Dịch AI**
 
-- Bốn hướng: giản thể ⇄ tiếng Việt, phồn thể ⇄ tiếng Việt
+- Hai hướng: tiếng Trung → tiếng Việt; tiếng Việt → tiếng Trung (chọn đầu ra giản thể hoặc phồn thể)
 - Bản dịch được tách theo từ; **di chuột lên từ bất kỳ (chạm trên điện thoại) để tra nghĩa ngay**
+- Phân đoạn tiếng Việt bằng DP có trọng số từ điển, từ đa âm tiết được nhận diện nguyên từ
+- Giao diện tô màu: tiếng Trung xanh dương, tiếng Việt đỏ; ba chế độ Sáng / Tối / Theo hệ thống (Material You, có hiệu ứng chuyển động)
 - Mặc định dùng [Index-Translate](https://github.com/bilibili/Index-Translate) miễn phí, đổi được sang bất kỳ điểm cuối tương thích OpenAI nào
 - Khi mất mạng có chế độ tra từng từ trong từ điển
 
@@ -52,7 +54,7 @@ Người Việt nói `gà`, nhưng chữ「雞」vay sang tiếng Việt đọc 
 
 | Nền tảng | Tệp | Ghi chú |
 |---|---|---|
-| Windows | [HanVietDict-setup.exe](https://github.com/SiqYin/zhongviet-translate/releases/latest/download/HanVietDict-setup.exe) | Bản cài, ~85 MB |
+| Windows | [HanVietDict-setup.exe](https://github.com/SiqYin/zhongviet-translate/releases/latest/download/HanVietDict-setup.exe) | Bản cài, ~92 MB |
 | Android | [zhongviet-translate.apk](https://github.com/SiqYin/zhongviet-translate/releases/latest/download/zhongviet-translate.apk) | Android 5.1+ |
 | Web | [siqyin.github.io/zhongviet-translate-web](https://siqyin.github.io/zhongviet-translate-web/) | Không cần cài |
 

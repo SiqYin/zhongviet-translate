@@ -43,9 +43,10 @@ gà
 
 **AI 翻譯**
 
-- 四種方向：簡體中文 ⇄ 越南語、繁體中文 ⇄ 越南語
+- 兩個方向：中文 → 越南語；越南語 → 中文（輸出可選簡體或繁體）
 - 譯文按詞切分，**滑鼠移到任一個詞上（手機點一下）就彈出該詞的詞典釋義**
-- 中文用最大匹配分詞，詞表就是詞典本身；越南語按音節合併成詞（`Hôm qua`、`đi làm`、`bị sốt`）
+- 中文用最大匹配分詞；越南語按詞典加權 DP 分詞，多音節詞整體成詞（`Nhà nước`、`thành phố`、`Hồ Chí Minh`）
+- 介面採中藍越紅分色對照；支援淺色／深色／跟隨系統三檔主題（Material You 風格，含細膩動效）
 - 預設接 [Index-Translate](https://github.com/bilibili/Index-Translate) 免費公共介面，可換成任何 OpenAI 相容端點
 - 斷網時可切「詞庫逐詞對照」
 
@@ -53,7 +54,7 @@ gà
 
 | 平台 | 檔案 | 說明 |
 |---|---|---|
-| Windows | [HanVietDict-setup.exe](https://github.com/SiqYin/zhongviet-translate/releases/latest/download/HanVietDict-setup.exe) | 安裝版，約 85 MB |
+| Windows | [HanVietDict-setup.exe](https://github.com/SiqYin/zhongviet-translate/releases/latest/download/HanVietDict-setup.exe) | 安裝版，約 92 MB |
 | Android | [zhongviet-translate.apk](https://github.com/SiqYin/zhongviet-translate/releases/latest/download/zhongviet-translate.apk) | 直接安裝，需 Android 5.1+ |
 
 兩個連結固定指向**最新版本**；要取舊版請到 [Releases](https://github.com/SiqYin/zhongviet-translate/releases)。

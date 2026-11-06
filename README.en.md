@@ -43,8 +43,10 @@ The Sino-Vietnamese reading is an annotation only — it never becomes a separat
 
 **AI translation**
 
-- Four directions: simplified ⇄ Vietnamese, traditional ⇄ Vietnamese
+- Two directions: Chinese → Vietnamese; Vietnamese → Chinese (choose simplified or traditional output)
 - Output is tokenised; **hover any word (tap on mobile) to look it up instantly**
+- Vietnamese is segmented with a dictionary-weighted DP, keeping multi-syllable words whole
+- Chinese renders in blue, Vietnamese in red; light / dark / system themes (Material You, with subtle motion)
 - Defaults to the free public [Index-Translate](https://github.com/bilibili/Index-Translate) endpoint; any OpenAI-compatible endpoint works
 - Falls back to a word-by-word dictionary gloss when offline
 
@@ -52,7 +54,7 @@ The Sino-Vietnamese reading is an annotation only — it never becomes a separat
 
 | Platform | File | Notes |
 |---|---|---|
-| Windows | [HanVietDict-setup.exe](https://github.com/SiqYin/zhongviet-translate/releases/latest/download/HanVietDict-setup.exe) | Installer, ~85 MB |
+| Windows | [HanVietDict-setup.exe](https://github.com/SiqYin/zhongviet-translate/releases/latest/download/HanVietDict-setup.exe) | Installer, ~92 MB |
 | Android | [zhongviet-translate.apk](https://github.com/SiqYin/zhongviet-translate/releases/latest/download/zhongviet-translate.apk) | Android 5.1+ |
 | Web | [siqyin.github.io/zhongviet-translate-web](https://siqyin.github.io/zhongviet-translate-web/) | Nothing to install |
 
