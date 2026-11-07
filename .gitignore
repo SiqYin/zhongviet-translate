@@ -12,3 +12,4 @@ apk_artifact.zip
 *.apk
 *.zip
 out*/
+__pycache__/
