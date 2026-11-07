@@ -4,9 +4,9 @@
 
 [中文](README.md) · [Tiếng Việt](README.vi.md) · [English](README.en.md)
 
-Từ điển Trung–Việt · Sino-Vietnamese Dictionary
+Từ điển Trung-Nam · Sino-Vietnamese Dictionary
 
-面向中文母語者的**漢語 ⇄ 越南語**詞典，帶字喃（Chữ Nôm）字形與 AI 翻譯。離線優先，同一套程式碼跑在網頁、Windows、Android 三端。
+面向中文母語者與越南語母語者的**漢語 ⇄ 越南語**雙向詞典，帶字喃（Chữ Nôm）字形與 AI 翻譯。離線優先，同一套程式碼跑在網頁、Windows、Android 三端。
 
 **[▶ 線上使用](https://siqyin.github.io/zhongviet-translate-web/)** · [下載桌面版／Android](https://github.com/SiqYin/zhongviet-translate/releases/latest)
 

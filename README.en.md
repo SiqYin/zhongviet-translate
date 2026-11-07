@@ -4,9 +4,9 @@
 
 [中文](README.md) · [Tiếng Việt](README.vi.md) · [English](README.en.md)
 
-**漢南辭典** · Từ điển Trung–Việt
+**漢南辭典** · Từ điển Trung-Nam
 
-A **Chinese ⇄ Vietnamese** dictionary for Chinese speakers, with Chữ Nôm glyphs and AI translation. Offline-first, one codebase running on the web, Windows and Android.
+A two-way **Chinese ⇄ Vietnamese** dictionary for both Chinese and Vietnamese speakers, with Chữ Nôm glyphs and AI translation. Offline-first, one codebase running on the web, Windows and Android.
 
 **[▶ Use it now](https://siqyin.github.io/zhongviet-translate-web/)** · [Download desktop / Android](https://github.com/SiqYin/zhongviet-translate/releases/latest)
 

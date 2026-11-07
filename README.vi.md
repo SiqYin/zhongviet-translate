@@ -1,4 +1,4 @@
-# Từ điển Trung–Việt
+# Từ điển Trung-Nam
 
 <p align="center"><img src="docs/logo.png" width="200" alt="漢南辭典"></p>
 
@@ -6,7 +6,7 @@
 
 **漢南辭典** · Sino-Vietnamese Dictionary
 
-Từ điển **Hán ⇄ Việt** dành cho người dùng tiếng Trung, có chữ Nôm và dịch AI. Ưu tiên ngoại tuyến, một bộ mã chạy trên ba nền tảng: web, Windows, Android.
+Từ điển **Hán ⇄ Việt** hai chiều, dành cho cả người dùng tiếng Trung lẫn người dùng tiếng Việt, có chữ Nôm và dịch AI. Ưu tiên ngoại tuyến, một bộ mã chạy trên ba nền tảng: web, Windows, Android.
 
 **[▶ Dùng ngay](https://siqyin.github.io/zhongviet-translate-web/)** · [Tải bản desktop / Android](https://github.com/SiqYin/zhongviet-translate/releases/latest)
 
