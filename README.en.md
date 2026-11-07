@@ -37,9 +37,12 @@ The Sino-Vietnamese reading is an annotation only — it never becomes a separat
 **Dictionary**
 
 - Chinese (simplified or traditional) → the actual Vietnamese word, pinyin, zhuyin, traditional form, Sino-Vietnamese reading, and word family
-- Vietnamese (tones optional) → matching Chinese words, ranked by sense fit; unaccented queries are grouped by each possible syllable (typing `viet` lists `viết` and `việt` separately)
+- Vietnamese (tones optional) → matching Chinese words: every Vietnamese word in the library has its own entry,
+  giving the closest Chinese translation (with pinyin) plus the phrases built on it (`gà` → 鸡; `gà trống` → 公鸡; `gà con` → 小鸡)
+  rather than forced single characters; unaccented queries are grouped by each possible syllable (typing `viet` lists `viết` and `việt` separately)
 - Single characters carry Nôm glyphs, radical, stroke count and structure
-- Bilingual example sentences (Chinese example + Vietnamese translation), generated per entry and grammar-checked
+- Bilingual example sentences (Chinese example + Vietnamese translation), generated per entry and grammar-checked; every word in an example is tappable for its lookup
+- Built-in search history and translation history — tap to look up again or restore
 
 **AI translation**
 

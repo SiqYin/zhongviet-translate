@@ -37,9 +37,12 @@ Người Việt nói `gà`, nhưng chữ「雞」vay sang tiếng Việt đọc 
 **Tra từ**
 
 - Tiếng Trung (giản thể hoặc phồn thể) → từ Việt thực dùng, pinyin, chú âm, phồn thể, âm Hán Việt và hệ từ
-- Tiếng Việt (bỏ dấu vẫn tra được) → các từ Hán tương ứng, xếp theo mức độ khớp nghĩa; khi bỏ dấu, kết quả được nhóm theo âm tiết khả dĩ (gõ `viet` sẽ ra riêng `viết`, `việt`…)
+- Tiếng Việt (bỏ dấu vẫn tra được) → từ Hán tương ứng: mọi từ Việt trong kho đều có mục từ riêng,
+  cho bản dịch Hán sát nghĩa nhất (kèm pinyin) và các cụm từ chứa từ đó (`gà` → 鸡；`gà trống` → 公鸡；`gà con` → 小鸡),
+  không ghép chữ Hán cưỡng bức; khi bỏ dấu, kết quả được nhóm theo âm tiết khả dĩ (gõ `viet` sẽ ra riêng `viết`, `việt`…)
 - Chữ đơn kèm chữ Nôm, bộ thủ, số nét, cấu tạo chữ
-- Kèm ví dụ song ngữ (câu tiếng Trung + bản dịch tiếng Việt), tạo từng mục và được rà lỗi câu
+- Kèm ví dụ song ngữ (câu tiếng Trung + bản dịch tiếng Việt), tạo từng mục và được rà lỗi câu; mọi từ trong ví dụ đều chạm để tra được
+- Có lịch sử tra từ và lịch sử dịch, chạm để tra lại / phục hồi
 
 **Dịch AI**
 
