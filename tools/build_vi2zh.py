@@ -94,8 +94,8 @@ def main():
             if phrase in cache:
                 ai = [z for z in cache[phrase] if z in d]
                 if ai:
-                    rest = [c[0] for c in sorted(cands, key=lambda c: c[2]) if c[0] not in ai]
-                    order = (ai + rest)[:4]
+                    # AI 精排結果即最終名單（AI 已把明顯不對的候選去掉），不回填
+                    order = ai[:4]
                     ai_used += 1
                 else:
                     order = heur_rank(cands)[:4]     # AI 判定候選全垃圾：啟發式兜底
