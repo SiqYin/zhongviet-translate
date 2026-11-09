@@ -13,3 +13,12 @@ apk_artifact.zip
 *.zip
 out*/
 __pycache__/
+
+# 生成过程缓存（可重跑，不入库）
+data/vi_gloss_cache*.jsonl
+data/ai_vi2zh_cache.jsonl
+data/ex_new_*.jsonl
+data/ex_judge.jsonl
+data/zhvi_before_func.js
+data/*_sample.txt
+data/zhvi_src_before.json
